@@ -8,6 +8,14 @@ If I receive enough support to perform this work as a full time pursuit, all of 
 
 Development is proceeding rapidly. The first batch of publications will be made available on or before August 1, 2024.
 
+## Support This Work
+
+This work needs your support! Donations and subscriptions of all sizes are greatly appreciated.
+
+**[Patreon](https://patreon.com/OperationLazarus?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)**
+
+**[Twitter](https://x.com/FreemanWriting)**
+
 ## Published Titles
 
 Hermes Trismegistus - The Divine Pymander of Hermes Mercurius, Trismegistus: 2023 Modernized
