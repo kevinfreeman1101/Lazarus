@@ -8,6 +8,10 @@ If I receive enough support to perform this work as a full time pursuit, all of 
 
 Development is proceeding rapidly. The first batch of publications will be made available on or before August 1, 2024.
 
+## Published Titles
+
+Hermes Trismegistus - The Divine Pymander of Hermes Mercurius, Trismegistus: 2023 Modernized
+
 ## Titles in Current Batch
 
 G.R.S. Mead - Apollonius of Tyana
