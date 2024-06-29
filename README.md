@@ -1,12 +1,10 @@
-# Lazarus
+# Operation Lazarus
 
-Wecome to Operation Lazarus. This library is dedicated to producing freely-available modernized versions of antiquated and ancient texts. Texts to be included span the full and entire range of written work from historians, philosophers, religious leaders, and scientists spanning all of human history.
+Operation Lazarus is a digital library of modernized, summarized, and expanded versions of antiquated and ancient texts. As the work moves forward, our catalog will include the full range of freely available written work from historians, philosophers, religious leaders, and scientists spanning all of human history.
 
-Using a free and open source format, all modernized texts will be offered to the public without cost. Enriched texts with added graphics, historical context, commentary, and analysis will also be available for a nominal fee.
+In accordance with the open source philosophy, all modernized base texts will be made available to the public for free. Additional file formats and expanded texts with added graphics, historical context, commentary, and analysis - along with audiobooks, merch, and additional benefits - will also be available to Patreon sponsors.
 
-If I receive enough support to perform this work as a full time pursuit, all of it will be made available for free. Support links in profile include Venmo, Bitcoin, and Etherium- more support options will be coming soon.
-
-Development is proceeding rapidly. The first batch of publications will be made available on or before August 1, 2024.
+Development is proceeding rapidly. The first batch of publications will be made available on or before August 1, 2024
 
 ## Support This Work
 
