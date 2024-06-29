@@ -10,7 +10,7 @@ Development is proceeding rapidly. The first batch of publications will be made 
 
 This work needs your support! Donations and subscriptions of all sizes are greatly appreciated.
 
-**[Patreon](patreon.com/OperationLazarus)**
+**[Patreon](https://www.patreon.com/OperationLazarus)**
 
 **[Twitter](https://x.com/FreemanWriting)**
 
