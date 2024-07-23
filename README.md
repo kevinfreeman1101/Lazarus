@@ -12,7 +12,7 @@ This work needs your support! Donations and subscriptions of all sizes are great
 
 **[Patreon](https://www.patreon.com/OperationLazarus)**
 
-**[Twitter](https://x.com/FreemanWriting/status/1808994818586005798)**
+**[X](https://x.com/FreemanWriting/status/1808994818586005798)**
 
 ## Modernized Texts
 
