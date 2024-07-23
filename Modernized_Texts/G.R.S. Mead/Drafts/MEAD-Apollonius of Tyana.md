@@ -6,6 +6,10 @@ by George Robert Stowe Mead
 
 Published by Theosophical Publishing Society.London and Benares.[1901]
 
+## STATUS
+
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
+
 ## CONTENTS
 
 ---
