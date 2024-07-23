@@ -1,8 +1,20 @@
-**The Hymns of Hermes: Echoes from the Gnosis**
+# The Hymns of Hermes: Echoes from the Gnosis
 
 by G. R. S. Mead
 
-**The Service of Song**
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
+
+## STATUS
+
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
+
+**Begin Text**
+
+## CONTENTS
+
+---
+
+## The Service of Song
 
 Clement of Alexandria tells us that the entire religious philosophy of the Egyptian priesthood, including their wisdom, discipline, and various arts and sciences, was contained in the Books of Hermes (Thoth). These Books were categorized into forty-two sections and grouped according to the different divisions of the priests.
 

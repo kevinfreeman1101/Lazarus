@@ -4,11 +4,15 @@ The Philosopher-Reformer of the First Century A.D.: A Critical Study of His Life
 
 by George Robert Stowe Mead
 
-Published by Theosophical Publishing Society.London and Benares.[1901]
+1901: Published by Theosophical Publishing Society.London and Benares.
+
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
 
 ## STATUS
 
 Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
+
+**Begin Text**
 
 ## CONTENTS
 

@@ -1,15 +1,27 @@
-**Pistis Sophia**
+# Pistis Sophia
 
 **A Gnostic Collection: Mostly Extracts from the Books of the Saviour, with Additional Selections from Related Literature**
 
-Translated by G. R. S. Mead  
-London: J. M. Watkins  
-[1921]
+1921: Translated by G. R. S. Mead, London: J. M. Watkins  
+
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
+
+## STATUS
+
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
+
+**Begin Text**
+
+## CONTENTS
+
+---
 
 **Biographical Information:**  
 G. R. S. (George Robert Stow) Mead [1863-1933]
 
-Scanned, proofread, and formatted at sacred-texts.com in June 2005 by John Bruno Hare. This text is in the public domain in the United States because it was published before 1923.## CONTENTS
+## STATUS
+
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
 
 ### PAGE
 

@@ -1,22 +1,34 @@
-**Thrice-Greatest Hermes**
+# Thrice-Greatest Hermes
 
-**Studies in Hellenistic Theosophy and Gnosis**
+Studies in Hellenistic Theosophy and Gnosis
 
-**Translation of Surviving Sermons and Fragments of Trismegistic Literature, with Introductions, Commentaries, and Notes**
+Translation of Surviving Sermons and Fragments of Trismegistic Literature, with Introductions, Commentaries, and Notes
 
-**By G. R. S. Mead**
+By G. R. S. Mead
 
-**Volume I—Introduction**
+Volume I—Introduction
 
-**London and Benares**
+London and Benares
 
-**The Theosophical Publishing Society**
+The Theosophical Publishing Society
 
-**1906**
+1906
 
-**Prepared for sacred-texts.com, January 2009. This text is in the public domain because it was published before 1922.**
+Prepared for sacred-texts.com, January 2009. This text is in the public domain because it was published before 1922.
 
-**Preface**
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
+
+## STATUS
+
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
+
+**Begin Text**
+
+## CONTENTS
+
+---
+
+## Preface
 
 These volumes, complete as a series of studies in a specific tradition, aim to contribute to understanding the complex problems involved in the scientific study of the Origins of the Christian Faith. Essentially, they serve as preparatory material for examining the historical, mythical, and mystical origins of Christianity. Here, "mythical" refers to the inner, symbolic, sacred aspects, as opposed to the physical events known as "historical," and "mystical" pertains to initiation and mysteries.
 
@@ -34,11 +46,9 @@ Pat. = Patrizzi (F.), Nova de Universis Philosophia (Venice, 1593).
 P. S. A. = "The Perfect Sermon, or Asclepius."
 R. = Reitzenstein (R.), Poimandres: Studien zur griechisch-ägyptischen und frühchristlichen Literatur (Leipzig, 1904).### Richter (M. C. E.), Philonis Judaei Opera Omnia, in Bibliotheca Sacra Patrum Ecclesiae Graecorum (Leipzig, 1828-1830), 8 volumes. S. I. H. = "The Sermon of Isis to Horus." W. = Wachsmuth (C.), Io. Stob. Anthologii Lib. Duo Priores . . . Ec. Phys. et Ethic. (Berlin, 1884), 2 volumes. G. R. S. M.
 
-**Chelsea, 1906. Thrice-Greatest Hermes, Vol. 1, by G.R.S. Mead, [1906], at sacred-texts.com**
+### Contents
 
 ---
-
-### Contents
 
 **Preface**
 

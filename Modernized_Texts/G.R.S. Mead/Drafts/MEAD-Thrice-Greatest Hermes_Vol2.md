@@ -1,24 +1,29 @@
-## Thrice-Greatest Hermes, Volume 2
-### Studies in Hellenistic Theosophy and Gnosis
+# Thrice-Greatest Hermes, Volume 2: Sermons
 
-**Translated Sermons and Fragments of Trismegistic Literature with Introductions, Commentaries, and Notes**
+**Studies in Hellenistic Theosophy and Gnosis**
 
-**By G. R. S. Mead**
+Translated Sermons and Fragments of Trismegistic Literature with Introductions, Commentaries, Notes
 
-**Volume II: Sermons**
+By G. R. S. Mead
 
-**Published by The Theosophical Publishing Society in London and Benares, 1906**
+1906: Published by The Theosophical Publishing Society in London and Benares
 
-**Prepared for sacred-texts.com in February 2009. This text is in the public domain because it was published before 1922.**
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
 
-### Contents
+## STATUS
 
-#### I. Corpus Hermeticum
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
 
-**Corp. Herm. I: Poemandres, The Shepherd of Men** 
+**Begin Text**
+
+## CONTENTS
+
+**Corp. Herm. I: Poemandres, The Shepherd of Men**
+
 - Pages 3-20
 
 **Commentary:**
+
 - Vision and Revelation - Page 20
 - The Great and Little Man - Page 23
 - The Presence - Page 24
@@ -331,19 +336,15 @@
 
 #### The Last Hope of the Religion of the Mind
 
----
+## Corpus Hermeticum I: Poemandres, the Shepherd of Men
 
-### Thrice-Greatest Hermes, Volume 2, by G.R.S. Mead, [1906], at sacred-texts.com
+Once, when my mind was contemplating existence, my thoughts soared high while my physical senses were subdued, akin to the state of deep sleep after a meal or physical exhaustion. A being of immense size and beyond comprehension called my name and asked: "What do you wish to hear and see, and what do you seek to learn and understand?"
 
-#### Corpus Hermeticum I: Poemandres, the Shepherd of Men
+I responded: "Who are you?" He replied: "I am the Shepherd of Men, the Mind of all masterhood; I know your desires and I am always with you."
 
-1. Once, when my mind was contemplating existence, my thoughts soared high while my physical senses were subdued, akin to the state of deep sleep after a meal or physical exhaustion. A being of immense size and beyond comprehension called my name and asked: "What do you wish to hear and see, and what do you seek to learn and understand?"
+I said: "I want to learn about existence, understand its nature, and know God. This is what I wish to hear." He answered: "Keep in mind all you wish to know, and I will teach you."
 
-2. I responded: "Who are you?" He replied: "I am the Shepherd of Men, the Mind of all masterhood; I know your desires and I am always with you."
-
-3. I said: "I want to learn about existence, understand its nature, and know God. This is what I wish to hear." He answered: "Keep in mind all you wish to know, and I will teach you."
-
-4. As he spoke, his appearance changed, and in an instant, everything was revealed to me. I saw a limitless vision, everything transformed into a sweet, joyous light. I was entranced as I watched. Soon, darkness began to descend on part of it, terrifying and gloomy, twisting like a snake.Then the Darkness transformed into a kind of Moist Nature, chaotic and indescribable, emitting smoke like a fire and producing an eerie, indescribable sound. After that, an inarticulate cry emerged from it, as if it were the Voice of Fire. 
+As he spoke, his appearance changed, and in an instant, everything was revealed to me. I saw a limitless vision, everything transformed into a sweet, joyous light. I was entranced as I watched. Soon, darkness began to descend on part of it, terrifying and gloomy, twisting like a snake.Then the Darkness transformed into a kind of Moist Nature, chaotic and indescribable, emitting smoke like a fire and producing an eerie, indescribable sound. After that, an inarticulate cry emerged from it, as if it were the Voice of Fire.
 
 From the Light, a Holy Word (Logos) descended upon that Nature. Then, pure Fire leaped upwards from the Moist Nature; it was light, swift, and active. The light Air followed the Fire; rising from the Earth-and-Water towards the Fire, it seemed to hang from it. However, Earth and Water remained so mixed that they were indistinguishable from each other. Yet, they moved because of the Spirit-Word (Logos) within them.
 
@@ -395,7 +396,7 @@ When He said this, His Forethought, through Fate and Harmony, arranged their cou
 
 stays in darkness, wandering and suffering through his senses, experiencing things of death. 
 
-20. What is the great mistake, I asked, that the ignorant commit which causes them to be deprived of immortality? 
+1.  What is the great mistake, I asked, that the ignorant commit which causes them to be deprived of immortality? 
 
 You seem, he said, not to have paid attention to what you heard. Did I not tell you to think? 
 

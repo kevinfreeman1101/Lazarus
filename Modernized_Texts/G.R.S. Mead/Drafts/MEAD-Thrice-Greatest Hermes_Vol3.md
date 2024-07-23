@@ -1,4 +1,4 @@
-**Thrice-Greatest Hermes**
+# Thrice-Greatest Hermes Volume 3: Excerpts and Fragments
 
 **Studies in Hellenistic Theosophy and Gnosis**
 
@@ -8,15 +8,18 @@ By
 
 G. R. S. Mead
 
-Volume III -- Excerpts and Fragments
+1906: Published by The Theosophical Publishing Society, London and Benares
 
-London and Benares
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
 
-The Theosophical Publishing Society
+## STATUS
 
-[1906]
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
 
-Prepared for sacred-texts.com, February 2009. This text is in the public domain because it was published before 1922.
+**Begin Text**
+
+## CONTENTS
+
 
 **Contents**
 

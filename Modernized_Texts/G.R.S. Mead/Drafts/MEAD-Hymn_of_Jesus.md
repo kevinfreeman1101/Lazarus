@@ -1,4 +1,18 @@
-**The Hymn of Jesus: Introduction**
+# The Hymn of Jesus
+
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
+
+## STATUS
+
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
+
+**Begin Text**
+
+## CONTENTS
+
+---
+
+## Introduction
 
 Before the canonical Gospels were established, many other accounts of Jesus' sayings and actions existed. Similarly, before the official Acts were chosen, there were numerous other narratives claiming to record the deeds and words of Jesus' Apostles and Disciples. Many of these originated in groups later deemed heretical, and were often edited by orthodox editors to fit their doctrinal views, thus preserving them for the broader Church.
 

@@ -1,11 +1,22 @@
-The Gnosis of the Mind by G.R.S. Mead
-Updated to modern English by Kevin L. Freeman
+# The Gnosis of the Mind by G.R.S. Mead
+
+2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
+
+## STATUS
+
+Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
+
+**Begin Text**
+
+## CONTENTS
+
+---
 
 For a long time, I've spent much of my time immersed in a world of profound thought and pure emotion, created by the devotion and intelligence of an ancient theosophical fraternity. These individuals, who called themselves disciples of thrice-great Hermes, sometimes referred to their faith as the "religion of the mind." They existed before and during the early centuries of Christianity, living in Egypt. Recent efforts have made their scriptures and endeavors accessible in English, allowing me to reproduce and interpret their thoughts. After many months of work, the task is complete, and the teachings of thrice-great Hermes can now be heard more clearly in English than ever before.
 
 The Gnosis of Hermes, praised by Zosimus as "ten thousand times great," is founded on the singular love of God. It aims to base itself on true philosophy and pure science concerning nature and humanity, making it one of the finest forms of ancient Gnosis. It is rich with wisdom (theosophia) and worship (theosibia), forming a harmonious religion of the mind. It begins with true devotion, piety, and worship, grounded in the proper activity and passivity of the mind, and leads to the Gnosis of reality and the path of goodness that guides man to God.
 
-Am I overstating the importance of the Gnosis of thrice-great Hermes? I am merely echoing his teachings, as expressed by his disciples, translated into English. The claim is for the Gnosis itself, not the specific forms used by its followers. 
+Am I overstating the importance of the Gnosis of thrice-great Hermes? I am merely echoing his teachings, as expressed by his disciples, translated into English. The claim is for the Gnosis itself, not the specific forms used by its followers.
 
 All these forms of expression, including the many sermons or sacred discourses of the followers of this path, are merely tools to guide people towards Gnosis. They are not Gnosis itself. It's true that much of what is written is beautifully expressed, and I have enjoyed many thoughts and phrases handed down to us by these anonymous writers and thinkers from long ago, in the elegant Greek language. However, all this is like a garment that hides the natural beauty and truth. What's important is that all these theosophists of the Trismegistic tradition unanimously declare, with a convincing inner voice, that there is Gnosis and certainty, full and inexhaustible, regardless of how the doubting mind and false appearances might distract us.
 
