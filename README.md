@@ -14,30 +14,6 @@ This work needs your support! Donations and subscriptions of all sizes are great
 
 **[X](https://x.com/FreemanWriting/status/1808994818586005798)**
 
-## Modernized Texts
-
-Hermes Trismegistus - The Divine Pymander of Hermes Mercurius, Trismegistus: 2023 Modernized
-
-## Titles in Current Batch
-
-G.R.S. Mead - Apollonius of Tyana
-
-G.R.S. Mead - Fragments of a Faith Forgotten
-
-G.R.S. Mead - Gnosis of the Mind
-
-G.R.S. Mead - Hymn of Jesus
-
-G.R.S. Mead - Hymns of Hermes
-
-G.R.S. Mead - Pistis Sophia
-
-G.R.S. Mead - Thrice Greatest Hermes, Vol. 1
-
-G.R.S. Mead - Thrice Greatest Hermes, Vol. 2
-
-G.R.S. Mead - Thrice Greatest Hermes, Vol. 3
-
 ## Planned Titles
 
 (in no particular order)
