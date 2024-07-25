@@ -312,7 +312,7 @@ Flavius Philostratus, the author of the only surviving biography of Apollonius, 
 
 Thus, the skeptical Gibbon, in describing Severus and his renowned wife, writes:
 
-"Like many Africans, Severus was deeply interested in magic and divination, skilled in interpreting dreams and omens, and well-versed in the science of astrology, which has influenced human minds throughout history, except in modern times. He lost his first wife while governing Lionnese Gaul. When choosing a second wife, he aimed to connect with someone favored by fortune. Upon learning that a young woman from Emesa in Syria had a royal horoscope, he sought and married her. Julia Domna (as she was called) lived up to all the promises of the stars. Even in her later years, she retained her beauty and combined a vivid imagination with a strong mind and sound judgment, qualities rare in her time. Despite her admirable traits, she never significantly impacted her husband's dark and jealous nature. However, during her son's reign, she managed the Empire's main affairs with prudence, supporting his authority and sometimes moderating his excesses. Julia also devoted herself to literature and philosophy with notable success and great reputation. She was a patron of the arts and a friend to every talented person."
+> Like many Africans, Severus was deeply interested in magic and divination, skilled in interpreting dreams and omens, and well-versed in the science of astrology, which has influenced human minds throughout history, except in modern times. He lost his first wife while governing Lionnese Gaul. When choosing a second wife, he aimed to connect with someone favored by fortune. Upon learning that a young woman from Emesa in Syria had a royal horoscope, he sought and married her. Julia Domna (as she was called) lived up to all the promises of the stars. Even in her later years, she retained her beauty and combined a vivid imagination with a strong mind and sound judgment, qualities rare in her time. Despite her admirable traits, she never significantly impacted her husband's dark and jealous nature. However, during her son's reign, she managed the Empire's main affairs with prudence, supporting his authority and sometimes moderating his excesses. Julia also devoted herself to literature and philosophy with notable success and great reputation. She was a patron of the arts and a friend to every talented person.
 
 From Gibbon's somewhat reluctant praise, we see that Julia Domna was a woman of exceptional character, whose public actions suggest a deeper purpose, and whose private life remains unwritten. At her request, Philostratus wrote the Life of Apollonius, and she provided him with certain manuscripts. The beautiful daughter of Bassianus, the priest of the sun at Emesa, was an avid collector of books from around the world, especially manuscripts of philosophers, and notes and biographies of famous scholars.
 
@@ -320,7 +320,7 @@ It is uncertain if Philostratus was the best choice for such an important task. 
 
 Here is Philostratus' account of his sources about Apollonius:
 
-"I gathered my information from the cities that loved him, the temples whose rituals and regulations he restored, what others have said about him, and his own letters. More detailed information came from Damis, an educated man from the ancient city of Ninus. He became a disciple of Apollonius and recorded his travels, in which he participated, along with Apollonius' views, sayings, and predictions. A member of Damis' family brought these previously unknown note-books to Empress Julia. As a member of the princess's circle, who loved and supported all literary works, she asked me to rewrite and improve these sketches. Although the Ninevite was clear, his style was not perfect. I also accessed a book by Maximus of Aegae, which documented all of Apollonius' activities in Aegae."
+> I gathered my information from the cities that loved him, the temples whose rituals and regulations he restored, what others have said about him, and his own letters. More detailed information came from Damis, an educated man from the ancient city of Ninus. He became a disciple of Apollonius and recorded his travels, in which he participated, along with Apollonius' views, sayings, and predictions. A member of Damis' family brought these previously unknown note-books to Empress Julia. As a member of the princess's circle, who loved and supported all literary works, she asked me to rewrite and improve these sketches. Although the Ninevite was clear, his style was not perfect. I also accessed a book by Maximus of Aegae, which documented all of Apollonius' activities in Aegae.
 
 Additionally, there is a will by Apollonius that shows how he almost turned philosophy into a form of worship. Moeragenes' four books on Apollonius are not worth attention, as he knew little about his life.
 
@@ -454,15 +454,15 @@ This is the general outline of the life of Apollonius. Even a casual reader of P
 
 ### Section 8 Footnotes
 
-^74:* Refer to iii. 15, 41; v. 5, 10; vii. 10, 13; viii. 28. ^74:+ ekfatnismata. ^74:++ Refer to vii. 13, 14, 15, 22, 31.
+74:* Refer to iii. 15, 41; v. 5, 10; vii. 10, 13; viii. 28. ^74:+ ekfatnismata. ^74:++ Refer to vii. 13, 14, 15, 22, 31.
 
-^75:* The list has many gaps, suggesting that Damis' notes were not complete records of the numerous journeys. It also appears that entire trips, in which Damis was not involved, might have been omitted.
+75:* The list has many gaps, suggesting that Damis' notes were not complete records of the numerous journeys. It also appears that entire trips, in which Damis was not involved, might have been omitted.
 
-^76:* Here, they saw the giant mountains, the Imaus (Himavat) or Himalayan Range, where the great mountain Meros (Meru) is located. The Greek translation of the Hindu Olympus to Meros led to the myth that Bacchus was born from the thigh (meros) of Zeus—one of the reasons Professor Max Muller called mythology a "disease of language"
+76:* Here, they saw the giant mountains, the Imaus (Himavat) or Himalayan Range, where the great mountain Meros (Meru) is located. The Greek translation of the Hindu Olympus to Meros led to the myth that Bacchus was born from the thigh (meros) of Zeus—one of the reasons Professor Max Muller called mythology a "disease of language"
 
-^77:* Referring to his teachers, he says, "I always remember my masters and travel the world teaching what I learned from them" (vi. 18).
+77:* Referring to his teachers, he says, "I always remember my masters and travel the world teaching what I learned from them" (vi. 18).
 
-^78:* According to some, Apollonius would be about sixty-eight years old. However, if he was around thirty when he left for India, he either spent a very long time there, or we have an incomplete record of his activities in Asia Minor, Greece, Italy, and Spain after his return.
+78:* According to some, Apollonius would be about sixty-eight years old. However, if he was around thirty when he left for India, he either spent a very long time there, or we have an incomplete record of his activities in Asia Minor, Greece, Italy, and Spain after his return.
 
 ## Section 9: In the Temples and Retreats of Religion
 
