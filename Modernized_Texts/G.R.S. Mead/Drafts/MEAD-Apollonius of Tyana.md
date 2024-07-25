@@ -715,6 +715,7 @@ Another example is his witty and wise rebuke to a wealthy young man. "Young man,
 On more serious occasions, like when Vespasian earnestly asked him, "Teach me what a good king should do," Apollonius is said to have replied with something like this:
 
 > You ask something that can't be taught. Kingship is the greatest thing a mortal can achieve; it can't be taught. But I will tell you what to do to be a good king. Don't value wealth that is hoarded—how is that better than sand randomly piled up? Nor wealth that comes from heavily taxing people—gold acquired through suffering is vile. You'll use wealth best if you meet the needs of the poor and protect the wealth of those who have much. Be wary of the power to do whatever you want, and you'll use it more wisely.
+
 > Don't cut off the ears of corn that stand out taller than the others—Aristotle's advice here isn't fair. Instead, remove the discontent like weeds from the corn, and make it clear to troublemakers that you are a force to be reckoned with—not by saying "I will punish you," but by implying "I will do so." Follow the law, O prince, because you will create better laws if you respect the law yourself. Honor the Gods even more; you have received great gifts from them and pray for great things. Act like a king in matters of the state, but in personal matters, behave like an ordinary person.
 
 The passage continues with similar advice, demonstrating a deep understanding of human nature. If we think this is just a rhetorical exercise by Philostratus and not based on what Apollonius actually said, we must hold a higher opinion of the rhetorician than his other works suggest.
@@ -759,13 +760,13 @@ Apollonius expressed this in half as many words in Greek. Here is an exchange of
 
 > Apollonius to Musonius, the philosopher, greetings! I want to visit you, share conversation and shelter, and offer help. If you still believe that Hercules once rescued Theseus from Hades, let me know what you need.
 > Farewell!
-> .
+
 > Musonius to Apollonius, the philosopher, greetings! Your good intentions will be rewarded. As for me, I await trial and hope to prove my innocence.
 > Farewell.
-> .
+
 > Apollonius to Musonius, greetings! Socrates refused to escape from prison and faced his judges. He was executed.
 > Farewell.
-> .
+
 > Musonius to Apollonius, the philosopher, greetings! Socrates was executed because he didn't prepare a defense. I will, though.
 > Farewell!
 
@@ -808,7 +809,7 @@ Besides his letters, Apollonius wrote several treatises, though only a few fragm
 
 a. The Mystic Rites or Concerning Sacrifices. Philostratus mentions this work, noting that it detailed the proper methods for sacrifices to each god, the appropriate times for prayer, and offerings. It was widely circulated, with copies found in many temples, cities, and philosophers' libraries. Several fragments remain, the most significant of which is found in Eusebius. It states: "It is best not to make any sacrifice to God, not to light a fire, or to call Him by any name used for earthly things. For God is above all, the first; the other gods come after Him. He needs nothing from the gods, and even less from us humans—nothing from the earth, from life, or from the air. The only fitting sacrifice to God is our best reason, not words from our mouths. We should ask the best being for what is good through our minds, which need no material things to pray. Therefore, no sacrifice should be lit for the mighty One above all." Scholars agree this fragment is genuine. This book was respected and widely circulated, with its rules engraved on bronze pillars in Byzantium.
 
-b. The Oracles or Concerning Divination, 4 books. Philostratus mentions this work as well.41) believes the full title was "Divination of the Stars" and says it was based on what Apollonius had learned in India. However, the type of divination Apollonius wrote about was not ordinary astrology but something Philostratus considers superior to typical human methods. No one has ever been known to possess a copy of this rare work.
+b. The Oracles or Concerning Divination, 4 books. Philostratus mentions this work as well. 41) believes the full title was "Divination of the Stars" and says it was based on what Apollonius had learned in India. However, the type of divination Apollonius wrote about was not ordinary astrology but something Philostratus considers superior to typical human methods. No one has ever been known to possess a copy of this rare work.
 
 c. "The Life of Pythagoras." Porphyry mentions this work, and Iamblichus quotes a long passage from it.
 
