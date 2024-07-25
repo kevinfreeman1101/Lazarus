@@ -492,7 +492,7 @@ Damis' story mainly focuses on the psychic and spiritual knowledge of the sages.
 
 We can get an idea of Apollonius' visit from this mysterious letter he sent to his hosts:
 
-^"I came to you by land and you have given me the sea; rather, by sharing your wisdom with me, you have given me the power to travel through heaven. I will remind the Greeks of these things and speak to you as if you were here, assuming I have not learned in vain."
+> "I came to you by land and you have given me the sea; rather, by sharing your wisdom with me, you have given me the power to travel through heaven. I will remind the Greeks of these things and speak to you as if you were here, assuming I have not learned in vain."
 
 It is clear from these cryptic sentences that the "sea" and the "cup of Tantalus" symbolize the "wisdom" given to Apollonius—wisdom he was to bring back to the Greeks. He indicates that he returned from India with a clear mission and the means to achieve it. Not only had he absorbed the wisdom of the Brahma-vidya, but he also learned how to communicate with them while being in Greece, even though they were in India.
 
@@ -636,9 +636,9 @@ Because of this, his followers saw Pythagoras as an inspired teacher and accepte
 
 However, Apollonius, in his speech to the Gymnosophists, claimed that Pythagoras did not create this wisdom; it was ancient and Pythagoras had learned it from the Indians. This wisdom spoke to him in his youth, saying:
 
-^Young man, I offer no pleasures for the senses; my path is filled with hardships. To follow my way of life, you must give up all food that was once alive, forget about wine, and keep your soul pure. You will not wear wool or anything made from animals. My followers wear simple shoes and sleep as they can. If they succumb to physical pleasures, I have punishments ready, for I am strict with those who choose my path. I even impose silence.
+> Young man, I offer no pleasures for the senses; my path is filled with hardships. To follow my way of life, you must give up all food that was once alive, forget about wine, and keep your soul pure. You will not wear wool or anything made from animals. My followers wear simple shoes and sleep as they can. If they succumb to physical pleasures, I have punishments ready, for I am strict with those who choose my path. I even impose silence.
 
-^But if you endure, you will gain a sense of what is right and fair, and never feel anyone else's life is better than yours. You will make tyrants fear you instead of being afraid of them. The gods will bless your modest offerings more than the sacrifices of others. If you remain pure, I will grant you the ability to foresee events and fill your eyes with light so you can recognize the gods, identify heroes, and see through deceptive appearances.
+> But if you endure, you will gain a sense of what is right and fair, and never feel anyone else's life is better than yours. You will make tyrants fear you instead of being afraid of them. The gods will bless your modest offerings more than the sacrifices of others. If you remain pure, I will grant you the ability to foresee events and fill your eyes with light so you can recognize the gods, identify heroes, and see through deceptive appearances.
 
 The entire life of Apollonius illustrates his consistent effort to follow a rule of life that avoided blood sacrifices, which he openly condemned. This stance shows that the Pythagorean school promoted purer offerings and were seen as particularly holy, living a life superior to that of ordinary people.
 
@@ -652,7 +652,7 @@ In his "Early Life," Apollonius divided his day and allocated time for different
 
 When put on trial, Apollonius made no preparations for his defense. He lived each day ready for death and chose to face it in the name of philosophy (viii. 30).In response to his old friend's repeated requests to prepare his defense, he said:
 
-^Damis, you seem to lose your senses in the face of death, even though you have been with me for so long and know that I have loved philosophy since my youth. I thought you were both ready for death and aware of my approach to it. Just as soldiers need not only courage but also strategy to know when to fight, those who love wisdom must carefully choose the right time to die, so they are not caught unprepared. I have chosen the best moment to face death, if anyone wishes to kill me, and I have demonstrated this to other friends in your presence, never ceasing to teach you this alone. (vii. 31).
+> Damis, you seem to lose your senses in the face of death, even though you have been with me for so long and know that I have loved philosophy since my youth. I thought you were both ready for death and aware of my approach to it. Just as soldiers need not only courage but also strategy to know when to fight, those who love wisdom must carefully choose the right time to die, so they are not caught unprepared. I have chosen the best moment to face death, if anyone wishes to kill me, and I have demonstrated this to other friends in your presence, never ceasing to teach you this alone. (vii. 31).
 
 These are some examples of how our philosopher lived, fearing nothing but disloyalty to his ideals. Now, we will mention some of his personal traits and the names of his followers.
 
@@ -714,15 +714,14 @@ Another example is his witty and wise rebuke to a wealthy young man. "Young man,
 
 On more serious occasions, like when Vespasian earnestly asked him, "Teach me what a good king should do," Apollonius is said to have replied with something like this:
 
-^You ask something that can't be taught. Kingship is the greatest thing a mortal can achieve; it can't be taught. But I will tell you what to do to be a good king. Don't value wealth that is hoarded—how is that better than sand randomly piled up? Nor wealth that comes from heavily taxing people—gold acquired through suffering is vile. You'll use wealth best if you meet the needs of the poor and protect the wealth of those who have much. Be wary of the power to do whatever you want, and you'll use it more wisely.
-
-^Don't cut off the ears of corn that stand out taller than the others—Aristotle's advice here isn't fair. Instead, remove the discontent like weeds from the corn, and make it clear to troublemakers that you are a force to be reckoned with—not by saying "I will punish you," but by implying "I will do so." Follow the law, O prince, because you will create better laws if you respect the law yourself. Honor the Gods even more; you have received great gifts from them and pray for great things. Act like a king in matters of the state, but in personal matters, behave like an ordinary person.
+> You ask something that can't be taught. Kingship is the greatest thing a mortal can achieve; it can't be taught. But I will tell you what to do to be a good king. Don't value wealth that is hoarded—how is that better than sand randomly piled up? Nor wealth that comes from heavily taxing people—gold acquired through suffering is vile. You'll use wealth best if you meet the needs of the poor and protect the wealth of those who have much. Be wary of the power to do whatever you want, and you'll use it more wisely.
+> Don't cut off the ears of corn that stand out taller than the others—Aristotle's advice here isn't fair. Instead, remove the discontent like weeds from the corn, and make it clear to troublemakers that you are a force to be reckoned with—not by saying "I will punish you," but by implying "I will do so." Follow the law, O prince, because you will create better laws if you respect the law yourself. Honor the Gods even more; you have received great gifts from them and pray for great things. Act like a king in matters of the state, but in personal matters, behave like an ordinary person.
 
 The passage continues with similar advice, demonstrating a deep understanding of human nature. If we think this is just a rhetorical exercise by Philostratus and not based on what Apollonius actually said, we must hold a higher opinion of the rhetorician than his other works suggest.
 
 There is an interesting Socratic dialogue between Thespesion, the leader of the Gymnosophist community, and Apollonius about the Greek and Egyptian ways of representing the Gods. It goes somewhat like this:
 
-^"What! Are we to believe," said Thespesion, "that artists like Phidias and Praxiteles went to heaven, observed the forms of the Gods, and then created their art based on that, or was it something else that inspired them?" "Yes, something else," replied Apollonius, "something filled with wisdom." "What was that? Surely, you can't say it was anything other than imitation?" "It was imagination—a craft far wiser than imitation; for imitation only recreates what it has seen, while imagination creates what it has never seen, envisioning it in its true essence."
+> "What! Are we to believe," said Thespesion, "that artists like Phidias and Praxiteles went to heaven, observed the forms of the Gods, and then created their art based on that, or was it something else that inspired them?" "Yes, something else," replied Apollonius, "something filled with wisdom." "What was that? Surely, you can't say it was anything other than imitation?" "It was imagination—a craft far wiser than imitation; for imitation only recreates what it has seen, while imagination creates what it has never seen, envisioning it in its true essence."
 
 According to Apollonius, imagination is one of the most powerful faculties because it allows us to get closer to the truth. It is commonly believed that Greek sculpture was solely a celebration of physical beauty, lacking any spiritual significance. It was seen as an idealization of form, features, limbs, and muscles—an empty praise of the physical without any true basis in reality. However, Apollonius argued that Greek sculpture brings us closer to the truth, as Pythagoras and Plato had also claimed, and as wise people continue to teach. He meant this literally, not in a vague or fanciful way.
 
@@ -744,45 +743,64 @@ Whether the saying "know thyself" originated from Apollo or a sage, I believe a 
 
 ### Section 15 Footnotes
 
-^139:* Refer to Chassang, p. 458, for a critique of this statement.
-^139:+ This was before Vespasian became emperor.
+139:* Refer to Chassang, p. 458, for a critique of this statement.
+
+139:+ This was before Vespasian became emperor.
 
 ## Section 16: From His Letters
 
-Apollonius seems to have written many letters to emperors, kings, philosophers, communities, and states. Although he didn't write extensively, his short notes were very concise, as Philostratus notes, "in the manner of the Lacedaemonian scytale" (iv. 27 and vii. 35). Philostratus had access to letters attributed to Apollonius and quotes many of them, with no reason to doubt their authenticity. He does not specify where he got them, except possibly from a collection made by Hadrian at Antium (viii. 20). To show the style of Apollonius, here are a few examples of his letters, or rather notes, since they are very brief. Here is one to the magistrates of Sparta:
+Apollonius seems to have written many letters to emperors, kings, philosophers, communities, and states. Although he didn't write extensively, his short notes were very concise, as Philostratus notes, "in the manner of the Lacedaemonian scytale" (iv. 27 and vii. 35). Philostratus had access to letters attributed to Apollonius and quotes many of them, with no reason to doubt their authenticity. He does not specify where he got them, except possibly from a collection made by Hadrian at Antium (viii. 20).
 
-"Apollonius to the Ephors, greetings! People can avoid mistakes, but it takes noble men to admit them."
+To show the style of Apollonius, here are a few examples of his letters, or rather notes, since they are very brief. Here is one to the magistrates of Sparta:
+
+> Apollonius to the Ephors, greetings! People can avoid mistakes, but it takes noble men to admit them.
 
 Apollonius expressed this in half as many words in Greek. Here is an exchange of notes between two great philosophers of the time, both of whom were imprisoned and constantly in danger of death:
 
-"Apollonius to Musonius, the philosopher, greetings! I want to visit you, share conversation and shelter, and offer help. If you still believe that Hercules once rescued Theseus from Hades, let me know what you need. Farewell!"
+> Apollonius to Musonius, the philosopher, greetings! I want to visit you, share conversation and shelter, and offer help. If you still believe that Hercules once rescued Theseus from Hades, let me know what you need.
+> Farewell!
+> .
+> Musonius to Apollonius, the philosopher, greetings! Your good intentions will be rewarded. As for me, I await trial and hope to prove my innocence.
+> Farewell.
+> .
+> Apollonius to Musonius, greetings! Socrates refused to escape from prison and faced his judges. He was executed.
+> Farewell.
+> .
+> Musonius to Apollonius, the philosopher, greetings! Socrates was executed because he didn't prepare a defense. I will, though.
+> Farewell!
 
-"Musonius to Apollonius, the philosopher, greetings! Your good intentions will be rewarded. As for me, I await trial and hope to prove my innocence. Farewell."
+Musonius, the Stoic, was sent to hard labor by Nero. Here’s a note to Demetrius, the Cynic, another close friend of our philosopher:
 
-"Apollonius to Musonius, greetings! Socrates refused to escape from prison and faced his judges. He was executed. Farewell."Musonius to Apollonius, the philosopher, greetings! "Socrates was executed because he didn't prepare a defense. I will, though. Farewell!" Musonius, the Stoic, was sent to hard labor by Nero. Here’s a note to Demetrius, the Cynic, another close friend of our philosopher. "Apollonius, the philosopher, to Demetrius, the Dog, greetings! I entrust you to teach Emperor Titus the ways of kingship, and in return, help me speak the truth to him. Be everything to him except angry. Farewell!.
+> Apollonius, the philosopher, to Demetrius, the Dog, greetings! I entrust you to teach Emperor Titus the ways of kingship, and in return, help me speak the truth to him. Be everything to him except angry.
+> Farewell!
+
 Besides the notes quoted by Philostratus, there is a collection of ninety-five letters, mostly brief, in most editions. Nearly all critics believe they aren’t genuine, but Jowett and others think some might be. Here are a few examples. Writing to Euphrates, his great enemy who champions pure rationalistic ethics over sacred science, he says:
 
-1.  "The Persians call those with divine abilities Magi. A Magus is a servant of the gods or someone naturally god-like. You are no Magus; you reject the gods (i.e., you are an atheist)." In a letter to Criton, he writes:
+> The Persians call those with divine abilities Magi. A Magus is a servant of the gods or someone naturally god-like. You are no Magus; you reject the gods (i.e., you are an atheist).
 
-2.  "Pythagoras said the most divine art is healing. If healing is divine, it must care for the soul as well as the body; no being can be healthy if its higher part is ill." Writing to the priests of Delphi against blood sacrifice, he says:
+In a letter to Criton, he writes:
 
-3.  "Heraclitus was wise, but even he never advised the people of Ephesus to clean mud with mud."
+> Pythagoras said the most divine art is healing. If healing is divine, it must care for the soul as well as the body; no being can be healthy if its higher part is ill.
+
+Writing to the priests of Delphi against blood sacrifice, he says:
+
+> Heraclitus was wise, but even he never advised the people of Ephesus to clean mud with mud.
 
 Again, to some who claimed to be his followers, those "who think themselves wise," he writes a reprimand:
 
-43.If anyone claims to be my disciple, they should also say they avoid public baths, do not kill any living being, do not eat meat, and are free from envy, malice, hatred, slander, and hostility. Their name should be listed among those who have achieved freedom.
+> If anyone claims to be my disciple, they should also say they avoid public baths, do not kill any living being, do not eat meat, and are free from envy, malice, hatred, slander, and hostility. Their name should be listed among those who have achieved freedom.
 
 Among these letters is one addressed to Valerius, likely P. Valerius Asiaticus, consul in A.D. 70. This letter offers wise philosophical advice to help Valerius cope with the loss of his son. It reads:
 
-"There is no real death, only the appearance of it, just as there is no true birth, only the semblance of it. What seems like birth is merely a transition from being to becoming, and what appears as death is just a shift from becoming to being. In truth, no one is ever truly born or dies. It's simply a matter of being visible and then invisible; the former due to the density of matter, and the latter due to the subtlety of being—being that remains constant, only changing between motion and rest. This being has the unique quality that its changes are not caused by anything external but involve the whole becoming parts and parts becoming whole within the oneness of everything. If asked what this entity is that sometimes appears and sometimes doesn't, now the same, now different, the answer would be: It is the nature of everything in the world below. When filled with matter, it is visible due to the resistance of its density, but when free from matter, it becomes invisible due to its subtlety, even though matter still surrounds and flows through it in the vastness of space, which knows no birth or death.
-
-But why has this mistaken idea of birth and death persisted so long without being refuted? Some people believe that events happening through them are caused by themselves."They do not understand that an individual is born through parents, not by them, just as something produced from the earth is not created by it. The change that happens to a person is not caused by the visible surroundings but by the essence within each individual. What else can we call this essence but primal being? It alone acts and experiences, becoming everything for everyone, an eternal deity, deprived and altered by names and forms.
-
-It is less serious for a person to be mourned when they have transformed from human to divine, a change of state rather than a destruction of nature. Instead of mourning death, you should honor and respect it. The best way to honor death is to leave the one who has gone to God in peace and continue to lead those who remain under your care. It would be a disgrace for someone like you to rely on time for healing rather than reason, for time eventually makes even ordinary people stop grieving. The greatest achievement is self-control, and the best rulers are those who can first rule themselves.
-
-How can it be acceptable to wish to change what God has willed? If there is a law in things, and it is set by God, a righteous person will not wish to alter good things, as such a wish is selfish and against the law. Instead, they will believe that everything that happens is good. Heal yourself, provide justice to the suffering, and console them; this will help you overcome your sorrow. You should prioritize public duties over personal grief. Remember, the nation mourns with you for your son.Offer some comfort to those who mourn with you; you can do this more effectively by stopping your own tears rather than continuing to cry. Do you not have friends? You still have another child. Do you believe you have lost the one who has passed away? You have not! Anyone who truly thinks will understand. What exists does not cease; it remains because it is eternal. If it did not exist, how could it ever have been?
-
-Moreover, some might say you are being unfaithful to God and unjust. This is true. You are failing in your duty to God and being unfair to your child. By continuing to mourn excessively, you are also being unkind to yourself. Do you want to understand what death is? Consider me dead and send me to join the deceased. If you do not change your current mindset, you will soon find that I am better off than you.Apollonius of Tyana, by G.R.S. Mead, [1901], at sacred-texts.com
+> There is no real death, only the appearance of it, just as there is no true birth, only the semblance of it. What seems like birth is merely a transition from being to becoming, and what appears as death is just a shift from becoming to being. In truth, no one is ever truly born or dies. It's simply a matter of being visible and then invisible; the former due to the density of matter, and the latter due to the subtlety of being—being that remains constant, only changing between motion and rest. This being has the unique quality that its changes are not caused by anything external but involve the whole becoming parts and parts becoming whole within the oneness of everything. If asked what this entity is that sometimes appears and sometimes doesn't, now the same, now different, the answer would be: It is the nature of everything in the world below. When filled with matter, it is visible due to the resistance of its density, but when free from matter, it becomes invisible due to its subtlety, even though matter still surrounds and flows through it in the vastness of space, which knows no birth or death.
+> .
+> But why has this mistaken idea of birth and death persisted so long without being refuted? Some people believe that events happening through them are caused by themselves. They do not understand that an individual is born through parents, not by them, just as something produced from the earth is not created by it. The change that happens to a person is not caused by the visible surroundings but by the essence within each individual. What else can we call this essence but primal being? It alone acts and experiences, becoming everything for everyone, an eternal deity, deprived and altered by names and forms.
+> .
+> It is less serious for a person to be mourned when they have transformed from human to divine, a change of state rather than a destruction of nature. Instead of mourning death, you should honor and respect it. The best way to honor death is to leave the one who has gone to God in peace and continue to lead those who remain under your care. It would be a disgrace for someone like you to rely on time for healing rather than reason, for time eventually makes even ordinary people stop grieving. The greatest achievement is self-control, and the best rulers are those who can first rule themselves.
+> .
+> How can it be acceptable to wish to change what God has willed? If there is a law in things, and it is set by God, a righteous person will not wish to alter good things, as such a wish is selfish and against the law. Instead, they will believe that everything that happens is good. Heal yourself, provide justice to the suffering, and console them; this will help you overcome your sorrow. You should prioritize public duties over personal grief. Remember, the nation mourns with you for your son.Offer some comfort to those who mourn with you; you can do this more effectively by stopping your own tears rather than continuing to cry. Do you not have friends? You still have another child. Do you believe you have lost the one who has passed away? You have not! Anyone who truly thinks will understand. What exists does not cease; it remains because it is eternal. If it did not exist, how could it ever have been?
+> .
+> Moreover, some might say you are being unfaithful to God and unjust. This is true. You are failing in your duty to God and being unfair to your child. By continuing to mourn excessively, you are also being unkind to yourself. Do you want to understand what death is? Consider me dead and send me to join the deceased. If you do not change your current mindset, you will soon find that I am better off than you.
 
 ## Section 17: The Writings of Apollonius
 
