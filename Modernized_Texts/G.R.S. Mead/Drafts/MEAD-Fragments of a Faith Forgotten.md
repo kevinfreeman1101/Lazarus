@@ -761,7 +761,7 @@ When traveling, they stayed with fellow members they had never met before, as if
 
 The Essenes aimed to be humble and gentle, to control all sinful desires, to be pure-hearted, to hate evil but help wrongdoers, and to be merciful to everyone. They valued honesty, saying "yes" when they meant yes, and "no" when they meant no. They were dedicated to healing both body and soul and saw the ability to perform miraculous cures and cast out evil spirits as the highest achievement.
 
-Essentially, they sought to be so pure that they became vessels of the Holy Spirit, thereby becoming seers and prophets. They had inner communities and outer circles of students living in major centers of the Diaspora. Philo noted that the Essenes were focused on practical life, while the Therapeuts were concerned with the contemplative life, dealing with higher religious and philosophical issues, which is where Gnosticism found its best expression.
+Essentially, they sought to be so pure that they became vessels of the Holy Spirit, thereby becoming seers and prophets. They had inner communities and outer circles of students living in major centers of the Diaspora. Philo noted that the Essenes were focused on practical life, while the Therapeuts were concerned with the contemplative life, dealing with higher religious and philosophical issues, which is where Gnosticism found its best expression. 
 
 #### The Tendencies of Gnosticism
 
