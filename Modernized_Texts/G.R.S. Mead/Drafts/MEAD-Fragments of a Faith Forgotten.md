@@ -34,34 +34,34 @@ TODO: Footnote links
     - [The Essenes](#the-essenes)
     - [The Tendencies of Gnosticism](#the-tendencies-of-gnosticism)
     - [The Literature and Sources of Gnosticism](#the-literature-and-sources-of-gnosticism)
-    - [The Gnosis According to its Foes](#the-gnosis-according-to-its-foes)
-    - [Some Gnostic Fragments Recovered from the Polemical Writings of the Church Fathers](#some-gnostic-fragments-recovered-from-the-polemical-writings-of-the-church-fathers)
-      - [The "Simonians"](#the-simonians)
-      - [Dositheus](#dositheus)
-      - [Simon Magus](#simon-magus)
-      - [Menander](#menander)
-      - [Saturninus](#saturninus)
-      - [The Ophites](#the-ophites)
-      - [An Anonymous System From Irenaeus](#an-anonymous-system-from-irenaeus)
-      - [An Early Ophite System](#an-early-ophite-system)
-      - [The Naasseni](#the-naasseni)
-      - [The Peratae](#the-peratae)
-      - [The Sethians](#the-sethians)
-      - [The Docetae](#the-docetae)
-      - [Monoimus](#monoimus)
-      - [The So-Called Cainites](#the-so-called-cainites)
-      - [The Carpocratians](#the-carpocratians)
-      - [Epiphanes](#epiphanes)
-      - [Cerinthus](#cerinthus)
-      - [Nicolaus](#nicolaus)
-      - [Cerdo](#cerdo)
-      - [Marcion](#marcion)
-      - [Apelles](#apelles)
-      - [The Basilidian Gnosis](#the-basilidian-gnosis)
-      - [The Valentinian Movement](#the-valentinian-movement)
-      - [Valentinus](#valentinus)
+- [The Gnosis According to its Foes](#the-gnosis-according-to-its-foes)
+  - [Some Gnostic Fragments Recovered from the Polemical Writings of the Church Fathers](#some-gnostic-fragments-recovered-from-the-polemical-writings-of-the-church-fathers)
+    - [The "Simonians"](#the-simonians)
+    - [Dositheus](#dositheus)
+    - [Simon Magus](#simon-magus)
+    - [Menander](#menander)
+    - [Saturninus](#saturninus)
+    - [The Ophites](#the-ophites)
+    - [An Anonymous System From Irenaeus](#an-anonymous-system-from-irenaeus)
+    - [An Early Ophite System](#an-early-ophite-system)
+    - [The Naasseni](#the-naasseni)
+    - [The Peratae](#the-peratae)
+    - [The Sethians](#the-sethians)
+    - [The Docetae](#the-docetae)
+    - [Monoimus](#monoimus)
+    - [The So-Called Cainites](#the-so-called-cainites)
+    - [The Carpocratians](#the-carpocratians)
+    - [Epiphanes](#epiphanes)
+    - [Cerinthus](#cerinthus)
+    - [Nicolaus](#nicolaus)
+    - [Cerdo](#cerdo)
+    - [Marcion](#marcion)
+    - [Apelles](#apelles)
+    - [The Basilidian Gnosis](#the-basilidian-gnosis)
+    - [The Valentinian Movement](#the-valentinian-movement)
+    - [Valentinus](#valentinus)
     - [Aeonology](#aeonology)
-  - [HIPPOLYTUS' ACCOUNT OF ONE OF THE VARIANTS OF THE SOPHIA MYTH](#hippolytus-account-of-one-of-the-variants-of-the-sophia-myth)
+  - [Hippolytus' Account of One of the Variants of the Sophia Myth](#hippolytus-account-of-one-of-the-variants-of-the-sophia-myth)
   - [Marcus's Number-Symbolism](#marcuss-number-symbolism)
   - [Ptolemy](#ptolemy)
   - [HERACLEON](#heracleon)
@@ -864,11 +864,11 @@ From the above considerations, it is clear that despite the Gnostics' opponents'
 
 Besides indirect and direct sources, there is another valuable source of information that deserves more scrutiny: the legends and traditions preserved in the Gnostic Acts. We hope to demonstrate their importance by quoting several of them in the following sections.
 
-#### The Gnosis According to its Foes
+## The Gnosis According to its Foes
 
 "Oh that mine adversary had written a book!" - Job (Authorized Version)
 
-#### Some Gnostic Fragments Recovered from the Polemical Writings of the Church Fathers
+### Some Gnostic Fragments Recovered from the Polemical Writings of the Church Fathers
 
 We will now introduce the reader to the main teachers and schools of Gnosticism, as known from the critical writings of the Church Fathers. Unfortunately, we cannot provide a satisfactory classification of the Gnostic schools; all previous attempts have failed, and with our current knowledge, we must do our best to identify the different phases of development.
 
@@ -882,7 +882,7 @@ When studying the lives and teachings of these Gnostics, we must remember that o
 
 Additionally, the term "heresy" in the first two centuries did not have the narrow, negative meaning it later acquired. It was simply a term for a philosophical school, much like we speak of the schools of Plato, Zeno, and Aristotle. The Gnostics, along with the rest of early Christians, were divided into various schools or "heresies," which were considered more or less equally important and authentic at the time.
 
-##### The "Simonians"
+#### The "Simonians"
 
 There is no reason to believe that the Gnostics referred to as "Simonians" by the early Church Fathers would have identified with that name or acknowledged the lineage attributed to them by their opponents. As early as Justin Martyr (around 150 A.D.), "Simon" was given a significance far beyond his actual historical role. Justin clearly despised him and accused the Romans of worshipping Simon as a god, based on an inscription on a statue in Rome. Justin claimed the inscription read "Simoni Deo Sancto" – "To Simon, the holy God." However, archaeology has since found that the statue was actually dedicated to a Sabine deity named "Semo Sancus," discrediting Justin's claim. Despite this, later writers accepted Justin's statement without question, reflecting the uncritical nature of that era.
 
@@ -890,7 +890,7 @@ It is likely that in Justin's many debates defending his particular view of Chri
 
 It is possible that a man named Simon, a wonder-worker, amazed people in Samaria with his tricks, and that stories about him were still told during Justin's time. However, what solidified the legend that Simon was the first heretic was the inclusion of his name in one of the stories in the canonical Acts of the Apostles. This happened after Justin's time, marking the beginning of the legend of the origin of heresy (and, according to the Church Fathers, Gnosticism). The information about "Simon" and the "Simonians" is only useful for understanding some of the ideas that the early Catholic Church was trying to refute; it is not historically accurate.
 
-##### Dositheus
+#### Dositheus
 
 The legendary background of the Pseudo-Clementine writings tells us that Dositheus was the predecessor of "Simon Magus." He is mentioned in early heresiologists' lists, a Samaritan Chronicle, and the fourteenth-century Chronicle of Aboulfatah. However, all these mentions are legendary, and nothing reliable can be confirmed about him. His importance is shown by the persistence of the Dosithean sect until the sixth century; Aboulfatah claims it lasted until the fourteenth century.
 
@@ -902,7 +902,7 @@ Dositheus is said to have claimed to be a manifestation of the "Standing One," o
 
 It is worth noting that Aboulfatah places Dositheus around 100 years B.C. Although we should be cautious about trusting this late chronicler completely, it is possible he had access to sources that are no longer available to us.The statement is interesting because it shows that the chronicler recognized the existence of a pre-Christian Gnosis. However, how he aligns this with John the Baptist's date and orthodox chronology is unclear. Could he have been influenced by the Talmudic tradition that dates Jesus a century before our era? Along with Dositheus and Simon, Hegesippus (according to Eusebius) also mentions Cleobius, Gorthaeus, and Masbotheus as leading figures of early Christian schools.
 
-##### Simon Magus
+#### Simon Magus
 
 As mentioned, Simon Magus is referenced in the Acts of the Apostles, a New Testament document not quoted before 177 A.D. Irenaeus and others repeat the Acts story. Justin Martyr (around 150 A.D.) talks about a Simon of Gitta, revered by almost all Samaritans, who claimed to be an incarnation of the "Great Power" and had many followers. Justin doesn't mention the Acts story, leading some to think there were two Simons, but this seems unnecessary. Justin's account is the basis of the Simonian legend, which was further developed by the Pseudo-Clementine literature in the third century, based on the second-century Circuits of Peter.
 
@@ -966,7 +966,7 @@ From The Great Announcement, apparently from the beginning of the treatise, righ
 
 This summarizes The Great Announcement of "Simon." It is possible that new documents may be found to provide more insight on the subject. For now, we should reserve judgment and consider any claims that "Simon" was the "first-born son of Satan" as irrelevant.
 
-##### Menander
+#### Menander
 
 One of the teachers of the "Simonian" Gnosis highlighted by Justin for leading many people away, similar to how Marcion was gaining a huge following during Justin's time, is Menander. Menander was from the Samaritan town of Capparatea. Justin's account shows that Menander was from an earlier generation and was well-known for his many followers.
 
@@ -980,7 +980,7 @@ The true Saviour was the Logos, as previously mentioned. The Gnostics claimed th
 
 These followers were likely based in Antioch, as tradition states that Paul founded the Church of Antioch and Peter was its first bishop. The Acts also place the "withstanding to the face" incident in Antioch, suggesting that Menander's writings might have clarified these traditions. I propose that Menander lived much earlier than "Simon" and was one of the first to link Gnosticism with the Magian tradition. The Gnostics likely traced their aeon-lore to Menander, a disciple of the Magi, as the roots of their aeonology are found in the Zoroastrian Amshaspends, the personal emanations of Ahuramazda, as Mills and others have shown. However, I believe the origin of the aeon-doctrine should be sought in Egypt.
 
-##### Saturninus
+#### Saturninus
 
 Saturninus, or more accurately Satornilus, is generally considered the founder of Syrian Gnosticism. However, Gnosticism was likely widespread in Syria before his time. Justin Martyr, writing between 150 and 160, mentions the Satornilians as a significant group, placing them alongside the Marcians (possibly Marcionites), Basilidians, and Valentinians, the major Gnostic schools of his era.
 
@@ -996,9 +996,9 @@ The most intriguing aspect preserved by Irenaeus is the myth of the creation of 
 
 This idea of the evolution of early human bodies is similar to theories proposed by various modern writers on theosophic doctrines. Therefore, it's unfortunate that the orthodox views of Irenaeus or his source gave so little attention to Saturninus and his so-called "heresy."
 
-##### The Ophites
+#### The Ophites
 
-The task we now face is the most difficult one for students of Patristic Gnosticism.When we have the name of a specific teacher to guide us, it helps to organize certain ideas and statements around them. However, when we lack such guidance and only have bits of information or vague summaries like those from Irenaeus, or general references to widespread schools from various times as in Hippolytus, it becomes very challenging. Especially, when we consider that we are dealing with the development of Gnosticism without clear landmarks, even the most enthusiastic student might feel discouraged.
+The task we now face is the most difficult one for students of Patristic Gnosticism. When we have the name of a specific teacher to guide us, it helps to organize certain ideas and statements around them. However, when we lack such guidance and only have bits of information or vague summaries like those from Irenaeus, or general references to widespread schools from various times as in Hippolytus, it becomes very challenging. Especially, when we consider that we are dealing with the development of Gnosticism without clear landmarks, even the most enthusiastic student might feel discouraged.
 
 It is believed that Gnostic documents were widely circulated up until the time of Irenaeus. By the time of Hippolytus, a generation or more later, orthodoxy had advanced to the point that Gnostic documents were withdrawn and hidden. This could explain why Hippolytus taunted the Gnostics for having some of their secret manuscripts. However, I am convinced that the most complex and technical Gnostic writings were never widely circulated; the followers of Gnosticism were too committed to the idea of a "secret doctrine" and levels of initiation to publicize their core beliefs openly.
 
@@ -1032,7 +1032,7 @@ The above example is a very good illustration of this method of interpretation; 
 
 By today's standards, the most "ridiculous" aspect of these interpretations was the use of wordplay or pseudo-philology, which appeared in the writings of the Babylonians, Egyptians, Indians, Jews, and Greeks. Among Gnostic and early Christian writers, we find many absurd derivations of names used to support theological beliefs, lacking basic philological accuracy. Even intellectual giants like Plato used these methods. However, it's nice to see that the primary concern of these ancient "philologists" was understanding the soul and spiritual truths, rather than linguistic roots. Despite recognizing the limitations of these ancient methods, we should also acknowledge the limitations of our own modern methods.
 
-##### An Anonymous System From Irenaeus
+#### An Anonymous System From Irenaeus
 
 We will now outline one of the main Gnostic ideas preserved by Irenaeus.
 
@@ -1062,7 +1062,7 @@ But Christ did not forget the one in whom He had dwelled. He sent a power that r
 
 This account, despite being preserved in a rough Latin translation of Irenaeus' summary, is not absurd. The original system was likely much more complex, judging from Irenaeus' habit of making brief summaries of the beliefs he criticized. The main ideas about Christ and salvation in this system are similar to those in the Pistis Sophia and one of the treatises of the Codex Brucianus. This suggests that these writings might not be later than the time of Irenaeus, but further discussion on this needs to be reserved for later. It is also interesting to note the influence of Orphic, Pythagorean, Platonic, and Hermetic traditions in the cosmological part, and to see how both Hellenic and Jewish myths share common elements with Chaldaean tradition.
 
-##### An Early Ophite System
+#### An Early Ophite System
 
 Hippolytus dedicates the fifth book of his "Refutation" to the "Ophites," although they actually refer to themselves as followers of Gnosis, not "Ophites." He believes they represent the oldest branch of Gnosis. After discussing three major schools of thought, which we will address later, he focuses on a man named Justinus, who isn't mentioned by any other heresy scholars.
 
@@ -1088,7 +1088,7 @@ Finally, Baruch appeared to Jesus, a twelve-year-old shepherd boy, the son of Jo
 
 Hippolytus criticizes Justinus, accusing him of being vile for highlighting the obstacles to spiritual life and the horrors of animal sensuality. However, Justinus likely preached strict asceticism and attributed Jesus's success to his purity.
 
-##### The Naasseni
+#### The Naasseni
 
 Before discussing Justinus, Hippolytus examines three groups: the Naasseni, Peratae, and Sethians or Sithians. These groups seem to belong to the same tradition, with the Naasseni and Peratae showing such similarities that it is likely their works, quoted by Hippolytus, come from the same Gnostic circle.The Naassenes were named after the Hebrew word "Nachash," meaning serpent, but Hippolytus referred to them as Gnostics, not Ophites. He reserved the name Ophite for a small group he called Cainites or Nochaitae, which he did not consider significant enough to discuss further.
 
@@ -1168,19 +1168,23 @@ We will end this brief overview of these intriguing mystics by quoting one of th
 >
 > and I will pass them on.
 
-##### The Peratae
+#### The Peratae
 
 Hippolytus says that the mysteries symbolized by the serpent are at the core of all Gnosticism. Although he doesn't fully understand these mysteries, as shown by his comments, we agree with him, as we have tried to explain. He then discusses the Peratae, whose Mysteries (which he calls "blasphemy against Christ") had been kept secret for many years. Other sources tell us that this school existed before Clement of Alexandria.
 
 The Peratae's system was based on sidereal considerations and the ancient Chaldaean star-cult tradition. In Book IV, Hippolytus tried to refute the Chaldaean system of the star-spheres. While he made some good points against the common astrology of the time, he didn't affect the mysterious doctrine of the septenary spheres, whose secret the empirical astrologers had long lost and replaced with the physical planets.
 
-Hippolytus focused on the Peratic school in his critique of astrologers and mathematicians. He admitted he had no practical knowledge of these fields but directed readers to the fourth book of his "Philosophumena" for an overview of astrology from a Church perspective. According to the Peratic school, the universe was symbolized by a circle enclosing a triangle. The triangle represented three primary divisions: the ingenerable, self-generable, and generable worlds. They believed in three aspects of the Logos, or three Gods, Logoi, Minds, or Men. When the world-process was complete, the Saviour descended from the ingenerable world, embodying a perfected man with a threefold nature, body, and power, encompassing all potentialities from the three divisions of the universe. This aligns with the Pauline phrase: "It pleased Him that in him should dwell all fullness (pleroma) bodily." The seeds of all potentialities come from the ingenerable and self-generable worlds into the generable world.
+Hippolytus focused on the Peratic school in his critique of astrologers and mathematicians. He admitted he had no practical knowledge of these fields but directed readers to the fourth book of his "Philosophumena" for an overview of astrology from a Church perspective. According to the Peratic school, the universe was symbolized by a circle enclosing a triangle. The triangle represented three primary divisions: the ingenerable, self-generable, and generable worlds.
+
+They believed in three aspects of the Logos, or three Gods, Logoi, Minds, or Men. When the world-process was complete, the Saviour descended from the ingenerable world, embodying a perfected man with a threefold nature, body, and power, encompassing all potentialities from the three divisions of the universe. This aligns with the Pauline phrase: "It pleased Him that in him should dwell all fullness (pleroma) bodily." The seeds of all potentialities come from the ingenerable and self-generable worlds into the generable world.
 
 Hippolytus then mentions the founders of the Peratic school: a certain Euphrates (whom Origen identified as the founder of the Ophites mentioned by Celsus around 175 A.D.) and Celbes, also referred to as Acembes and Ademes. He goes on to discuss Chaldaean art and indicates that he will quote various Peratic treatises to show similarities with Chaldaean ideas.
 
 The Savior has both a human and a cosmic task to perform. The cosmic task involves separating the good from the bad among the celestial powers and influences. This aspect of salvation is also highlighted in the Pistis Sophia treatise, which we will discuss later. The "wars in heaven" come before the battle between good and evil on earth. The text that Hippolytus quotes from is clearly a Gnostic commentary on an ancient Babylonian or Syrian creation story, which the commentator tries to explain using Greek mythology. The beginning of this mysterious treatise reads:
 
-"I am the voice awakening from sleep in the world of night. Now, I begin to expose the power that comes from Chaos. It is the power of the deep slime, which raises the clay of the imperishable vast moist principle, the whole force of the water-colored convulsion, always moving, supporting the steady, and checking the unsteady. It is the faithful steward of the path of the aethers, rejoicing in what streams forth from the twelve founts of the Law, the power that takes its form from the impression of the invisible waters above." This power is called Thalassa, evidently the Thalatth (Tiamat), or World-Mother, of the Babylonians. The twelve sources are also called twelve mouths or pipes through which the world-powers pour hissing. This power is surrounded by a twelve-sided pyramid, or dodecahedron, which should prompt astrologers to reconsider their "signs of the zodiac."
+> I am the voice awakening from sleep in the world of night. Now, I begin to expose the power that comes from Chaos. It is the power of the deep slime, which raises the clay of the imperishable vast moist principle, the whole force of the water-colored convulsion, always moving, supporting the steady, and checking the unsteady. It is the faithful steward of the path of the aethers, rejoicing in what streams forth from the twelve founts of the Law, the power that takes its form from the impression of the invisible waters above.
+
+This power is called Thalassa, evidently the Thalatth (Tiamat), or World-Mother, of the Babylonians. The twelve sources are also called twelve mouths or pipes through which the world-powers pour hissing. This power is surrounded by a twelve-sided pyramid, or dodecahedron, which should prompt astrologers to reconsider their "signs of the zodiac."
 
 Hippolytus' quotations and summary here are very unclear and need a detailed analysis that has not been done yet. He tells us that the information comes from a treatise about the formal or generative world, called "The Proasteioi up to the Aether." This means the hierarchies of powers up to the aether, likely shown in diagrams with concentric circles—"proasteion" refers to the space around a city's walls. Hippolytus notes the similarity between astrological symbolism and the teachings of this Gnostic school, calling it astrology turned into allegory, or more accurately, cosmogony turned into theology.
 
@@ -1198,7 +1202,7 @@ In other words, the seeds and types of things created physically flow into the s
 
 Interestingly, these two books have been completely removed from the manuscript. Did Hippolytus reveal too much about the early appropriation of Church rites and doctrines, leading later individuals to consider it unwise to keep such evidence? One might expect that the orthodox Fathers would have been eager to display such information to heathens and heretics, and would have ensured these books were preserved. It is quite odd that this most important *Refutation* among all heresiological documents was ignored by Hippolytus's successors. The only known manuscript was brought from Mount Athos in 1842, and its contents, due to numerous direct quotations, have significantly changed our understanding of Gnosticism. Had the two books on the Mysteries been preserved, our ideas might have been even more radically transformed.
 
-##### The Sethians
+#### The Sethians
 
 The Sethians are closely connected with the Gnostics previously described, and Hippolytus next focuses his attention on them. He talks about their countless commentaries and directs his readers to a specific work called "The Paraphrase of Seth" for a summary of their beliefs. However, it's unclear whether Hippolytus is quoting from this document or from different texts. The title "Paraphrase of Seth" is very confusing; it's hard to determine the exact meaning of "paraphrase," and the teachings Hippolytus describes don't seem to relate to the Seth-legend.
 
@@ -1216,7 +1220,7 @@ The Sethian school supported their beliefs with analogies from natural philosoph
 
 The school also seemed to align with the Hermetic tradition, using analogies from natural and "alchemical" processes to explain spiritual matters. For example, one of their books describes how the human soul (light-ray), mixed with the animal soul (water), through discipline and instruction, seeks its proper place. It then hastens towards the divine soul (Logos) that descends in a physical body, and together with the Logos, returns to where the Logos resides, faster than iron is drawn to a magnet.
 
-##### The Docetae
+#### The Docetae
 
 As previously mentioned, the remnants of the ancient Gnostic teachings we are trying to explore are so incomplete that we can only create a very rough outline, or rather a series of sketches of certain sections. One day, further discoveries might allow us to piece these together into a coherent map. We lack chronological details, so we cannot determine the correct sequence of these Gnostic schools. Therefore, we must proceed somewhat randomly and now focus on a school that Hippolytus (Book viii) calls the Docetae, whose beliefs are very similar to those of the three schools we just discussed.
 
@@ -1240,7 +1244,7 @@ His baptism happened like this: He washed Himself in the Jordan River (symbolizi
 
 The Gnostic writer wisely notes that the understanding of Jesus Christ varies, with different schools having different perspectives, some higher and some lower. This diversity is natural. Only true Gnostics, those who have undergone similar initiations as Jesus, can fully understand the mystery directly. It seems unnecessary to point out to students of Gnosticism the clear similarities between this system and the main ideas in the Bruce and Askew Codices, yet no one has noted them before.
 
-##### Monoimus
+#### Monoimus
 
 Hippolytus dedicates his next section to Monoimus, who is only mentioned by one other heresy writer, Theodoret, in a brief paragraph. Monoimus was an Arabian who lived in the latter half of the second century. His system revolves around the concept of the Heavenly Man, the universe, and the Son of this Man, the perfect man, with all other men being imperfect reflections of this ideal type. His ideas fit into the cycle of Gnostic literature we are examining and are detailed with many mathematical and geometrical ideas from Pythagorean and Platonic traditions.
 
@@ -1252,7 +1256,7 @@ This entire system brings up several important considerations that go beyond the
 
 This idea strongly echoes the teachings of earlier Trismegistic literature.
 
-##### The So-Called Cainites
+#### The So-Called Cainites
 
 Before returning to the origins along another tradition, of which only a few obscure traces remain—the Carpocrates-Cerinthus line—we will briefly refer to the vague and chaotic tendencies grouped under the term "Cainite" and its variants.Our sources of information are limited, and except for brief mentions, they come mainly from Irenaeus and Epiphanius. Epiphanius mostly copies Irenaeus, adding only a few new details alongside his own thoughts.
 
@@ -1278,7 +1282,7 @@ Another mystical tradition in their texts claimed that the Christ did not make a
 
 These Gnostics praised Judas as crucial to the salvation plan; without him, the "salvation of the cross" and the revelation of higher realms would not have occurred. The Cainite group, from their doctrines, appeared to be strict ascetics. But, according to Epiphanius, expanding on Irenaeus, these people were very dangerous and, like Carpocrates, taught that a person could not be saved without experiencing everything. Let's briefly look at the views of the Carpocratians.
 
-##### The Carpocratians
+#### The Carpocratians
 
 Our main source of information is Irenaeus; Tertullian, Hippolytus, and Epiphanius simply copied him. Carpocrates, or Carpocras, was a Platonic philosopher who taught in Alexandria during the reign of Hadrian (A.D. 117-138). He led a Gnostic group called the Carpocratians, though they referred to themselves simply as Gnostics. The accusation Epiphanius made against them, 250 years later, is based on a misunderstanding of Irenaeus's mixed-up account, if not deliberate malice. The Bishop of Lyons clearly said that he didn't believe they actually did the things they were accused of, but that they would have if they followed their teachings consistently.
 
@@ -1294,7 +1298,7 @@ However, Irenaeus has a different view. He believes the doctrine means that a so
 
 The Carpocratians allegedly set up a branch in Rome around the year 150, under a woman named Marcellina. They had images of many esteemed teachers like Pythagoras, Plato, Aristotle, and also a portrait of Jesus. Interestingly, Celsus, as quoted by Origen, mentions the Harpocratians, who followed teachings from Salome, possibly suggesting that "Harpocratians" might be the correct term instead of "Carpocratians." Harpocrates was a Greek version of Horus, the Egyptian Mystery-God, and Salome was notable in the lost Gospel according to the Egyptians.
 
-##### Epiphanes
+#### Epiphanes
 
 Moving on, there are contradictory and clearly absurd legends around the second most famous name in the Carpocratian group, Epiphanes. Patristic writers made errors, like Epiphanius who wrongly attributed an entire Gnostic system found in Irenaeus to Epiphanes. This mix-up is somewhat understandable since the Greek word for "distinguished" is "eiphanes," and Epiphanius wrote 250 years after the real Epiphanes.
 
@@ -1314,7 +1318,7 @@ Neander has explored this idea in detail, but Salmon's summary will suffice for 
 
 The various popular religions, especially Judaism, have emerged from these beliefs. Souls achieve perfection by recalling their past experiences and rising above limitations to contemplate a higher unity. They dismiss worldly restrictions, valuing only faith and love—where faith means a mystical focus on this unity. This helps them break free from material confinement and reach a state of perfect peace, similar to Buddhist Nirvana, once they transcend worldly appearances.
 
-##### Cerinthus
+#### Cerinthus
 
 As we trace back to the origins, we find the group known as the Cerinthians (or Merinthians, according to Epiphanius). They are named after Cerinthus, who lived in the latter half of the first century. Epiphanius has extensively discussed Cerinthus, making him a scapegoat for the "pillar-apostles'" conflict with Paul. Many writers have followed this narrative to explain certain contentious statements in the Acts and Paul's letters. However, impartial criticism rejects Epiphanius's late interpretations and returns to Irenaeus's brief account, which is the source for later writers.
 
@@ -1326,7 +1330,7 @@ Cerinthus's teachings included a cosmology that highlighted the immense superior
 
 The scriptures of the Cerinthians were not the version of the Sayings attributed to "Matthew," but an even earlier collection in Hebrew. All other collections and versions were considered entirely apocryphal. It is said that the writer of the fourth canonical Gospel composed his account to oppose the school of Cerinthus, but there is no evidence to support this claim.
 
-##### Nicolaus
+#### Nicolaus
 
 We have traced back to such early times that even the faintest glimmer of historical light fails us, leaving us in the dim realm of legend and speculation.We will not delve any deeper into the mysterious origins but instead return to the entrance of the cave, where some daylight is visible. Before doing so, we need to highlight the early Gnostic group, the Nicolaitans.
 
@@ -1336,7 +1340,7 @@ Later scholars, inspired by Irenaeus, added more accusations. Eventually, Epipha
 
 Tradition portrays Nicolaus as an ascetic and tells exaggerated stories about his detachment from passion. Even if he taught that eating sacrificial food was not a grave sin, there is no reason for us today to follow these Church Fathers in condemning everything that doesn't align with their specific interpretation of Christ's teachings.
 
-##### Cerdo
+#### Cerdo
 
 Let's now return to the historical context of the second century and focus on the significant developments of Basilides and Valentinus.
 
@@ -1346,7 +1350,7 @@ Marcion’s predecessor was reportedly a Syrian named Cerdo, who was active in R
 
 Marcion's success likely accelerated the development of a canonical orthodoxy within the Roman church, which later became a model for subsequent Christian doctrine.
 
-##### Marcion
+#### Marcion
 
 Marcion was a wealthy shipowner from Sinope, a major port on the southern shore of the Black Sea. He was also a bishop and the son of a bishop. His main period of activity in Rome was between 150 and 160 A.D. Initially, he was in communion with the Roman church and made significant financial contributions. However, when the church elders failed to address his concerns and answer his important questions, he threatened to create a schism within the church and was eventually excommunicated. The origin of Marcionism is entirely unclear, and we have no reliable information about the lives of either Cerdo or Marcion. Church writers from the end of the second century, who are our best sources, cannot tell the story of the movement's beginnings with any certainty.
 
@@ -1388,7 +1392,7 @@ The Marcionites were very strict ascetics who abstained from marriage, meat, and
 
 There was much confusion between these two titles in early times. Christos is Greek for the Hebrew Messiah, meaning Anointed, and was used by those who believed Jesus was the Jewish Messiah. This was denied not only by the Marcionites but also by many of their Gnostic predecessors and successors. Chrestos referred to someone perfected, holy, or a saint. Later, orthodox editors, in ignorance, changed Chrestos to Christos wherever it appeared, limiting the promise of perfection to Jewish tradition alone and undermining the universality of religious history and doctrine. The Marcion school had various sub-schools and many notable teachers, though we will mention only Apelles here.
 
-##### Apelles
+#### Apelles
 
 Our most reliable information about this Gnostic comes from Rhodon, who opposed his views during the reign of Commodus (180-193 A.D.). An excerpt from Rhodon's lost "refutation" has been preserved by Eusebius.
 
@@ -1416,7 +1420,7 @@ Basilides likely wrote a commentary on the widely circulated Sayings and Doings 
 
 Another interesting hypothesis suggests that Matthias, a leader of the inner schools, wrote the original version of the Sayings and Doings that our Synoptic accounts are based on. These accounts were then expanded by various elders of the outer churches in Egypt. The original draft was likely a Life meant for public circulation, interpretable according to the inner teachings of Gnosis. Basilides is also said to have written some Odes, though no fragments of these have survived.
 
-##### The Basilidian Gnosis
+#### The Basilidian Gnosis
 
 Our main sources of information for reconstructing Basilidian Gnosis are three fragmentary quotations: (i) from Hippolytus in his later work, The Philosophumena; (ii) from Clement of Alexandria in his Miscellanies; and (iii)In the beginning, either from the lost work of Justin or the lost work of Agrippa Castor (who Eusebius says wrote a critique of Basilides' views during Hadrian's reign around 133 A.D.), Irenaeus copied some very unsatisfactory and inaccurate data. These were also summarized by those who condensed the earlier, now lost, work of Hippolytus.
 
@@ -1576,7 +1580,7 @@ Regarding the history of the Basilidian school, we know little beyond the fact t
 
 Indeed, it is very probable that the followers of mainstream Gnosticism would have strongly objected to being classified as followers of Basilides or Valentinus. They likely viewed these teachers as transmitters of a living tradition in their own unique ways, rather than as individual revealers of new doctrines.
 
-##### The Valentinian Movement
+#### The Valentinian Movement
 
 Behind the entire Valentinian movement stands the influential and enigmatic figure of Valentinus himself, universally recognized as the greatest of the Gnostics. Even his harshest critics acknowledge his exceptional learning and eloquence, and no one has ever questioned his moral character. However, when we examine the chaotic "information" left by Patristic writers about Valentinianism, the enigmatic figure of the great Gnostic master remains elusive. Despite his name being associated with the restructuring of the whole system, he remains the "great unknown" of Gnosticism. We know nothing certain about him as a person or a writer, except for a few fragmented pieces given to us by polemical critics.
 
@@ -1760,7 +1764,7 @@ For now, we are just setting up signposts, so let's get back to it.
 
 Someone might ask, even if the five solids (which are just variations of one thing in different combinations) are connected to the basic elements forming the unseen molecular structure of matter, what does that have to do with the Valentinian Gnostics? The answer is, quite a lot. Marcus, an early follower of Valentinus, is associated with a system of mystical numbering. Hippolytus (II) states that all of Valentinianism was based on the numbers and geometry of Pythagoras and Plato. However, no solid evidence supports this broad claim, and no scholar has provided the missing link. Still, it's entirely believable that the aeonology (study of aeons) of the Valentinian School was partly based on these ideas.
 
-##### Valentinus
+#### Valentinus
 
 Let's try to make some suggestions on this topic, not from Marcus' numbering system but from the living principles of Pythagorean and Platonic mathematics. This "mathesis," which was the same as "gnosis," is said to have been called by Pythagoras himself as "the knowledge of things that are." Perhaps some Gnostic thinkers used this line of thought to develop a symbolic understanding of the nature of the aeons.From the realm of definite polyhedral matter, whose organization, though invisible to the eye, could be imagined in the mind, the symbolism was extended further—moving from the molecular to what we now call the atomic level. The regular solids represented physical matter in a state of perfect balance of "points" in space. These points were not just abstract mathematical concepts but actual centers of force, balanced by a law of polarity or syzygy. This was the domain of the atom. The atom was viewed as a living force, a sphere, sometimes described as a spherical swirl, the most perfect figure. It continuously contracted and expanded, generating all motions while being self-motive and, from another perspective, "immovable," being part of the "foundations of earth." It is smaller than the smallest matter, yet greater than the greatest energy. The atom and its combinations were what the Valentinian Gnosis considered in its study of aeons. However, I do not suggest that any Gnostic philosopher thought of the atom as modern physicists do; rather, I believe the most advanced Gnostics were shown this living symbol of world-formation in visions, and their various systems were attempts to explain such visions. Any symbol is vastly different from reality, but trying to imagine or being shown the living essence beyond the simplest physical forms is closer to reality than any inert physical shape. Thus, the atom and its simplest forms of differentiated being can be seen as symbols of the aeon-world, the Pleroma, the world of life and light beyond time and space, the unchanging heart of the eternities.This perspective may interest students of symbolism, who usually focus only on flat shapes and thus deal with what could be called "shadows of the dead." A flat shape is essentially just a shadow of a solid object; it is the living system of forces behind or within the solid that represents the first spark of life. To understand this better, let's consider a familiar symbol: the interlaced triangles, also known as "Solomon's Seal." In three dimensions, this symbol is represented by two interpenetrating tetrahedra. From this union come the cube and octahedron. The dodecahedron and icosahedron emerge from the interaction of five tetrahedra. Thus, we have our five regular solids. The fundamental shape is the tetrahedron, and the force system behind it consists of two pairs of atoms in perfect equilibrium. The relationship and interaction of these atoms define the life or essence of the symbol. When this is understood, the symbol becomes alive, and the forces that the "shadow" of the "dead" solid symbolizes are revealed to the one who solves the "mystery."
 
@@ -1820,7 +1824,7 @@ Furthermore, Sophia acted as a mediator between the upper and lower realms and p
 
 Returning to the text:
 
-### HIPPOLYTUS' ACCOUNT OF ONE OF THE VARIANTS OF THE SOPHIA MYTH
+### Hippolytus' Account of One of the Variants of the Sophia Myth
 
 "VALENTINUS, Heracleon, Ptolemaeus, and their school of Gnostics, followers of Pythagoras and Plato, based their teachings on 'arithmetical science.' For them, the beginning of all things is the Monad, which is uncreated, indestructible, incomprehensible, and the creator of all things. They call this Monad the Father. There is, however, some disagreement among them about its nature. Some say...The Father lacks any feminine aspect, has no counterpart, and is solitary.
 
