@@ -71,7 +71,7 @@ TODO: Footnote links
     - [Foreword](#foreword)
     - [From the Acts of Thomas](#from-the-acts-of-thomas)
     - [From the Acts of John](#from-the-acts-of-john)
-- [From the Acts of Andrew](#from-the-acts-of-andrew)
+    - [From the Acts of Andrew](#from-the-acts-of-andrew)
 - [From the Travels of Peter](#from-the-travels-of-peter)
 - [The Askew and Bruce Codices](#the-askew-and-bruce-codices)
 - [Summary of the Contents of the So-Called Pistis Sophia Treatise](#summary-of-the-contents-of-the-so-called-pistis-sophia-treatise)
@@ -2503,86 +2503,129 @@ That night, the King's brother dies, and angels take his soul to see the heavenl
 
 In a recent volume of the valuable series Texts and Studies (Apocrypha Anecdota II., by M. R. James, 1897), there is a long fragment of The Acts of John, much of which had never been published before. This fragment was recovered from a fourteenth-century manuscript preserved in Vienna. The original Acts date back to the Leucian collection. Since Clement of Alexandria quoted from them, we can place them in the third quarter of the second century. Therefore, we have an early document of great interest, especially because of its distinctly Gnostic nature. Most of the fragment is a monologue by John, preserving a remarkable tradition of Jesus' occult life. The christology is entirely docetic, making the fragment a valuable addition to our knowledge of Gnostic tradition.
 
-Docetism emerged from legends of certain occult powers attributed to the "perfect man." These legends were integrated into various christological and soteriological theories of the Gnostic philosophers and were also based on a historical fact that has been obscured by numerous historical narrations. After his death, Christ returned and taught his followers within inner communities, contributing to the diverse Gnostic tradition of inner instruction. He returned in the only way he could, in a "psychic" or "spiritual" body. This body could become visible at will and even be felt, but compared to a normal physical body, it was "illusory," hence the term "docetic." Just as the external tradition of the "Poor Men" gradually elevated Jesus from a prophet to the full glory of the Godhead, the internal tradition extended the original docetic idea throughout the entire soteriological structure created by Gnostic thinkers. The Acts of John reflect these tendencies, with "John" representing one line of the diverse docetic tradition, which originated from an occult fact and marvellous teachings of initiation that later became historicized. John summarizes these teachings by saying, "I firmly held to this one belief, that the Lord arranged everything symbolically and for the benefit of humanity, for their conversion and salvation."
+Docetism emerged from legends of certain occult powers attributed to the "perfect man." These legends were integrated into various christological and soteriological theories of the Gnostic philosophers and were also based on a historical fact that has been obscured by numerous historical narrations. After his death, Christ returned and taught his followers within inner communities, contributing to the diverse Gnostic tradition of inner instruction. He returned in the only way he could, in a "psychic" or "spiritual" body. This body could become visible at will and even be felt, but compared to a normal physical body, it was "illusory," hence the term "docetic."
 
-It is easy for any student of the occult to believe that Christ possessed very high spiritual powers. The idea that he could appear to others in a mayavi-rupa, as it is called in India, and change his appearance at will, is credible. However, it is against human nature for such traditions to be passed down without exaggeration or fantastical additions. Thus, we are told that when James and John were called, James saw Jesus first as a child, while John saw him as a cheerful and handsome man. Later, John saw him as a bald man with a thick, flowing beard, while James described him as a young man with a newly grown beard. Additionally, John noted that his eyes never closed. Interestingly, this aligns with one of the signs of a "god" mentioned in Hindu scriptures. John noticed many changes in Jesus' appearance, sometimes looking like "a small, unattractive man," and other times "reaching to heaven." This makes sense for a disciple in close contact with the powerful "presence" or "glory" of a Master. Even more surprisingly, when John lay on Jesus' chest, he sometimes felt it to be "smooth and tender," and other times "hard, like stones." Additionally, when Jesus prayed and meditated, a light appeared in Him that was indescribable.
+Just as the external tradition of the "Poor Men" gradually elevated Jesus from a prophet to the full glory of the Godhead, the internal tradition extended the original docetic idea throughout the entire soteriological structure created by Gnostic thinkers. The Acts of John reflect these tendencies, with "John" representing one line of the diverse docetic tradition, which originated from an occult fact and marvellous teachings of initiation that later became historicized. John summarizes these teachings by saying, "I firmly held to this one belief, that the Lord arranged everything symbolically and for the benefit of humanity, for their conversion and salvation."
 
-The following simple story will make readers smile, but it also provides evidence to students of hidden nature that the legend has a basis in occult facts, similar to many legends in India about the touch of yogins in states of ecstasy. (The quotations are mainly from Dr. James' translation). "Once again, He led us three up a mountain, saying 'Come to Me.' We went and saw Him praying from a distance. Because He loved me, I quietly approached Him so He wouldn't see, and stood looking at His back. I saw that He wasn't wearing any clothes and appeared not as a man. His feet were whiter than snow, lighting up the ground, and His head reached heaven, which frightened me. I cried out, and He turned into a small figure, pulled my beard, and said, 'John, do not be unbelieving, and do not meddle.'"And I said to Him, "But what have I done, Lord?" And I tell you, my brothers, I suffered great pain for thirty days in the place where he grabbed my beard. Peter and James were angry because I spoke with the Lord, and they signaled me to come to them and leave the Lord alone. So I went, and they both asked me, "Who was speaking with the Lord on the mountaintop? We heard both of them talking..
+It is easy for any student of the occult to believe that Christ possessed very high spiritual powers. The idea that he could appear to others in a mayavi-rupa, as it is called in India, and change his appearance at will, is credible. However, it is against human nature for such traditions to be passed down without exaggeration or fantastical additions.
 
-When I considered His great grace, His many-faced unity, and His endless wisdom, I said, "You can learn that if you ask Him..
+Thus, we are told that when James and John were called, James saw Jesus first as a child, while John saw him as a cheerful and handsome man. Later, John saw him as a bald man with a thick, flowing beard, while James described him as a young man with a newly grown beard. Additionally, John noted that his eyes never closed. Interestingly, this aligns with one of the signs of a "god" mentioned in Hindu scriptures. John noticed many changes in Jesus' appearance, sometimes looking like "a small, unattractive man," and other times "reaching to heaven." This makes sense for a disciple in close contact with the powerful "presence" or "glory" of a Master. Even more surprisingly, when John lay on Jesus' chest, he sometimes felt it to be "smooth and tender," and other times "hard, like stones." Additionally, when Jesus prayed and meditated, a light appeared in Him that was indescribable.
 
-Once, when all of us disciples were sleeping in one house at Gennesaret, I wrapped myself up and watched what He did from under my garment. First, I heard Him say, "John, go to sleep," and I pretended to be asleep. Then I saw another one who looked like Him come down, and I heard him say to my Lord, "Jesus, do those you have chosen still not believe in you?" And my Lord replied, "You speak rightly, for they are just men."
+The following simple story will make readers smile, but it also provides evidence to students of hidden nature that the legend has a basis in occult facts, similar to many legends in India about the touch of yogins in states of ecstasy. (The quotations are mainly from Dr. James' translation).
+
+> Once again, He led us three up a mountain, saying 'Come to Me.' We went and saw Him praying from a distance. Because He loved me, I quietly approached Him so He wouldn't see, and stood looking at His back. I saw that He wasn't wearing any clothes and appeared not as a man. His feet were whiter than snow, lighting up the ground, and His head reached heaven, which frightened me. I cried out, and He turned into a small figure, pulled my beard, and said, 'John, do not be unbelieving, and do not meddle.' And I said to Him, 'But what have I done, Lord?' And I tell you, my brothers, I suffered great pain for thirty days in the place where he grabbed my beard. Peter and James were angry because I spoke with the Lord, and they signaled me to come to them and leave the Lord alone. So I went, and they both asked me, 'Who was speaking with the Lord on the mountaintop? We heard both of them talking...'
+>
+> When I considered His great grace, His many-faced unity, and His endless wisdom, I said, 'You can learn that if you ask Him...'
+>
+> Once, when all of us disciples were sleeping in one house at Gennesaret, I wrapped myself up and watched what He did from under my garment. First, I heard Him say, 'John, go to sleep,' and I pretended to be asleep. Then I saw another one who looked like Him come down, and I heard him say to my Lord, 'Jesus, do those you have chosen still not believe in you?' And my Lord replied, 'You speak rightly, for they are just men.'
 
 In my opinion, this story shows the difference between Jesus and the Christ in Gnostic Christianity. The Christ was the Great Master, and Jesus was the man through whom He taught during His ministry.
 
-Another simple story is that when Jesus and His disciples each received a loaf from a well-off person, Jesus would bless the loaf and divide it among them, and each disciple was satisfied with his portion. Thus, "our loaves were saved whole." This believable incident provides a basis for the legend of the feeding of the five thousand. Such incidents were all that the writer thought wise to share with those who were not initiated; there were many more events too sacred or too unbelievable to be revealed to the general public. "Now, brothers, I speak these things to encourage your faith in Him; for we must remain silent about His mighty and wonderful works for now, as they are mysteries that perhaps cannot be fully spoken or understood..
+Another simple story is that when Jesus and His disciples each received a loaf from a well-off person, Jesus would bless the loaf and divide it among them, and each disciple was satisfied with his portion. Thus, "our loaves were saved whole." This believable incident provides a basis for the legend of the feeding of the five thousand. Such incidents were all that the writer thought wise to share with those who were not initiated; there were many more events too sacred or too unbelievable to be revealed to the general public.
+
+> Now, brothers, I speak these things to encourage your faith in Him; for we must remain silent about His mighty and wonderful works for now, as they are mysteries that perhaps cannot be fully spoken or understood...
 
 Next comes the "Hymn" sung before He was taken by "the lawless Jews." The disciples are described as holding hands to form a circle around Jesus, who stands in the center. For each line He sings, they respond in chorus with the sacred word "Amen." This appears to be an echo of ancient Mysteries, and the ceremony resembles a sacred dance of initiation. The Hymn is currently in a very confused and fragmented state, and most of the instructions have almost entirely disappeared. I have therefore made a few guesses; in some passages, however, the confusion is so great that it is impossible to make any suggestions.
 
 In the following text, C. stands for the candidate, I. for the initiator (the Christ), and A. for the assistants.
 
-C. "I would be saved." 
-I. "And I would save." 
-A. "Amen..
+C. "I would be saved."
 
-C. "I would be freed." 
-I. "And I would free." 
-A. "Amen..
+I. "And I would save."
 
-C. "I would be pierced." 
-I. "And I would pierce." 
-A. "Amen..
+A. "Amen..."
 
-C. "I would be born." 
-I. "And I would bring to birth." 
-A. "Amen..
+C. "I would be freed."
 
-C. "I would eat." 
-I. "And I would be eaten." 
-A. "Amen..
+I. "And I would free."
 
-C. "I would hear." 
-I. "And I would be heard." 
-A. "Amen..
+A. "Amen..."
 
-"I would be understood, being all understanding (mind)." 
-A. "Amen..
+C. "I would be pierced."
 
-C. "I would be washed." 
-I. "And I would wash." 
-A. "Amen..
+I. "And I would pierce."
+
+A. "Amen..."
+
+C. "I would be born."
+
+I. "And I would bring to birth."
+
+A. "Amen..."
+
+C. "I would eat."
+
+I. "And I would be eaten."
+
+A. "Amen..."
+
+C. "I would hear."
+
+I. "And I would be heard."
+
+A. "Amen..."
+
+"I would be understood, being all understanding (mind)."
+
+A. "Amen..."
+
+C. "I would be washed."
+
+I. "And I would wash."
+
+A. "Amen..."
 
 "(Grace [i.e., the Sophia] dances.).
-"I would play music; dance, all of you." 
-A. "Amen..
 
-"The Ogdoad plays to our dancing. Amen..
-"The Dodecad dances above us. Amen..
+"I would play music; dance, all of you."
 
-[The reading of this line is hopeless..
-"He who does not dance does not understand what is happening..
+A. "Amen..."
 
-C. "I would flee."I would like you to stay.  
-A: Amen.  
-C: I would like to be dressed in appropriate clothing.  
-I: And I would like to dress you.  
-A: Amen.  
-C: I want to be reconciled.  
-I: And I will reconcile.  
-A: Amen..
+"The Ogdoad plays to our dancing. Amen..."
 
-I have no house, yet I have houses. Amen.  
-I have no place, yet I have places. Amen.  
-I have no temple, yet I have temples. Amen..
+"The Dodecad dances above us. Amen..."
 
-I: I am a light to you who sees Me.  
-A: Amen.  
-I: I am a mirror to you who perceives Me.  
-A: Amen.  
-I: I am a door to you who knocks on Me.  
-A: Amen.  
-I: I am a path to you, a traveler.  
-A: Amen..
+[The reading of this line is hopeless...]
+
+"He who does not dance does not understand what is happening..."
+
+C. "I would flee."I would like you to stay.
+
+A: Amen.
+
+C: I would like to be dressed in appropriate clothing.
+
+I: And I would like to dress you.
+
+A: Amen.
+
+C: I want to be reconciled.
+
+I: And I will reconcile.
+
+A: Amen...
+
+I have no house, yet I have houses. Amen.
+
+I have no place, yet I have places. Amen.
+
+I have no temple, yet I have temples. Amen...
+
+I: I am a light to you who sees Me.
+
+A: Amen.
+
+I: I am a mirror to you who perceives Me.
+
+A: Amen.
+
+I: I am a door to you who knocks on Me.
+
+A: Amen.
+
+I: I am a path to you, a traveler.
+
+A: Amen...
 
 I: Now respond to my dancing. See yourself in Me who speaks; and when you see what I do, keep silent about My mysteries.
 
@@ -2591,20 +2634,24 @@ I: Now respond to my dancing. See yourself in Me who speaks; and when you see wh
 What I seem to be now, I am not; but what I truly am, you will see when you come. If you had known how to suffer, you would have had the power not to suffer. Know suffering, and you will have the power not to suffer. What you do not know, I will teach you. I am your God, not that of your betrayer.
 
 C: I would like to be in harmony with holy souls.
+
 I: In Me, know the Word of wisdom.
 
 So go the fragmented pieces of this fascinating inner Gnostic ritual. In the version of The Acts of John from which we are quoting, this so-called Hymn begins and ends with the following doxology, to each line of which the disciples, "going around in a circle," respond with "Amen."
 
-Glory to You, Father.  
-Amen!Glory to You, Word; glory to You, Grace. Amen! Glory to You, Spirit; glory to You, Holy One; glory to Your glory. Amen! We praise You, Father; we give thanks to You, Light, where no darkness exists. Amen!
+Glory to You, Father.
+
+Amen! Glory to You, Word; glory to You, Grace. Amen! Glory to You, Spirit; glory to You, Holy One; glory to Your glory. Amen! We praise You, Father; we give thanks to You, Light, where no darkness exists. Amen!
+
+---
 
 If we had a description of the actions, as well as the words, during this enlightening ceremony, it could shed much light on the original understanding of Christ's "passion." Nowadays, we are discovering valuable fragments of early Christianity almost every year. It is hopeful that a piece might provide us with more insights. It is clear from the Johannine Acts that the Gnostics understood the "mystery of the cross" and the mystical crucifixion differently from the literal historical account.
 
 When the Lord was hung on the "bush of the cross," He appeared to John, who had fled to the "Mount of Olives." "Our Lord stood in the cave, filling it with light, and said, 'To the crowd below in Jerusalem [the physical world], I am being crucified, pierced with lances and reeds, and given gall and vinegar to drink. Now, I speak to you; listen to My words. I inspired you to ascend this mount so that you might learn what a disciple must learn from a Master, and man from God.'
 
-Having spoken, He showed me a cross of light surrounded by a great multitude, all in one form and likeness. Above the cross was another multitude without a single form. I saw the Lord Himself above the cross, without any shape, but only a voice—a voice unfamiliar to us, but sweet and kind, truly of God, saying to me: 'John, it is necessary for someone to hear these things from Me; for I need someone who will listen.'"This cross of light is sometimes called the Word, sometimes Mind, sometimes Jesus, sometimes Christ,
+Having spoken, He showed me a cross of light surrounded by a great multitude, all in one form and likeness. Above the cross was another multitude without a single form. I saw the Lord Himself above the cross, without any shape, but only a voice—a voice unfamiliar to us, but sweet and kind, truly of God, saying to me: 'John, it is necessary for someone to hear these things from Me; for I need someone who will listen.'
 
-sometimes Door, sometimes Way, sometimes Bread, sometimes Seed, sometimes Resurrection, sometimes Son, sometimes Father, sometimes Spirit, sometimes Life, sometimes Truth, sometimes Faith, sometimes Grace. These names are used for your understanding, but in reality, it represents the boundary of all things, the necessity that fixes what was unsettled, and the harmony of Wisdom. In this harmony, there are Powers, Principalities, Sources, and Daemons on the Right and Left, along with Energies, Threats, Wrath, Accusers, Satan, and below, the Lower Root from which the nature of things in creation has come.
+This cross of light is sometimes called the Word, sometimes Mind, sometimes Jesus, sometimes Christ, sometimes Door, sometimes Way, sometimes Bread, sometimes Seed, sometimes Resurrection, sometimes Son, sometimes Father, sometimes Spirit, sometimes Life, sometimes Truth, sometimes Faith, sometimes Grace. These names are used for your understanding, but in reality, it represents the boundary of all things, the necessity that fixes what was unsettled, and the harmony of Wisdom. In this harmony, there are Powers, Principalities, Sources, and Daemons on the Right and Left, along with Energies, Threats, Wrath, Accusers, Satan, and below, the Lower Root from which the nature of things in creation has come.
 
 This cross separates and organizes all things through Reason, distinguishing between what comes from creation and what lies below it, and then unifying everything into a whole.
 
@@ -2614,39 +2661,55 @@ Many have mistaken me for what I am not, and they will continue to say things ab
 
 Just as the Place of Rest is neither seen nor spoken of, much less can I, the Lord of that Place, be seen or spoken of.
 
-The crowd around the cross represents the lower nature, and those you see on the cross are not yet complete because not all parts of Him who descended have been gathered together. When the higher nature is taken up and those who follow Me, obeying My voice, come to Me, those who do not yet listen to Me will become like you and will no longer be what they currently are, but will rise above the worldly people, just as I am above them now. As long as you do not call yourself Mine, I am not truly Myself. But if you listen to Me, you will be like Me, and I will be as I was when you are united with Me. You come from Me. Ignore the many outsiders and those who don't understand the mystery; know that I am completely with the Father and the Father is with Me.
+The crowd around the cross represents the lower nature, and those you see on the cross are not yet complete because not all parts of Him who descended have been gathered together. When the higher nature is taken up and those who follow Me, obeying My voice, come to Me, those who do not yet listen to Me will become like you and will no longer be what they currently are, but will rise above the worldly people, just as I am above them now.
 
-"None of the things they say I suffered are true. The suffering I showed you and the others in the dance should be considered a mystery. What you saw, I revealed, but my true nature only I know. Allow me to keep what is mine, and see through Me what is yours. See Me as I truly am, not just what I said, but what you can understand, for you are connected to Me.
+As long as you do not call yourself Mine, I am not truly Myself. But if you listen to Me, you will be like Me, and I will be as I was when you are united with Me. You come from Me. Ignore the many outsiders and those who don't understand the mystery; know that I am completely with the Father and the Father is with Me.
 
-"You hear that I suffered, yet I did not; that I did not suffer, yet I did; that I was pierced, yet I was not struck; that I was hanged, yet I was not hanged; that blood flowed from Me, yet it did not. In short, the things they say happened to Me did not, and the things they do not say, those I actually experienced. I will explain this to you because I know you will understand.
+> None of the things they say I suffered are true. The suffering I showed you and the others in the dance should be considered a mystery. What you saw, I revealed, but my true nature only I know. Allow me to keep what is mine, and see through Me what is yours. See Me as I truly am, not just what I said, but what you can understand, for you are connected to Me.
+>
+> You hear that I suffered, yet I did not; that I did not suffer, yet I did; that I was pierced, yet I was not struck; that I was hanged, yet I was not hanged; that blood flowed from Me, yet it did not. In short, the things they say happened to Me did not, and the things they do not say, those I actually experienced. I will explain this to you because I know you will understand.
+>
+> See in Me the slaying of a Word (Logos), the piercing of a Word, the blood of a Word, the wounding of a Word, the hanging of a Word, the suffering of a Word, the fixing of a Word, the death of a Word. By 'Word,' I mean Man. First, understand the Word, then you will understand the Lord, and finally the Man, and His suffering.
 
-"See in Me the slaying of a Word (Logos), the piercing of a Word, the blood of a Word, the wounding of a Word, the hanging of a Word, the suffering of a Word, the fixing of a Word, the death of a Word. By 'Word,' I mean Man. First, understand the Word, then you will understand the Lord, and finally the Man, and His suffering."It is clear that we are dealing with the tradition of inner schools regarding the great mystery of initiation called the Cross. The Cross appears to have three limbs: a right, a left, and a lower arm, similar to the Egyptian tau. The candidate's body was likely bound to it, and in a trance, their soul ascended the mountain of initiation, the inner "height." Here, the candidate meets the Master, but can only hear His voice; they cannot yet see Him fully because all their limbs are not yet united. The perfect Osiris has not yet formed within them but will at a higher stage, when they are united with Christ. These teachings are beautiful echoes from ancient wisdom and shed light on otherwise incomprehensible matters. These inner soul experiences were the life and strength of Gnosis, illuminating the complex systems that were so laboriously articulated.
+It is clear that we are dealing with the tradition of inner schools regarding the great mystery of initiation called the Cross. The Cross appears to have three limbs: a right, a left, and a lower arm, similar to the Egyptian tau. The candidate's body was likely bound to it, and in a trance, their soul ascended the mountain of initiation, the inner "height." Here, the candidate meets the Master, but can only hear His voice; they cannot yet see Him fully because all their limbs are not yet united. The perfect Osiris has not yet formed within them but will at a higher stage, when they are united with Christ.
 
-Hermes Trismegistus refers to this as "sweet, joyous light." Now we can understand the significance of the greeting among such scholars: "The mystery of that which hangs between heaven and earth be with you." We hear about the concept of the Little and Great Man, or the lower and higher selves, in these initiation circles, and also from The Gospel of Eve, which describes a vision on the Mount. "I stood on a high mountain and saw a mighty Man and a dwarf. I heard a voice like thunder and approached to listen. It said to me: 'I am you, and you are I; wherever you are, I am there. I am scattered in all things; from wherever you wish, you can gather Me, and in gathering Me, you gather Yourself.'"The "dwarf" likely represents the "man the size of a thumb in the ether of the heart" from the Upanishads. Though he is currently smaller than small, as spiritual nature develops, he will become greater than great and grow into the stature of the Heavenly Man—the Supreme Self. Regarding the scattering and collecting of the limbs, a passage from The Gospel of Philip, cited by Epiphanius, provides further insight. It is a defense the soul uses while ascending to Heaven, passing through the middle spaces:
+These teachings are beautiful echoes from ancient wisdom and shed light on otherwise incomprehensible matters. These inner soul experiences were the life and strength of Gnosis, illuminating the complex systems that were so laboriously articulated.
 
-"I have recognized myself and gathered myself from all directions. I have not sown children for the Ruler [the lord of this world], but have torn up his roots; I have gathered my scattered limbs and I know who you are." This is what we can gather from the latest published fragment of these instructive Acts. From the already known texts, there are several other interesting fragments. The following is a prayer of praise spoken by John at a sacred feast before his departure from life, addressed to Christ:
+Hermes Trismegistus refers to this as "sweet, joyous light." Now we can understand the significance of the greeting among such scholars: "The mystery of that which hangs between heaven and earth be with you."
 
-"What praise, what offering, what thanksgiving, shall we mention while breaking bread but You alone? We glorify Your Name [i.e., Power] spoken by the Father; we glorify Your Name spoken through the Son; we glorify the Resurrection shown to us through You; we glorify Your Seed, Word, Grace, Faith, Salt, True Pearl, Treasure, Plough, Greatness, Net, and Diadem, called for our sake the Son of Man, Truth, Rest, and Knowledge, Power, Statute, Frankness, Hope, Love, Freedom, and Refuge in You. For You alone are the one Lord, the Root of Deathlessness, and Source of Incorruptibility, Seat of the Ages."Here is the text converted into modern English, corrected, and simplified while preserving its original meaning:
+We hear about the concept of the Little and Great Man, or the lower and higher selves, in these initiation circles, and also from The Gospel of Eve, which describes a vision on the Mount. "I stood on a high mountain and saw a mighty Man and a dwarf. I heard a voice like thunder and approached to listen. It said to me: 'I am you, and you are I; wherever you are, I am there. I am scattered in all things; from wherever you wish, you can gather Me, and in gathering Me, you gather Yourself.' The "dwarf" likely represents the "man the size of a thumb in the ether of the heart" from the Upanishads. Though he is currently smaller than small, as spiritual nature develops, he will become greater than great and grow into the stature of the Heavenly Man—the Supreme Self.
 
----
+Regarding the scattering and collecting of the limbs, a passage from The Gospel of Philip, cited by Epiphanius, provides further insight. It is a defense the soul uses while ascending to Heaven, passing through the middle spaces:
 
-You have been called many things for our sake, so that by invoking these names, we may understand that we can never fully grasp Your greatness. This greatness can only be contemplated by the pure-hearted, for it is reflected in humanity, created in Your image. The same idea, "Your man," is found in the beautiful treatise of Hermes Trismegistus known as The Secret Sermon on the Mountain: "You are God; Your man thus cries to You through fire, air, earth, water, and spirit, through these Your creations." Indeed, the entire Poimandres collection of Trismegistic literature shares the same origin as Gnosis. The high ideals of the Gnostic life and the lofty aspirations of those striving for a sinless state are clearly shown in the farewell address to his disciples, attributed to John by the Gnostic author of the Acts.
+> I have recognized myself and gathered myself from all directions. I have not sown children for the Ruler [the lord of this world], but have torn up his roots; I have gathered my scattered limbs and I know who you are." This is what we can gather from the latest published fragment of these instructive Acts. From the already known texts, there are several other interesting fragments. The following is a prayer of praise spoken by John at a sacred feast before his departure from life, addressed to Christ:
+>
+> What praise, what offering, what thanksgiving, shall we mention while breaking bread but You alone? We glorify Your Name [i.e., Power] spoken by the Father; we glorify Your Name spoken through the Son; we glorify the Resurrection shown to us through You; we glorify Your Seed, Word, Grace, Faith, Salt, True Pearl, Treasure, Plough, Greatness, Net, and Diadem, called for our sake the Son of Man, Truth, Rest, and Knowledge, Power, Statute, Frankness, Hope, Love, Freedom, and Refuge in You. For You alone are the one Lord, the Root of Deathlessness, and Source of Incorruptibility, Seat of the Ages.
+>
+> You have been called many things for our sake, so that by invoking these names, we may understand that we can never fully grasp Your greatness. This greatness can only be contemplated by the pure-hearted, for it is reflected in humanity, created in Your image.
 
-"Brothers and fellow servants, co-heirs and co-partners in the kingdom of the Lord, you know how many powers the Lord has granted you through me—how many wonders, healings, signs, gifts of the Spirit, teachings, guidance, reliefs, services, glories, graces, gifts of faith, and communions—you see many of these with your own eyes, and there are many more that your eyes cannot see, nor your ears hear! Therefore, stand firm in Him, always remembering Him and understanding why the mystery of God's plan for humanity is being fulfilled.
+The same idea, "Your man," is found in the beautiful treatise of Hermes Trismegistus known as The Secret Sermon on the Mountain: "You are God; Your man thus cries to You through fire, air, earth, water, and spirit, through these Your creations." Indeed, the entire Poimandres collection of Trismegistic literature shares the same origin as Gnosis. The high ideals of the Gnostic life and the lofty aspirations of those striving for a sinless state are clearly shown in the farewell address to his disciples, attributed to John by the Gnostic author of the Acts.
 
-"The Lord Himself encourages you through me: 'Brothers, I wish to be free from grief on your behalf, from violence, plots, and punishments.' For He knows the violence that comes from you, He knows the dishonor, the plotting, and the punishment that comes from those who do not obey His commandments."Let us not grieve our Good God, who is compassionate, merciful, holy, pure, and spotless. He is unchangeable, without flaw, and knows no deceit or anger. He is higher and greater than any attribute we can name or imagine, Jesus our God.
-
-"May He be pleased with us as citizens of a well-governed state; may He be happy with our pure living; may He find peace in our reverent behavior; may He be free from worry because of our self-control; may He be delighted by our brotherly unity; may He be joyful at our wisdom; may He rejoice in our love for Him.
-
-"I say these things to you as I approach the end of my appointed task, which the Lord has brought to a close for me. What more can I say to you? You have the promises of our God; you have the assurance of His goodness; you have His presence, which will never leave you. If you sin no more, He will forgive all that you have done in ignorance. But if, after knowing Him and receiving His mercy, you turn back to sinful ways, your past sins will be held against you, and you will have neither a share nor mercy before Him."
+> Brothers and fellow servants, co-heirs and co-partners in the kingdom of the Lord, you know how many powers the Lord has granted you through me—how many wonders, healings, signs, gifts of the Spirit, teachings, guidance, reliefs, services, glories, graces, gifts of faith, and communions—you see many of these with your own eyes, and there are many more that your eyes cannot see, nor your ears hear! Therefore, stand firm in Him, always remembering Him and understanding why the mystery of God's plan for humanity is being fulfilled.
+>
+> The Lord Himself encourages you through me: 'Brothers, I wish to be free from grief on your behalf, from violence, plots, and punishments.' For He knows the violence that comes from you, He knows the dishonor, the plotting, and the punishment that comes from those who do not obey His commandments."Let us not grieve our Good God, who is compassionate, merciful, holy, pure, and spotless. He is unchangeable, without flaw, and knows no deceit or anger. He is higher and greater than any attribute we can name or imagine, Jesus our God.
+>
+> May He be pleased with us as citizens of a well-governed state; may He be happy with our pure living; may He find peace in our reverent behavior; may He be free from worry because of our self-control; may He be delighted by our brotherly unity; may He be joyful at our wisdom; may He rejoice in our love for Him.
+>
+> I say these things to you as I approach the end of my appointed task, which the Lord has brought to a close for me. What more can I say to you? You have the promises of our God; you have the assurance of His goodness; you have His presence, which will never leave you. If you sin no more, He will forgive all that you have done in ignorance. But if, after knowing Him and receiving His mercy, you turn back to sinful ways, your past sins will be held against you, and you will have neither a share nor mercy before Him.
 
 Immediately following this is John's last prayer to Christ on behalf of his brethren:
 
-"Jesus, You who have woven this wreath with Your weaving, who have united these many blossoms into Your sweet, everlasting flower, who have sown these Words, protector of Your own, healer who heals freely, You who always do good and are humble, the only merciful one, the friend of man, the only savior, the righteous one who sees all things and is always present, God, Jesus, Christ, Lord, who shields all those who hope in You with Your gifts and compassion, You who know well all those who wrong us and blaspheme Your holy Name, the only Lord, watch over Your servants and protect them; yes, Lord, do this!"The rest of the prayer also has a strong Gnostic influence, but we've quoted enough to give you an idea of the lofty thoughts that inspired such early communities. Before we leave The Acts of John, however, we must share the most famous story from their collection. It's surprising that amidst so much beauty, this particular story is the most frequently quoted. Many theology students know nothing else from these instructive documents except "The Story of John and the Bugs." Nevertheless, here it is, as it represents the many legends of the time and adds a touch of humor, which is rare in pious circles. This account is taken from Salmon's summary (Op. supra cit., p. 350).
+> Jesus, You who have woven this wreath with Your weaving, who have united these many blossoms into Your sweet, everlasting flower, who have sown these Words, protector of Your own, healer who heals freely, You who always do good and are humble, the only merciful one, the friend of man, the only savior, the righteous one who sees all things and is always present, God, Jesus, Christ, Lord, who shields all those who hope in You with Your gifts and compassion, You who know well all those who wrong us and blaspheme Your holy Name, the only Lord, watch over Your servants and protect them; yes, Lord, do this!
 
-Once, John and his companions were traveling for apostolic purposes. On their journey, they stopped at an uninhabited inn. They found only one bare couch, so they laid clothes on it for the Apostle to rest, while the others slept on the floor. However, John was troubled by a large number of bugs. After tossing and turning sleeplessly for half the night, he said loud enough for everyone to hear, "I say unto you, bugs, be considerate; leave this place for the night and rest somewhere far from the servant of God." The disciples laughed, and the Apostle went back to sleep while they talked quietly so as not to disturb him. In the morning, the first to wake up went to the door and saw a large group of bugs standing there. The others came to see, and eventually, St. John woke up and saw them too. Then, remembering his gratitude to the bugs rather than the comfort of the next traveler, he said: "Oh bugs, since you have been kind and followed my request, return to your place." As soon as he said this and got up from the couch, the bugs quickly rushed from the door to the couch, climbed up the legs, and disappeared into the seams. John then said: "See how these creatures, hearing a man's voice, have obeyed; but we, hearing God's voice, neglect and disobey. For how long?"
+The rest of the prayer also has a strong Gnostic influence, but we've quoted enough to give you an idea of the lofty thoughts that inspired such early communities. Before we leave The Acts of John, however, we must share the most famous story from their collection.
 
-## From the Acts of Andrew
+It's surprising that amidst so much beauty, this particular story is the most frequently quoted. Many theology students know nothing else from these instructive documents except "The Story of John and the Bugs." Nevertheless, here it is, as it represents the many legends of the time and adds a touch of humor, which is rare in pious circles. This account is taken from Salmon's summary (Op. supra cit., p. 350).
+
+> Once, John and his companions were traveling for apostolic purposes. On their journey, they stopped at an uninhabited inn. They found only one bare couch, so they laid clothes on it for the Apostle to rest, while the others slept on the floor. However, John was troubled by a large number of bugs. After tossing and turning sleeplessly for half the night, he said loud enough for everyone to hear, "I say unto you, bugs, be considerate; leave this place for the night and rest somewhere far from the servant of God." The disciples laughed, and the Apostle went back to sleep while they talked quietly so as not to disturb him.
+>
+> In the morning, the first to wake up went to the door and saw a large group of bugs standing there. The others came to see, and eventually, St. John woke up and saw them too. Then, remembering his gratitude to the bugs rather than the comfort of the next traveler, he said: "Oh bugs, since you have been kind and followed my request, return to your place." As soon as he said this and got up from the couch, the bugs quickly rushed from the door to the couch, climbed up the legs, and disappeared into the seams. John then said: "See how these creatures, hearing a man's voice, have obeyed; but we, hearing God's voice, neglect and disobey. For how long?"
+
+#### From the Acts of Andrew
 
 From the Acts of Andrew, the following address to the Cross is of great interest, especially when compared to quotes from the Acts of John and other Gnostic ideas. For the Gnostics, the Cross symbolized cosmic processes, the crucifixion of the soul in matter, and its regeneration. Unfortunately, our information is incomplete. The following address, attributed to Andrew, has been edited by Catholic scribes but clearly originates from Gnostic concepts.
 
