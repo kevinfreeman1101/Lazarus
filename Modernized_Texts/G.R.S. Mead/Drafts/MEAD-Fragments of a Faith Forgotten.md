@@ -17,7 +17,6 @@ Draft; this content features the full modernized text, but edits & corrections a
 TODO: Footnote links
 
 ## CONTENTS
-
 - [STATUS](#status)
 - [CONTENTS](#contents)
 - [Prolegomena](#prolegomena)
