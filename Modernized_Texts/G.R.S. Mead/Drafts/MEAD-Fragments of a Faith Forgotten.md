@@ -67,9 +67,10 @@ TODO: Footnote links
     - [Heracleon](#heracleon)
     - [Bardesanes](#bardesanes)
       - [The Hymn of the Robe of Glory](#the-hymn-of-the-robe-of-glory)
-- [Foreword](#foreword)
-- [From the Acts of Thomas](#from-the-acts-of-thomas)
-- [From the Acts of John](#from-the-acts-of-john)
+    - [Footnotes](#footnotes)
+    - [Foreword](#foreword)
+    - [From the Acts of Thomas](#from-the-acts-of-thomas)
+    - [From the Acts of John](#from-the-acts-of-john)
 - [From the Acts of Andrew](#from-the-acts-of-andrew)
 - [From the Travels of Peter](#from-the-travels-of-peter)
 - [The Askew and Bruce Codices](#the-askew-and-bruce-codices)
@@ -2362,7 +2363,7 @@ He came and joined me, and I made him my close friend and business partner. I wa
 
 I also forgot the pearl, the reason my parents had sent me. Under the weight of their influence, I fell into a deep sleep. My parents noticed what was happening and were saddened for me. They issued a proclamation in our kingdom, calling everyone to our gate—king, princes of Parthia, and all the nobles of the East. They devised a plan to rescue me from Egypt and wrote me a letter, signed by every noble:
 
-"From your Father, the King of kings, and your Mother, the Mistress of the East, and from your Brother, our next in rank, to you our son in Egypt, greetings! Wake up and read our letter! Remember that you are a prince! See who you are serving! Remember the pearl you went to Egypt for! Think of your bright robe and your glorious toga, which you will wear when your name is listed among the valiant. You will be king with your Brother in our kingdom."
+> From your Father, the King of kings, and your Mother, the Mistress of the East, and from your Brother, our next in rank, to you our son in Egypt, greetings! Wake up and read our letter! Remember that you are a prince! See who you are serving! Remember the pearl you went to Egypt for! Think of your bright robe and your glorious toga, which you will wear when your name is listed among the valiant. You will be king with your Brother in our kingdom.
 
 The letter was sealed by the King to protect it from the wicked ones and the savage demons. It flew like an eagle, the king of all birds. It landed beside me and began to speak. At its voice and the sound of its wings, I woke up. I picked it up, kissed it, broke its seal, and read it. The words were written just as they were in my heart. I remembered that I was a prince, and my free soul longed for its true nature. I remembered the pearl for which I had been sent to Egypt.
 
@@ -2370,15 +2371,21 @@ I began to charm the terrible, loud-breathing serpent. I put it to sleep, using 
 
 My letter, my awakener, was there before me on the road. Its voice had awakened me, and its light was guiding me. It shone before me, encouraging me to move faster and drawing me on with love. I continued on, passing by Babel on my left, and reached Maishan, the great haven of the merchants on the seashore.
 
-My bright robe, which I had left behind, and the toga in which it was wrapped, were sent by my parents from the heights of Hyrcania. They sent it through their trustworthy treasurers. I had forgotten its appearance because I had left it in my Father's house when I was a child. Suddenly, as I faced it, the garment seemed like a mirror of myself. I saw my whole self in it, and it reflected my entire being. We were two distinct individuals, yet we were also one in likeness. Similarly, the treasurers who brought it to me appeared as two, yet they were one in appearance. They bore a royal seal, marking the restoration of my treasure and wealth.
+My bright robe, which I had left behind, and the toga in which it was wrapped, were sent by my parents from the heights of Hyrcania. They sent it through their trustworthy treasurers. I had forgotten its appearance because I had left it in my Father's house when I was a child.
+
+Suddenly, as I faced it, the garment seemed like a mirror of myself. I saw my whole self in it, and it reflected my entire being. We were two distinct individuals, yet we were also one in likeness. Similarly, the treasurers who brought it to me appeared as two, yet they were one in appearance. They bore a royal seal, marking the restoration of my treasure and wealth.
 
 My beautifully embroidered robe, adorned with vibrant colors and precious stones like gold, beryls, rubies, agates, and sardonyxes, was prepared in its heavenly home. Its seams were secured with adamant stones, and it was fully decorated with the image of the King of kings, displaying various hues like sapphire. I saw that it was alive with the movements of knowledge and seemed almost ready to speak. I heard it say something to those who brought it down, communicating its purpose.
 
 I realized that as I matured, my stature grew in accordance with the efforts made for me. The robe, in its royal grandeur, expanded towards me, and those who brought it hastened for me to take it. My love urged me to run and receive it; I reached out, took it, and adorned myself with its beautiful colors. I wrapped myself in my brilliant toga and ascended to the gate of honor and homage.
 
-I bowed my head and paid homage to the Majesty of my Father who had sent it to me. I had obeyed his commands, and he had fulfilled his promises. At the gate of his princes, I joined his nobles, and he welcomed and rejoiced in me. I was with him in his kingdom, and all his servants glorified him with their voices. He promised that I would also accompany him to the gate of the King of kings. With my gift and my pearl, I would appear with him before our King. Professor Bevan rightly calls this glorious hymn a "masterpiece of religious poetry." It is not only magnificent as poetry but also invaluable as a record of hidden knowledge. What have we lost with the barbaric destruction of the Hymns of Bardaisan?
+I bowed my head and paid homage to the Majesty of my Father who had sent it to me. I had obeyed his commands, and he had fulfilled his promises. At the gate of his princes, I joined his nobles, and he welcomed and rejoiced in me. I was with him in his kingdom, and all his servants glorified him with their voices. He promised that I would also accompany him to the gate of the King of kings. With my gift and my pearl, I would appear with him before our King.
 
-Footnotes:
+Professor Bevan rightly calls this glorious hymn a "masterpiece of religious poetry." It is not only magnificent as poetry but also invaluable as a record of hidden knowledge. What have we lost with the barbaric destruction of the Hymns of Bardaisan?
+
+---
+
+#### Footnotes
 
 1. Either the Pleroma or Ogdoad, the spiritual realms.
 2. A Gnostic technical term.
@@ -2394,7 +2401,7 @@ Footnotes:
 12. The powers that compel rebirth, presumably the representatives of the Father and Mother.
 13. Sarbug (Wright). These are apparently various planes or states.
 14. The serpent likely represents the passions inherent in the elemental essence.
-15. Is it possible that a real biographical element is woven into the poem?I tend to believe this. It could even be a lost chapter from the hidden life of Bardaisan himself. Driven by a desire to uncover the secrets of Gnosis, he joins a caravan to Egypt and arrives in Alexandria. There, he meets a friend on the same quest. Bardaisan first has the bad luck to fall into the hands of a self-indulgent and greedy school of magic, temporarily forgetting his true mission. Only after this difficult experience does he find the teachings he sought in the Valentinian school. This is just a theory, but it's neither impossible nor improbable.
+15. Is it possible that a real biographical element is woven into the poem? I tend to believe this. It could even be a lost chapter from the hidden life of Bardaisan himself. Driven by a desire to uncover the secrets of Gnosis, he joins a caravan to Egypt and arrives in Alexandria. There, he meets a friend on the same quest. Bardaisan first has the bad luck to fall into the hands of a self-indulgent and greedy school of magic, temporarily forgetting his true mission. Only after this difficult experience does he find the teachings he sought in the Valentinian school. This is just a theory, but it's neither impossible nor improbable.
 
 Names have power. Compare this to the beautiful "Come unto us" passages in the Song of the Powers of the Pistis Sophia. The descent of the Holy Ghost, or spiritual consciousness, involves the names of the Father, Son, and Holy Ghost, representing the powers of the immortal principles in humans. During initiation, he left his body behind in a trance and moved "to the right," as all initiates in the Orphic and other Mysteries do.
 
@@ -2402,49 +2409,89 @@ Consider the saying: "As any of you sees himself in a mirror, so let him see Me,
 
 This seems to be someone different from the subject of the third and fourth lines from the end. Some Evidence of Gnosticism in Non-Canonical Acts
 
-## Foreword
+#### Foreword
 
-Just as there were many other versions of the Sayings and Doings of the Lord before and alongside the canonical Gospels, there were also many other narratives claiming to record the actions and words of the Apostles and Disciples of the Lord before and alongside the canonical Acts. Most of these narratives originated in what are now called heretical circles but were later revised by orthodox editors to fit their doctrinal biases and were eagerly adopted by the Catholic Church. As Lipsius, the leading expert on the subject, states: "Almost every new editor of such narratives, exercising the freedom that antiquity allowed in handling literary works, would reshape the materials before him, excluding anything that did not fit his theological views—such as dogmatic statements, speeches, prayers, etc.—and replacing them with his own formulations, further expanding or shortening as he saw fit or as his immediate goals dictated." (Article "Apocryphal Acts of the Apostles" in Smith and Wace's Dictionary, incorporated into his comprehensive work Die apokryphen Apostelgeschichte, 1883, etc.) The main point of interest for us is that some of these edited and re-edited documents still retain traces of their Gnostic origins. Lipsius has shown that their Gnosticism should not be attributed to third-century Manichaeism, as some have assumed, but to the general Gnosis of the second century. These religious stories were widely circulated in the second century, serving as the primary means of Gnostic public outreach. The Church Fathers attacked the technical inner teachings of Gnosticism with distortion and ridicule. The Gnostics did not respond, likely due to their oaths of secrecy and the understanding that their profound doctrines could not be settled through common debate. Their inner Gospel teachings were meant for insiders and seemed foolish to everyone else. However, the Acts-romances, which likely reflected real inner experiences, were easier to understand. Although modern critics may find them fantastical, they were entirely believable to early Christians. These stories served as a bridge between the General Church and Gnostic teachings and couldn't be dismissed with ridicule.
+Just as there were many other versions of the Sayings and Doings of the Lord before and alongside the canonical Gospels, there were also many other narratives claiming to record the actions and words of the Apostles and Disciples of the Lord before and alongside the canonical Acts. Most of these narratives originated in what are now called heretical circles but were later revised by orthodox editors to fit their doctrinal biases and were eagerly adopted by the Catholic Church.
 
-Catholic bishops and teachers found another way to counter the influence of Gnostic writings. As Lipsius notes, they adopted the most popular stories from heretical books, removed what they considered false doctrine, and presented the purified versions to the people. Fortunately, this purification wasn't complete, and some traces of the original teachings remain, which we aim to highlight. This brief overview won't describe these Acts in detail or critically analyze their sources. Our goal is to salvage fragments that still show traces of old Gnostic teachings. While the original works have vanished and the tradition has been heavily edited, the newly discovered Coptic Acts of Peter might offer an untouched translation of the original text. The earliest collection of these Gnostic Acts is believed to have been compiled by someone named Leucius (there are at least eighteen variations of this name), or Leucius Charinus, who is said to have been a disciple of John. However, this claim is unreliable unless "John" refers to the author of the Fourth Gospel and not one of the original Twelve Apostles. Regardless, the so-called Leucian Acts are considered early works. According to Zahn, this collection was made before the Gnostics were deemed heretical, which means it was likely compiled before 150 A.D.
+As Lipsius, the leading expert on the subject, states:
 
-The Leucian Acts are from the second century, as Clement of Alexandria was familiar with them. They were likely collected in Alexandria. Another early collector of Gnostic Acts was someone named Linus, about whom little is known; he may have lived in Rome. The Abdias collection is too late to be relevant here. For a comprehensive discussion and analysis of all Gnostic fragments and references in the Apocryphal Acts, students should refer to Lipsius' extensive work on the subject. We will now present the most important of these fragments for the reader to understand their nature. Some of these Acts have not been translated into English; I use the most recent texts from Zahn, Bonnet, and Lipsius.
+> Almost every new editor of such narratives, exercising the freedom that antiquity allowed in handling literary works, would reshape the materials before him, excluding anything that did not fit his theological views—such as dogmatic statements, speeches, prayers, etc.—and replacing them with his own formulations, further expanding or shortening as he saw fit or as his immediate goals dictated.
+>
+> (Article "Apocryphal Acts of the Apostles" in Smith and Wace's Dictionary, incorporated into his comprehensive work Die apokryphen Apostelgeschichte, 1883, etc.)
 
-## From the Acts of Thomas
+The main point of interest for us is that some of these edited and re-edited documents still retain traces of their Gnostic origins. Lipsius has shown that their Gnosticism should not be attributed to third-century Manichaeism, as some have assumed, but to the general Gnosis of the second century. These religious stories were widely circulated in the second century, serving as the primary means of Gnostic public outreach.
 
-We have already shared the most significant fragment from the Acts of Thomas, also known as Judas Thomas, which is the beautiful Hymn of the Soul, likely composed by Bardesanes. Even if the Acts of Thomas had only preserved this grand Gnostic Hymn of the Robe of Glory, their existence would have been justified. Fortunately, there is more to be found in them. The following is a translation of the beautiful Ode to Sophia. The Maiden is the daughter of Light; the King's radiance is stored within her. She looks majestic and delightful, shining with radiant beauty.
+The Church Fathers attacked the technical inner teachings of Gnosticism with distortion and ridicule. The Gnostics did not respond, likely due to their oaths of secrecy and the understanding that their profound doctrines could not be settled through common debate. Their inner Gospel teachings were meant for insiders and seemed foolish to everyone else. However, the Acts-romances, which likely reflected real inner experiences, were easier to understand. Although modern critics may find them fantastical, they were entirely believable to early Christians. These stories served as a bridge between the General Church and Gnostic teachings and couldn't be dismissed with ridicule.
 
-Her clothes are like spring flowers, emanating sweet fragrances. The King sits enthroned above her, providing them with immortal food at His table.
+Catholic bishops and teachers found another way to counter the influence of Gnostic writings. As Lipsius notes, they adopted the most popular stories from heretical books, removed what they considered false doctrine, and presented the purified versions to the people. Fortunately, this purification wasn't complete, and some traces of the original teachings remain, which we aim to highlight.
 
-Truth crowns her head; Joy plays at her feet. She speaks gracefully, letting forth songs of praise.
+This brief overview won't describe these Acts in detail or critically analyze their sources. Our goal is to salvage fragments that still show traces of old Gnostic teachings. While the original works have vanished and the tradition has been heavily edited, the newly discovered Coptic Acts of Peter might offer an untouched translation of the original text.
 
-Thirty-two singers praise her. Her tongue is like a veil, moved only by those who enter in.
+The earliest collection of these Gnostic Acts is believed to have been compiled by someone named Leucius (there are at least eighteen variations of this name), or Leucius Charinus, who is said to have been a disciple of John. However, this claim is unreliable unless "John" refers to the author of the Fourth Gospel and not one of the original Twelve Apostles. Regardless, the so-called Leucian Acts are considered early works. According to Zahn, this collection was made before the Gnostics were deemed heretical, which means it was likely compiled before 150 A.D.
 
-Her neck rises like steps, built by the first world-builder. Her hands symbolize the band of blessed Aeons, pointing towards the City's Gates.
+The Leucian Acts are from the second century, as Clement of Alexandria was familiar with them. They were likely collected in Alexandria. Another early collector of Gnostic Acts was someone named Linus, about whom little is known; he may have lived in Rome. The Abdias collection is too late to be relevant here. For a comprehensive discussion and analysis of all Gnostic fragments and references in the Apocryphal Acts, students should refer to Lipsius' extensive work on the subject.
 
-Her bridal chamber shines with light and emits the scent of balsam and sweet herbs, delicious myrrh, and savory plants. It is adorned with myrtle wreaths and sweet flowers. Her bridal couch is decorated with reeds.
+We will now present the most important of these fragments for the reader to understand their nature. Some of these Acts have not been translated into English; I use the most recent texts from Zahn, Bonnet, and Lipsius.
 
-Her bridesmen, seven in number, are chosen by her. Seven bridesmaids dance before her.
+#### From the Acts of Thomas
 
-Twelve attendants serve her, always looking for the Bridegroom to fill them with light.
+We have already shared the most significant fragment from the Acts of Thomas, also known as Judas Thomas, which is the beautiful Hymn of the Soul, likely composed by Bardesanes. Even if the Acts of Thomas had only preserved this grand Gnostic Hymn of the Robe of Glory, their existence would have been justified. Fortunately, there is more to be found in them.
 
-They will be with Him forever in everlasting joy, joining the Great Ones at the feast and remaining at the banquet worthy of the Eternal.
+The following is a translation of the beautiful Ode to Sophia.
 
-They will be dressed in royal attire, wearing robes of light, rejoicing and exulting while singing praise to the Father.
+> The Maiden is the daughter of Light; the King's radiance is stored within her. She looks majestic and delightful, shining with radiant beauty.
+>
+> Her clothes are like spring flowers, emanating sweet fragrances. The King sits enthroned above her, providing them with immortal food at His table.
+>
+> Truth crowns her head; Joy plays at her feet. She speaks gracefully, letting forth songs of praise.
+>
+> Thirty-two singers praise her. Her tongue is like a veil, moved only by those who enter in.
+>
+> Her neck rises like steps, built by the first world-builder. Her hands symbolize the band of blessed Aeons, pointing towards the City's Gates.
+>
+> Her bridal chamber shines with light and emits the scent of balsam and sweet herbs, delicious myrrh, and savory plants. It is adorned with myrtle wreaths and sweet flowers. Her bridal couch is decorated with reeds.
+>
+> Her bridesmen, seven in number, are chosen by her. Seven bridesmaids dance before her.
+>
+> Twelve attendants serve her, always looking for the Bridegroom to fill them with light.
+>
+> They will be with Him forever in everlasting joy, joining the Great Ones at the feast and remaining at the banquet worthy of the Eternal.
+>
+> They will be dressed in royal attire, wearing robes of light, rejoicing and exulting while singing praise to the Father.
+>
+> They have received His glorious radiance and are filled with light at the sight of their Lord. They have been given immortal food that never diminishes.
+>
+> They have drunk wine that quenches all thirst and curbs fleshly desires. Thus, they glorify the Father of Truth with the Living Spirit and sing praises to the Mother of Wisdom.
 
-They have received His glorious radiance and are filled with light at the sight of their Lord. They have been given immortal food that never diminishes.
+If only we had the original version of this beautiful hymn, because even the flawed and altered version that remains is still beautiful. Could it be that this is another hymn by Bardaisan?
 
-They have drunk wine that quenches all thirst and curbs fleshly desires. Thus, they glorify the Father of Truth with the Living Spirit and sing praises to the Mother of Wisdom. If only we had the original version of this beautiful hymn, because even the flawed and altered version that remains is still beautiful. Could it be that this is another hymn by Bardaisan? In any case, the hymn reflects on the sacred marriage of Sophia with her Bridegroom, Christ, which we mentioned earlier in our overview of the Basilidian Gnosis. In this marriage, the cosmic Sophia was welcomed back into the Light-world and united with her heavenly spouse. This event was to occur at the Great Consummation, but mystically, it was always happening for those who united with their Higher Selves. Just as the World-soul was reunited with the World-mind in the consummation of the universe, the soul was made one with the Self within in the perfection of the individual. The Maiden is the daughter of the Pleroma of Light; she reflects the splendor of the Kings, the Lords of the Light-realm. Above her in the Light-realm, the King of Glory, Christos, is enthroned, providing the food of immortality to the Spiritual Souls (Pneumatics) who are worthy to be invited to the Feast. At this high initiation, the entire Pleroma (the thirty-two Aeons) sings songs of rejoicing for the victory. Only these perfected souls can praise God with Wisdom's tongue; they alone can make the delicate substance of such lofty heights resonate with songs of praise. The following verse is difficult to understand and likely does not preserve the original meaning. The "City" refers to the Pleroma; the bride-chamber is the Pastos, the shrine, the holy place where the initiation occurs—the Jerusalem Above, perhaps identical with the City mentioned in the superior manuscript of the Codex Brucianus.
+In any case, the hymn reflects on the sacred marriage of Sophia with her Bridegroom, Christ, which we mentioned earlier in our overview of the Basilidian Gnosis. In this marriage, the cosmic Sophia was welcomed back into the Light-world and united with her heavenly spouse. This event was to occur at the Great Consummation, but mystically, it was always happening for those who united with their Higher Selves.
 
-There, the purified soul is guided by seven pairs or syzygies of powers. Rising aloft, she takes with her the twelve, her servants, who are no longer her rulers as they were in the lower world, where she had been chained in the bonds of desire for so long. The twelve are now her own purified powers, through which the Light of Christ is reflected. In the phrase "both shall joy in bliss and exultation" from the third verse from the end, "both" refers to the reunited soul with its "Angel"—those Angels who always see the Face of the Father. This hymn reveals this and much more to those who love the Gnosis, and many pages would not exhaust its full meaning. But we must quickly move on to the remaining fragments in the Acts of Thomas. Here, we present translations of two interesting sacramental prayers or invocations in hymn form. The first goes as follows:
+Just as the World-soul was reunited with the World-mind in the consummation of the universe, the soul was made one with the Self within in the perfection of the individual. The Maiden is the daughter of the Pleroma of Light; she reflects the splendor of the Kings, the Lords of the Light-realm. Above her in the Light-realm, the King of Glory, Christos, is enthroned, providing the food of immortality to the Spiritual Souls (Pneumatics) who are worthy to be invited to the Feast. At this high initiation, the entire Pleroma (the thirty-two Aeons) sings songs of rejoicing for the victory. Only these perfected souls can praise God with Wisdom's tongue; they alone can make the delicate substance of such lofty heights resonate with songs of praise.
 
-"Come, Holy Name of Christ, Name above all names; come, Power from above; come, Perfect Mercy; come, highest gift! "Mother of compassion, come; come, Spouse of Him, the Man; come, Revealer of the hidden mysteries; Mother of the seven mansions, come, who found rest in the eighth! "Come, you who are older than the five holy Limbs—Mind, Thought, Reflection, Thinking, Reasoning; commune with those born later! "Come, Holy Spirit, purge their hearts and minds!" The second goes like this:
+The following verse is difficult to understand and likely does not preserve the original meaning. The "City" refers to the Pleroma; the bride-chamber is the Pastos, the shrine, the holy place where the initiation occurs—the Jerusalem Above, perhaps identical with the City mentioned in the superior manuscript of the Codex Brucianus.
 
-"Come, highest Gift; come, Perfect Mercy; you who know the Chosen's mysteries, descend; you who share in all the noble striver's struggles, come! "Come, Silence, Revealer of the great things of all Greatness; come, you who reveal the hidden and make the secret plain! "Come, Holy Dove, mother of twin young ones; come, Hidden Mother, revealed only through deeds! "Come, you who give joy to all who are united with you; come and commune with us in this thanksgiving (eucharist) which we are making in your name, in this love-feast (agape) to which we have gathered at your call!" These sacramental invocations relate to the same ideas as the formula of the Marcosian Gnosis we have already discussed. The Name is not simply "Christos," but represents the Power of Christ, similar to what Indian theosophy calls shakti or syzygy. The phrase "one more ancient than the five limbs" refers to the Man, the partner of Sophia or the Holy Spirit, also known as Christos. The five limbs likely refer to the Pentad of aeons mentioned in the Gnostic Gospel of Mary, with names similar to those in the "Simonian" system. These are considered among the highest orders in the limbs or members of the Heavenly Man, as detailed in the Bruce and Askew Codices. "Those of later birth" are the beginners awaiting the initiation known as the "seal of perfection."
+There, the purified soul is guided by seven pairs or syzygies of powers. Rising aloft, she takes with her the twelve, her servants, who are no longer her rulers as they were in the lower world, where she had been chained in the bonds of desire for so long. The twelve are now her own purified powers, through which the Light of Christ is reflected.
+
+In the phrase "both shall joy in bliss and exultation" from the third verse from the end, "both" refers to the reunited soul with its "Angel"—those Angels who always see the Face of the Father. This hymn reveals this and much more to those who love the Gnosis, and many pages would not exhaust its full meaning.
+
+But we must quickly move on to the remaining fragments in the Acts of Thomas. Here, we present translations of two interesting sacramental prayers or invocations in hymn form. The first goes as follows:
+
+> Come, Holy Name of Christ, Name above all names; come, Power from above; come, Perfect Mercy; come, highest gift! Mother of compassion, come; come, Spouse of Him, the Man; come, Revealer of the hidden mysteries; Mother of the seven mansions, come, who found rest in the eighth! Come, you who are older than the five holy Limbs—Mind, Thought, Reflection, Thinking, Reasoning; commune with those born later! Come, Holy Spirit, purge their hearts and minds!
+
+The second goes like this:
+
+> Come, highest Gift; come, Perfect Mercy; you who know the Chosen's mysteries, descend; you who share in all the noble striver's struggles, come! Come, Silence, Revealer of the great things of all Greatness; come, you who reveal the hidden and make the secret plain! Come, Holy Dove, mother of twin young ones; come, Hidden Mother, revealed only through deeds! Come, you who give joy to all who are united with you; come and commune with us in this thanksgiving (eucharist) which we are making in your name, in this love-feast (agape) to which we have gathered at your call!
+
+These sacramental invocations relate to the same ideas as the formula of the Marcosian Gnosis we have already discussed. The Name is not simply "Christos," but represents the Power of Christ, similar to what Indian theosophy calls shakti or syzygy. The phrase "one more ancient than the five limbs" refers to the Man, the partner of Sophia or the Holy Spirit, also known as Christos. The five limbs likely refer to the Pentad of aeons mentioned in the Gnostic Gospel of Mary, with names similar to those in the "Simonian" system. These are considered among the highest orders in the limbs or members of the Heavenly Man, as detailed in the Bruce and Askew Codices. "Those of later birth" are the beginners awaiting the initiation known as the "seal of perfection."
 
 The "mighty things of the whole Greatness" are the mysteries of the Pleroma. The Holy Dove symbolizes Sophia or the World-soul. According to Bardaisan's Gnosis, she had two daughters named Shame of the Dry and Image of the Water, as described by Ephraim, a critic of the Bardesanists. These names likely represent the productive World-earth and procreative World-water, the creators of the material world, or the earthly and sublunary regions.
 
-Before moving on from the Acts of Thomas, here's a sample story illustrating the religious tales of the time. The Apostle Judas Thomas, also called the Twin of Jesus, is said to have been assigned India as his mission field. Initially, Thomas is reluctant to go, but Jesus, his master, sells him to an Eastern trader as a skilled carpenter. According to Salmon's "Introduction to the New Testament" (8th ed., 1897, pp. 337-338), when Thomas arrives in India, he is brought before the King. The King, questioning his skills in masonry and carpentry, asks if Thomas can build him a palace. He agrees that he can, and creates a plan that gets approved. He is then hired to build the palace and is given plenty of money for the project. However, he says he can't start until winter. The King finds this strange but trusts his expertise and agrees. When the King leaves, instead of building, Thomas spends his time preaching the Gospel and uses all the money to help the poor.
+Before moving on from the Acts of Thomas, here's a sample story illustrating the religious tales of the time:
+
+The Apostle Judas Thomas, also called the Twin of Jesus, is said to have been assigned India as his mission field. Initially, Thomas is reluctant to go, but Jesus, his master, sells him to an Eastern trader as a skilled carpenter. According to Salmon's "Introduction to the New Testament" (8th ed., 1897, pp. 337-338), when Thomas arrives in India, he is brought before the King.
+
+The King, questioning his skills in masonry and carpentry, asks if Thomas can build him a palace. He agrees that he can, and creates a plan that gets approved. He is then hired to build the palace and is given plenty of money for the project. However, he says he can't start until winter. The King finds this strange but trusts his expertise and agrees. When the King leaves, instead of building, Thomas spends his time preaching the Gospel and uses all the money to help the poor.
 
 After some time, the King asks for an update on the palace. Thomas replies that it's almost finished except for the roof and asks for more money, which the King provides. Thomas then spends this money also on widows and orphans. Eventually, the King returns to the city and discovers that Thomas has only been preaching, giving alms to the poor, and healing the sick. Thomas seemed like a magician, yet he never charged for his cures; he lived on bread, water, and salt, and had only one piece of clothing.
 
@@ -2452,9 +2499,7 @@ Angry, the King summons Thomas. 'Have you built me a palace?' 'Yes.' 'Let me see
 
 That night, the King's brother dies, and angels take his soul to see the heavenly dwellings. They ask where he would like to stay. When he sees the palace Thomas built, he wants to live there. Upon learning it belongs to his brother, he begs to return to life to buy it. As they prepare his body for burial, he comes back to life. He sends for the King, knowing his love, and pleads with him to sell the palace. When the King learned the truth, he refused to sell the mansion he intended to live in himself. Instead, he promised his brother that Thomas, who was still alive, would build him a better one. The two brothers then received instruction and were baptized.
 
----
-
-## From the Acts of John
+#### From the Acts of John
 
 In a recent volume of the valuable series Texts and Studies (Apocrypha Anecdota II., by M. R. James, 1897), there is a long fragment of The Acts of John, much of which had never been published before. This fragment was recovered from a fourteenth-century manuscript preserved in Vienna. The original Acts date back to the Leucian collection. Since Clement of Alexandria quoted from them, we can place them in the third quarter of the second century. Therefore, we have an early document of great interest, especially because of its distinctly Gnostic nature. Most of the fragment is a monologue by John, preserving a remarkable tradition of Jesus' occult life. The christology is entirely docetic, making the fragment a valuable addition to our knowledge of Gnostic tradition.
 
