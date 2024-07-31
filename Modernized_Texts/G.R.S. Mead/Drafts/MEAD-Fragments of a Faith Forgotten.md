@@ -64,8 +64,8 @@ TODO: Footnote links
     - [Hippolytus' Account of One of the Variants of the Sophia Myth](#hippolytus-account-of-one-of-the-variants-of-the-sophia-myth)
     - [Marcus' Number-Symbolism](#marcus-number-symbolism)
     - [Ptolemy](#ptolemy)
-  - [Heracleon](#heracleon)
-  - [Bardesanes](#bardesanes)
+    - [Heracleon](#heracleon)
+    - [Bardesanes](#bardesanes)
   - [The Hymn of the Robe of Glory](#the-hymn-of-the-robe-of-glory)
 - [Foreword](#foreword)
 - [From the Acts of Thomas](#from-the-acts-of-thomas)
@@ -2234,13 +2234,17 @@ The next verse, "The Light shines in the Darkness and the Darkness did not under
 
 Ptolemy explained that the Proem references the two tetrads—Father and Silence, Mind and Truth, Word and Life, Man and Church. This was Ptolemy's interpretation of the Proem of the Logos-doctrine, and we must stop here as there is no more information available. Irenaeus' summary in his opening chapters of what he learned about the beliefs of Ptolemy's followers is very similar to the aeon-process and Sophia-myth drama familiar from Hippolytus' account.
 
-### Heracleon
+#### Heracleon
 
-Of the life of Heracleon, whom Clement of Alexandria mentioned...Heracleon, considered the "most esteemed of the school of Valentinus," is known only for writing certain Memoirs (hypomnemata), which include a commentary on the fourth Gospel. This commentary, the first on any New Testament book, is usually dated to 170-180 A.D. Heracleon is thus the first commentator on canonical Christianity, and significant fragments of his work have been preserved by Origen in his own commentary on the Gospel of John. These fragments were first collected by Grabe in his Spicilegium, and later reprinted by Massuet and Stieren in their editions of Irenaeus, and by Hilgenfeld in his Ketzergeschichte (1884). In 1891, they were re-edited by Brooke in Texts and Studies, i. 4, after a new comparison of all eight known manuscripts (only three had been compared before). In these fragments, Heracleon uses the "Valentinian" system as a basis, but it remains in the background, and his interpretations are often supported by Origen. The Gnostics were still part of the Christian community and wanted to remain so, but were eventually expelled because they claimed that Christ's teachings contained wisdom beyond the understanding of the majority.
+Of the life of Heracleon, whom Clement of Alexandria mentioned...Heracleon, considered the "most esteemed of the school of Valentinus," is known only for writing certain Memoirs (hypomnemata), which include a commentary on the fourth Gospel. This commentary, the first on any New Testament book, is usually dated to 170-180 A.D. Heracleon is thus the first commentator on canonical Christianity, and significant fragments of his work have been preserved by Origen in his own commentary on the Gospel of John.
+
+These fragments were first collected by Grabe in his Spicilegium, and later reprinted by Massuet and Stieren in their editions of Irenaeus, and by Hilgenfeld in his Ketzergeschichte (1884). In 1891, they were re-edited by Brooke in Texts and Studies, i. 4, after a new comparison of all eight known manuscripts (only three had been compared before).
+
+In these fragments, Heracleon uses the "Valentinian" system as a basis, but it remains in the background, and his interpretations are often supported by Origen. The Gnostics were still part of the Christian community and wanted to remain so, but were eventually expelled because they claimed that Christ's teachings contained wisdom beyond the understanding of the majority.
 
 Heracleon's commentary, however, is not our main focus, as it lies between Gnostic and General Christian exegesis, similar to the perspectives of Clement and Origen.
 
-### Bardesanes
+#### Bardesanes
 
 Now, let's discuss Bardesanes, whom Hilgenfeld calls "the last of the Gnostics." This will conclude our overview of the Christian theosophists, which we have tried to piece together from the fragmented records preserved in early Christian literature.Bardesanes was the last prominent Gnostic who tried to spread his beliefs among mainstream Christians. Although Gnostic ideas continued to be studied secretly for centuries and resurfaced in different forms, such as the Manichaean movement, Bardesanes was notable for his public efforts. Born on July 11, 155 A.D. in Edessa by the river Daisan, he died in 233 A.D. at the age of 78. His parents, Nuhama and Nahashirama, were wealthy and noble, ensuring he received an excellent education. He grew up alongside a prince who later became one of the Abgar kings, gaining fame for his skill in archery.
 
