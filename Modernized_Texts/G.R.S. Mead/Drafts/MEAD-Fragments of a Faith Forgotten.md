@@ -87,6 +87,8 @@ TODO: Footnote links
 - [Bibliographies](#bibliographies)
   - [General Bibliography](#general-bibliography)
     - [Early Works](#early-works)
+    - [Works Subsequent to the Publication of the Text of the Philosophumena in 1851](#works-subsequent-to-the-publication-of-the-text-of-the-philosophumena-in-1851)
+    - [The Coptic Gnostic Works](#the-coptic-gnostic-works)
 
 "So understand the Light," He answered, "and make friends with it." — HERMES THE THRICE-GREATEST
 
@@ -3648,318 +3650,580 @@ In summary, we should apply the same critical standards to Gnostic writings as w
 
 #### Some Forgotten Sayings
 
-In the early centuries of Christianity, there were many traditions, legends, and religious stories in circulation, known as Memoirs, Acts, and Gospels. These contained sayings of the Lord, or Logoi, which were prophetic statements similar to those made by members of the Schools of the Prophets in the Old Testament. Over time, some of these traditional and legendary settings of the Logoi were declared to be historical, and a canon of orthodox tradition was established from the mid-second century onwards. The term "mythical" here refers to stories that symbolically convey teachings about the nature of God, the universe, and the human soul.
+In the early centuries of Christianity, there were many traditions, legends, and religious stories in circulation, known as Memoirs, Acts, and Gospels. These contained sayings of the Lord, or Logoi, which were prophetic statements similar to those made by members of the Schools of the Prophets in the Old Testament.
 
-As only a few writings were selected for the canon, many Logoi were rejected. The latest collection of these excluded Logoi was made by Resell and published in 1889 in Gebhardt and Harnack's series "Texte und Untersuchungen," under the title "Agrapha: Aussercanonische Evangelienfragmente."Some of these non-canonical fragments are variations of familiar canonical sayings, mainly interesting for reconstructing one of the original sources the synoptic compilers used. A few are found in the Pauline Letters, while others are entirely unfamiliar to those who only know the canonical books of the New Testament. These sayings are particularly interesting to students of early Christian origins, so I have included a selection translated from Resch's text. Some of these sayings were also included in a religious novel by a Jewish writer, titled "As Others Saw Him," published in 1895 in London by William Heinemann.
+Over time, some of these traditional and legendary settings of the Logoi were declared to be historical, and a canon of orthodox tradition was established from the mid-second century onwards. The term "mythical" here refers to stories that symbolically convey teachings about the nature of God, the universe, and the human soul.
 
-Be merciful to receive mercy; forgive so that you may be forgiven; as you do, it will be done to you; as you give, it will be given to you; as you judge, you will be judged; as you serve, service will be done to you; with the measure you use, it will be measured to you in return. Wisdom sends forth her children. He who is near Me is near the fire; and he who is far from Me is far from the kingdom. If you do not observe the small mysteries, who will give you the great ones? Those who wish to see Me and reach My kingdom must attain Me through pain and suffering. Good must come, but blessed is he through whom it comes; similarly, evil must come, but woe to him through whom it comes. The weak will be saved by the strong.
+As only a few writings were selected for the canon, many Logoi were rejected. The latest collection of these excluded Logoi was made by Resell and published in 1889 in Gebhardt and Harnack's series "Texte und Untersuchungen," under the title "Agrapha: Aussercanonische Evangelienfragmente."
 
-Guard the mysteries for Me and for the sons of My house. Attach yourself to the holy ones, for those who do so are made holy. The form of this world passes away. (Form, meaning configuration, as there are other worlds and other phases of this world). As often as you eat this bread and drink this cup, proclaim My death and confess My resurrection and ascension until I come to you. Remember to have faith and hope, as they inspire love for God and others, which leads to eternal life. There are ways of mixing that result in death and others that lead to life. Seeing a man working on the Sabbath, He said: "Man, if you know what you are doing, you are blessed; but if you do not know, you are cursed and breaking the law."
+Some of these non-canonical fragments are variations of familiar canonical sayings, mainly interesting for reconstructing one of the original sources the synoptic compilers used. A few are found in the Pauline Letters, while others are entirely unfamiliar to those who only know the canonical books of the New Testament. These sayings are particularly interesting to students of early Christian origins, so I have included a selection translated from Resch's text. Some of these sayings were also included in a religious novel by a Jewish writer, titled "As Others Saw Him," published in 1895 in London by William Heinemann.
 
-Why are you amazed by the miracles? I offer you a great inheritance that the entire world cannot hold. When asked by a man when His kingdom would come, the Lord replied: "When two become one, and the outside is like the inside, and the male is with the female, neither male nor female. Do not call anyone 'Father' on earth, for there are only rulers on earth; in heaven is the Father from whom all descent comes, both in heaven and on earth."
+Be merciful to receive mercy; forgive so that you may be forgiven; as you do, it will be done to you; as you give, it will be given to you; as you judge, you will be judged; as you serve, service will be done to you; with the measure you use, it will be measured to you in return.
 
-Do not sadden the Holy Spirit within you, and do not extinguish the Light that shines in you. As you see your reflection in water or a mirror, see Me in yourselves. As I find you, so will I judge you. Seek the great mysteries, and the little things will be added to you; seek the heavenly, and the earthly will be added to you. Be wise money-changers, rejecting the bad and keeping the good. Keep your body pure. Because of the sick, I was sick; because of the hungry, I was hungry; because of the thirsty, I was thirsty. Do not return evil for evil, insults for insults, punches for punches, or curses for curses. Love covers a multitude of sins.
+Wisdom sends forth her children.
 
-There are false Christs and false teachers who have blasphemed the Spirit of Grace and rejected its gift; they will not be forgiven in this age or the age to come. Grace is the divine power from above, the power of the Logos that transforms a person into a "christ." Grace, or Charis, is the companion of the Logos, representing his power or shakti. False "christs" are those who have been initiated but have broken their vows. An aeon is a specific period of time.
+He who is near Me is near the fire; and he who is far from Me is far from the kingdom.
 
-God desires the repentance of sinners rather than their punishment. God wishes for everyone to receive His gifts. Hold on to what you have, and it will increase. I make the last as the first. I came to end sacrifices, and if you do not stop sacrificing, you will face continuous wrath. Woe to those who have saddened their brother's spirit. Rejoice only when you see your brother happy. Those who have wondered will rule, and those who have ruled will find rest. This means that wonder and reverence for the works of God is the beginning of wisdom, which leads to self-mastery and peace.
+If you do not observe the small mysteries, who will give you the great ones?
 
-My mother, the Holy Spirit, recently took me by a single hair of my head and carried me to the great mountain Tabor. This might symbolize the soul’s journey to the spiritual realm. Those who seek me will find me in children from age seven onwards; for I am revealed in them during the fourteenth aeon.
+Those who wish to see Me and reach My kingdom must attain Me through pain and suffering.
 
-This could refer to the higher self or divine spark from the Logos, or to stages of initiation, as initiates must become like "little children." When Salome asked how long death will prevail, the Lord answered: As long as women give birth; for I came to end the works of the female. Salome said to Him, "Then I have done well by not giving birth." And the Lord replied, "Eat from every pasture, but avoid the one that brings the bitterness of death." When Salome asked when these things would be revealed, the Lord answered, "When you rise above shame, and when the two become one, and the male and female are neither male nor female. Pray for your enemies; blessed are those who mourn for the unbelievers' destruction.
+Good must come, but blessed is he through whom it comes; similarly, evil must come, but woe to him through whom it comes.
 
-I stood on a high mountain and saw a giant man and a dwarf. I heard a voice like thunder and approached to listen. He spoke to me and said, "I am you, and you are me. Wherever you are, I am there. I am scattered in all things, and wherever you gather me, you gather yourself..
+The weak will be saved by the strong.
 
-May your Holy Spirit come upon us and purify us. Do not possess anything on earth. Even if you are close to me, if you do not follow my commandments, I will cast you away. Sons of Adam, use these temporary things, which are not truly yours, to gain what is eternal. For even among the prophets, after they have been anointed by the Holy Spirit, they have still spoken words of sin. If a man gives up everything for my sake, he will gain eternal life at my second coming. ["For my sake" refers to the power of the Great Name used by the Master in his teachings; the second coming is the arrival of the Christ-spirit at the candidate's initiation. "Eternal life" refers to the spiritual existence that lasts forever.] If you do not make the below into the above and the above into the below, the right into the left and the left into the right, the before into the behind, and the behind into the before, you will not enter the kingdom of God. [This means you will not reach the central point and enter the spiritual realm.]
+Guard the mysteries for Me and for the sons of My house.
 
-I am to be crucified again. I recognized myself and gathered myself from all directions. I did not produce children for the ruler, but I uprooted his roots and collected my scattered parts. I know who you are, for I come from the higher realms. [This is the soul's defense as it passes through the unseen world, each part governed by a ruler, the minister of Death. Just as the Logos gathers his children (the light-sparks, parts of his body) and brings them home, the ego collects its parts and becomes unified.] What you preach to the people, do in actions before everyone. You are the key that opens and shuts for every person. [This saying is attributed to the disciples; directly, it would be "I am the key."]
+Attach yourself to the holy ones, for those who do so are made holy.
 
-Many other sayings could be added from Gnostic texts, especially the Coptic Codices, but enough has been provided to show that much valuable material has been forgotten and lost. Recent discoveries have shown how precious some of this material was. The ancient papyrus fragment discovered at Oxyrhynchus by Grenfell and Hunt in 1897 preserves the earliest form of the Logoi known to us. Of the six decipherable sayings it contains, one is familiar, two include new material and important variations, and three are entirely new. If the proportion of unknown to known sayings was as high in the rest of the manuscript as in the single leaf we have, then we have indeed lost more through the Canon than we have gained. The newly discovered sayings are as follows, excluding the one already familiar to us:
+The form of this world passes away.
 
-Jesus said: Unless you fast to the world, you will not find the Kingdom of God; and unless you observe the Sabbath, you will not see the Father. Jesus said: I stood in the middle of the world, and in flesh I was seen by them, and I found everyone drunk, and none thirsty among them. And My soul grieves over the souls of men because they are blind in their hearts and do not see. Jesus said: Wherever there are two, they are not without God; and wherever there is one alone, I am with him. Lift the stone, and you will find Me; split the wood, and I am there. [The first part of this saying is very imperfect; I have followed Blass's conjectures. See Taylor's Oxyrhynchus Logia, Oxford; 1899]. Jesus said: A prophet is not accepted in his own country, nor does a physician heal those who know him. Jesus said: A city built on a high hill and established cannot fall or be hidden. Jesus said: You hear with one ear (but the other you have closed). Since the publication of the first edition of this work, the rubbish heaps of ancient Oxyrhynchus have yielded another battered scrap of papyrus containing material from a similar collection of sayings. The decipherable parts of this new fragment, as presented in Grenfell & Hunt's edition (New Sayings of Jesus; London, 1904), are as follows:
+(Form, meaning configuration, as there are other worlds and other phases of this world). As often as you eat this bread and drink this cup, proclaim My death and confess My resurrection and ascension until I come to you.
 
-These are the...Here is the modern English version of the text you provided, simplified and corrected without altering its original meaning:
+Remember to have faith and hope, as they inspire love for God and others, which leads to eternal life.
 
----
+There are ways of mixing that result in death and others that lead to life.
 
-The words Jesus the Living One spoke to Thomas and others, saying: Everyone who listens to these words shall never taste death. Jesus said: Those who seek should not stop until they find. When they find, they will be amazed; being amazed, they will rule, and ruling, they will find rest. Jesus said: You ask, who leads us to the kingdom if the kingdom is in Heaven? The birds of the air, the animals under and upon the earth, and the fish of the sea are the ones that lead you. The Kingdom of Heaven is within you, and whoever knows themselves will find it. Therefore, strive to know yourselves, and you will realize that you are the children of the Father. You will know that you are in the City of God, and you are the City. Jesus said: Everything that is not before you and that which is hidden will be revealed to you. For there is nothing hidden that will not be made known, nor buried that will not be raised.
+Seeing a man working on the Sabbath, He said: "Man, if you know what you are doing, you are blessed; but if you do not know, you are cursed and breaking the law."
 
----
+Why are you amazed by the miracles? I offer you a great inheritance that the entire world cannot hold.
+
+When asked by a man when His kingdom would come, the Lord replied: "When two become one, and the outside is like the inside, and the male is with the female, neither male nor female.
+
+Do not call anyone 'Father' on earth, for there are only rulers on earth; in heaven is the Father from whom all descent comes, both in heaven and on earth.
+
+Do not sadden the Holy Spirit within you, and do not extinguish the Light that shines in you.
+
+As you see your reflection in water or a mirror, see Me in yourselves.
+
+As I find you, so will I judge you.
+
+Seek the great mysteries, and the little things will be added to you; seek the heavenly, and the earthly will be added to you.
+
+Be wise money-changers, rejecting the bad and keeping the good.
+
+Keep your body pure.
+
+Because of the sick, I was sick; because of the hungry, I was hungry; because of the thirsty, I was thirsty.
+
+Do not return evil for evil, insults for insults, punches for punches, or curses for curses. Love covers a multitude of sins.
+
+There are false Christs and false teachers who have blasphemed the Spirit of Grace and rejected its gift; they will not be forgiven in this age or the age to come.
+
+Grace is the divine power from above, the power of the Logos that transforms a person into a "christ." Grace, or Charis, is the companion of the Logos, representing his power or shakti. False "christs" are those who have been initiated but have broken their vows. An aeon is a specific period of time.
+
+God desires the repentance of sinners rather than their punishment.
+
+God wishes for everyone to receive His gifts.
+
+Hold on to what you have, and it will increase.
+
+I make the last as the first.
+
+I came to end sacrifices, and if you do not stop sacrificing, you will face continuous wrath.
+
+Woe to those who have saddened their brother's spirit. Rejoice only when you see your brother happy.
+
+Those who have wondered will rule, and those who have ruled will find rest.
+
+[This is a dark saying; it has been compared to a phrase from Plato: "There is no other beginning of philosophy than wondering"--that is to say, regarding the works of the Deity with wonder and reverence. This is the beginning of philosophy, or gnosis, and the end of it makes the man king of himself, and thus master of gods and men; thus is he at peace.]
+
+My mother, the Holy Spirit, recently took me by a single hair of my head and carried me to the great mountain Tabor.
+
+[This might symbolize the soul’s journey to the spiritual realm.]
+
+Those who seek me will find me in children from age seven onwards; for I am revealed in them during the fourteenth aeon.
+
+[This could refer to the higher self or divine spark from the Logos, or to stages of initiation, as initiates must become like "little children."]
+
+When Salome asked how long death will prevail, the Lord answered: As long as women give birth; for I came to end the works of the female. Salome said to Him, "Then I have done well by not giving birth." And the Lord replied, "Eat from every pasture, but avoid the one that brings the bitterness of death." When Salome asked when these things would be revealed, the Lord answered, "When you rise above shame, and when the two become one, and the male and female are neither male nor female.
+
+Pray for your enemies; blessed are those who mourn for the unbelievers' destruction.
+
+I stood on a high mountain and saw a giant man and a dwarf. I heard a voice like thunder and approached to listen. He spoke to me and said, "I am you, and you are me. Wherever you are, I am there. I am scattered in all things, and wherever you gather me, you gather yourself...
+
+[Here again we have the mountain of initiation. The initiate beholds the vision of the Heavenly Man, the Logos, and of himself, the dwarf; of the Great Man and the little man, the light-spark which sits in the heart.]
+
+May your Holy Spirit come upon us and purify us.
+
+[From a very ancient version of the Lord's Prayer, instead of the clause "Thy kingdom come."]
+
+Do not possess anything on earth.
+
+Even if you are close to me, if you do not follow my commandments, I will cast you away.
+
+Sons of Adam, use these temporary things, which are not truly yours, to gain what is eternal.
+
+For even among the prophets, after they have been anointed by the Holy Spirit, they have still spoken words of sin.
+
+If a man gives up everything for my sake, he will gain eternal life at my second coming.
+
+["For my sake" refers to the power of the Great Name used by the Master in his teachings; the second coming is the arrival of the Christ-spirit at the candidate's initiation. "Eternal life" refers to the spiritual existence that lasts forever.]
+
+If you do not make the below into the above and the above into the below, the right into the left and the left into the right, the before into the behind, and the behind into the before, you will not enter the kingdom of God.
+
+[This means you will not reach the central point and enter the spiritual realm.]
+
+I am to be crucified again.
+
+I recognized myself and gathered myself from all directions. I did not produce children for the ruler, but I uprooted his roots and collected my scattered parts. I know who you are, for I come from the higher realms.
+
+[This is the soul's defense as it passes through the unseen world, each part governed by a ruler, the minister of Death. Just as the Logos gathers his children (the light-sparks, parts of his body) and brings them home, the ego collects its parts and becomes unified.]
+
+What you preach to the people, do in actions before everyone. You are the key that opens and shuts for every person.
+
+[This saying is attributed to the disciples; directly, it would be "I am the key."]
+
+_____________________________________;
+
+Many other sayings could be added from Gnostic texts, especially the Coptic Codices, but enough has been provided to show that much valuable material has been forgotten and lost. Recent discoveries have shown how precious some of this material was. The ancient papyrus fragment discovered at Oxyrhynchus by Grenfell and Hunt in 1897 preserves the earliest form of the Logoi known to us. Of the six decipherable sayings it contains, one is familiar, two include new material and important variations, and three are entirely new.
+
+If the proportion of unknown to known sayings was as high in the rest of the manuscript as in the single leaf we have, then we have indeed lost more through the Canon than we have gained. The newly discovered sayings are as follows, excluding the one already familiar to us:
+
+Jesus said: Unless you fast to the world, you will not find the Kingdom of God; and unless you observe the Sabbath, you will not see the Father.
+
+Jesus said: I stood in the middle of the world, and in flesh I was seen by them, and I found everyone drunk, and none thirsty among them. And My soul grieves over the souls of men because they are blind in their hearts and do not see.
+
+Jesus said: Wherever there are two, they are not without God; and wherever there is one alone, I am with him. Lift the stone, and you will find Me; split the wood, and I am there.
+
+[The first part of this saying is very imperfect; I have followed Blass's conjectures. See Taylor's Oxyrhynchus Logia, Oxford; 1899].
+
+Jesus said: A prophet is not accepted in his own country, nor does a physician heal those who know him.
+
+Jesus said: A city built on a high hill and established cannot fall or be hidden.
+
+Jesus said: You hear with one ear (but the other you have closed).
+
+Since the publication of the first edition of this work, the rubbish heaps of ancient Oxyrhynchus have yielded another battered scrap of papyrus containing material from a similar collection of sayings. The decipherable parts of this new fragment, as presented in Grenfell & Hunt's edition (New Sayings of Jesus; London, 1904), are as follows:
+
+> The words Jesus the Living One spoke to Thomas and others, saying: Everyone who listens to these words shall never taste death.
+>
+> Jesus said: Those who seek should not stop until they find. When they find, they will be amazed; being amazed, they will rule, and ruling, they will find rest.
+>
+> Jesus said: You ask, who leads us to the kingdom if the kingdom is in Heaven? The birds of the air, the animals under and upon the earth, and the fish of the sea are the ones that lead you. The Kingdom of Heaven is within you, and whoever knows themselves will find it. Therefore, strive to know yourselves, and you will realize that you are the children of the Father. You will know that you are in the City of God, and you are the City.
+>
+> Jesus said: Everything that is not before you and that which is hidden will be revealed to you. For there is nothing hidden that will not be made known, nor buried that will not be raised.
 
 ## Conclusion
 
----
+> O Light of God, adorable! We worship You, so that You may pour Your light into our minds!
 
-O Light of God, adorable! We worship You, so that You may pour Your light into our minds! Based on the Gayatri.
-
----
+Based on the Gayatri.
 
 ## Afterword
 
----
-
 Reader, if you have come this far, you may have journeyed with me or found your own path. But if you have reached this point, it seems to me that we have journeyed together to a place of light. For some short hours, we have had the privilege to converse with those who loved and love the Master. With their words still ringing in our ears and the life of their love still in our veins, how can we speak ill of them? "Come unto Me, you weary!"
 
----In such a light of love, how can we find it in our hearts to condemn those who devoted themselves completely to Him? When I read their words and look at their lives, I see the label "Heresy" fading away, and instead, I see the figure of the Master standing with hands outstretched in blessing above their heads. I don't understand why this aspect of early Christianity has been forgotten. Perhaps there was a reason for its withdrawal; but today, at the beginning of the twentieth century, with the greater freedom and tolerance we now enjoy, can't we lift the veil again? The old forms don't need to return—though some of them were beautiful! But the old power is still there, waiting to take on new forms, even more beautiful, if we turn to Him as He truly is, not limited by our sectarian beliefs. How long will it take for us to learn that there are as many ways to worship God as there are people on earth? Yet each person still says: My way is best; mine is the only way. Or if they don't say it, they think it. These things are beyond our reason; religion is something in us greater than reason, and because it is greater, it gives greater satisfaction. To save ourselves, we must lose ourselves; though not irrationally, if reason is transcended. If we have lived many lives before, in how many ways must we have worshipped God or failed to worship Him? How often have we condemned the way we praised before! Intolerant in one faith, equally intolerant in another, condemning our past selves.
+In such a light of love, how can we find it in our hearts to condemn those who devoted themselves completely to Him? When I read their words and look at their lives, I see the label "Heresy" fading away, and instead, I see the figure of the Master standing with hands outstretched in blessing above their heads.
 
-So, what do you think of Christ? Must He not be a Master of religion, wiser than our highest ideals of wisdom? Does He condemn His worshippers because their ways are different; does He condemn those who worship His Brethren, who also taught the Way?Regarding the rest, why worry about being overly precise? Who can truly understand and decide on these complex topics for everyone else? Let each person follow the Light as they perceive it—there’s enough for everyone; so that eventually we may see "everything transformed into light—sweet, joyous light." These are all my words, except to add, like an ancient Coptic scribe, "O Lord, have mercy on the soul of the sinner who wrote this!"
+I don't understand why this aspect of early Christianity has been forgotten. Perhaps there was a reason for its withdrawal; but today, at the beginning of the twentieth century, with the greater freedom and tolerance we now enjoy, can't we lift the veil again?
+
+The old forms don't need to return—though some of them were beautiful! But the old power is still there, waiting to take on new forms, even more beautiful, if we turn to Him as He truly is, not limited by our sectarian beliefs.
+
+How long will it take for us to learn that there are as many ways to worship God as there are people on earth? Yet each person still says: My way is best; mine is the only way. Or if they don't say it, they think it. These things are beyond our reason; religion is something in us greater than reason, and because it is greater, it gives greater satisfaction.
+
+To save ourselves, we must lose ourselves; though not irrationally, if reason is transcended. If we have lived many lives before, in how many ways must we have worshipped God or failed to worship Him? How often have we condemned the way we praised before! Intolerant in one faith, equally intolerant in another, condemning our past selves.
+
+So, what do you think of Christ? Must He not be a Master of religion, wiser than our highest ideals of wisdom? Does He condemn His worshippers because their ways are different; does He condemn those who worship His Brethren, who also taught the Way?
+
+Regarding the rest, why worry about being overly precise? Who can truly understand and decide on these complex topics for everyone else? Let each person follow the Light as they perceive it—there’s enough for everyone; so that eventually we may see "everything transformed into light—sweet, joyous light."
+
+These are all my words, except to add, like an ancient Coptic scribe, "O Lord, have mercy on the soul of the sinner who wrote this!"
 
 ## Bibliographies
 
 Since there's no comprehensive bibliography on this subject, I’ve made a preliminary attempt to compile a full Bibliography of Gnosticism. I believe I’ve included every important work (and article), and I think the list of works on Coptic Gnostic writings is fairly complete. There are still some articles in periodicals and publications of learned societies (especially French) to be added, though I don’t think there are many. I could have added more references to encyclopedias, but most articles in those are of little value.
 
-I’ve divided the General Bibliography into: (i.) Early Works; (ii.) Critical Studies prior to 1851; (iii.) Works after the Publication of the Philosophumena text in 1851. Division i. generally includes works of little value; Division ii. is limited by a lack of knowledge of Hippolytus' Philosophumena, which was first published by Miller at Oxford in 1851. This text has revolutionized the study of Gnosticism. I’ve also separated the bibliography of work done on Coptic Gnostic writings, which I believe will further revolutionize our understanding of Gnosis in the future. I have commented on the most popular sources of information in English but have avoided other notes as they seem out of place in such a general work as this.
+I’ve divided the General Bibliography into:
+
+1. Early Works
+2. Critical Studies prior to 1851
+3. Works after the Publication of the Philosophumena text in 1851.
+
+Division 1 generally includes works of little value; division 2 is limited by a lack of knowledge of Hippolytus' Philosophumena, which was first published by Miller at Oxford in 1851. This text has revolutionized the study of Gnosticism.
+
+I’ve also separated the bibliography of work done on Coptic Gnostic writings, which I believe will further revolutionize our understanding of Gnosis in the future. I have commented on the most popular sources of information in English but have avoided other notes as they seem out of place in such a general work as this.
 
 ### General Bibliography
 
 #### Early Works
 
-**1569**
-- Marcossius (G. P.). "De Vitis, Secretis, et Dogmatibus omnium Haereticorum... Elenchus alphabeticus." Coloniae.
+1569 Marcossius (G. P.). De Vitis, Secretis, et Dogmatibus omnium Haereticorum . . . Elenchus alphabeticus. Coloniae.
 
-**1659**
-- Macarius (I.). "Abraxas seu Apistopistus quae est antiquaria de Gemmis basilidianis Disquisitio et cet." Antwerp.
+1659 Macarius (I.). Abraxas seu Apistopistus quae est antiquaria de Gemmis basilidianis Disquisitio et cet. Antverpiae.
 
-**1664**
-- Siricius (M.). "Simonis Magi Haereticorum omnium Patris Pravitates et cet." Giessen.
+1664 Siricius (M.). Simonis Magi Haereticorum omnium Patris Pravitates et cet. Giessae.
 
-**1667**
-- Michaelis (?). "Dissertatio de Indiciis Philosophiae gnosticae Tempore LXX., in Syntagma comment." Göttingen. Pt. 2, pp. 269 ff.
+1667 Michaelis (?). Dissertatio de Indiciis Philosophiae gnosticae Tempore LXX., in Syntagma comment. Goettingae. Pt. 2, pp. 269 ff.
 
-**1690**
-- Ittig (T.). "T. Ittigii... de Haeresiarchis Aevi apostolici et apostolico primi, seu primi et secundi a Christo nato Seculi, Dissertatio." Leipzig. 2 pts. 1690-96. 2nd ed. Leipzig 1703 (append. 1696 ed.).
+1690 Ittig (T.). T. Ittigii . . . de Haeresiarchis Aevi apostolici et apostolico primi, seu primi et secundi a Christo nato Seculi, Dissertatio. Lipsiae. 2 pts. 1690-96. 2 ed. Lipsiae 1703 (append. 1696 ed.).
 
-**1709**
-- Ittig (T.). "Dissertationis Ittigianae de Haeresiarchis... ad versus Catalecta F. Lotharii Mariae a Cruce... Defensio." Leipzig.
+1691 Ittig (T.). Dissertationis Ittigianae de Haeresiarchis . . ad versus Catalecta F. Lotharii Mariae a Cruce . . . Defensio. Lipsiae.
 
-**1710**
-- Strunz (F.). "Friderici Strunzii Historia Bardesanis et Bardesanistarum et cet." Wittenberg.
+1710 Strunz (F.). Friderici Strunzii Historia Bardesanis et Bardesanistarum et cet. Wittenburg.
 
-**1710**
-- Massnet (R.) "Prolegomena to his edition of Irenaeus." Paris.
+1710 Massnet (R..). Prolegomena to his edition of Irenaeus. Paris.
 
-**1734**
-- Beausobre (I. de). "Histoire critique de Manichee et du Manicheisme." Amsterdam. 2 vols. 1734, 1739. Vol. ii., pp. 1-142. Dissertation on Basilides, Marcion, and Bardesanes as precursors of Mani.
+1734 Beausobre (I. de). Histoire critique de Manichee et du Manicheisme. Amsterdam. 2 vols. 1734, 1739. Vol. ii., pp. 1-142. Dissertation on Basilides, Marcion and Bardesanes as precursors of Mani.
 
-**1739**
-- Mosheim (J. L. v.). "Institutiones christianae majores." Helmstadt. Vol. i., pp. 376 f. An able dissertation on the Dositheans.
+1739 Mosheim (J. L. v.). Institutiones christianae majores. Helmstadi. Vol. i., pp. 376 f . An able dissertation on the Dositheans
 
-**1750** (?)
-- Mosheim (J. L. v.). "Geschichte der Schlangenbruder." Helmstadt (?). Not in British Museum.
+1750 (?). Mosheim (J. L. v.). Geschichte der Schlangenbruder. Helmstadt (?). Not in British Museum.
 
-**1753**
-- Mosheim (J. L. v.). "De Rebus christianis ante Constantinum magnum Commentarii." Helmstadt.
+1753 Mosheim (J. L. v.). De Rebus christianis ante Constantinum magnum Commentarii. Helmstadtii.
 
-**1756**
-- Schumacher (J. H.). "Erlauterung der Lehrtafel der Ophiten." Wolfenbüttel. Not in British Museum.
+1756 Schumacher (J. H.). Erlauterung der Lehrtafel der Ophiten. Wolfenbuttel. Not in British Museum.
 
-**1773**
-- Tittmann (C. C.). "Tractatus de Vestigiis Gnosticorum in N. T. frustra quaesitis." Leipzig. Munter (F. C. C. H.) Essay on Ecclesiastical Antiquities of Gnosticism. Anspach. Cited by Amelineau in his Essay. Not in the British Museum. 1795. Schelling (F. W. J. V.). On Marcion as an Editor of Pauline Letters. Tubingen. Not in the British Museum. Critical Studies before 1851. 1818, Lewald (E. A.). Commentary on the History of Ancient Religions, Pertaining to Gnostic Doctrine. Heidelberg. 1818. Neander (J. A. W.). Genetic Development of the Principal Gnostic Systems. Berlin. 1819. Hahn (A.). Bardesanes, the First Hymnologist of the Syrians. Historical-Theological Commentary. Leipzig. 1819 (?) Hahn (A.). Dissertation on the Gnosis of Marcion. Not in the British Museum. 1820. Bellermann (J. J.). On the Gems of the Ancients with the Image of Abraxas. Berlin (?). Not in the British Museum. 1820. Bellermann (J. J.). On the Abraxas Gems. Berlin. 3 programs, 1820-1822. 1821. Fulder (?). Article on the Carpocratians, in Ilgen's Historical-Theological Treatises of the Society in Leipzig. Not in the British Museum. 1821. Hahn (A.). Antitheses of Marcion. Konigsberg. Not in the British Museum. 1823. Hahn (A.). Gospel of Marcion according to Ancient Monuments. Konigsberg. 1823. Giesler (J. C. L.). Critique of Neander, in General Literary Newspaper. Halle. Nr. 104, pp. 835-38. 1825. Neander (J. A. W.). Antignostikus. Spirit of Tertullian and Introduction to His Writings with Archaeological and Dogmatic-Historical Investigations. Berlin. 2nd ed., 1849. 1825. Neander (J. A. W.). General History of the Christian Religion and Church. Hamburg. 6 vols., 1825-52. English Translation by Rose (H. J.) London. 2 vols., 1831-41; Terry (J.) from 2nd ed. London. 9 vols., 1847-55; new ed. (Bohn). London. 2 vols., 1890. Vol. ii., "The Gnostic Sects," pp. 1-195. 1828. Matter (A. J.).Critical History of Gnosticism and Its Influence on Religious and Philosophical Sects in the First Six Centuries of the Christian Era. Paris, 3 volumes. 2nd edition, revised, 1843. There is a German translation by Dorner from 1829. Burton, E. An Inquiry into the Heresies of the Apostolic Age (Bampton Lectures). Oxford, 1830. Giesler, J. C. L. Article in Theological Studies and Critiques. Hamburg, pages 395 and following, 1831. Mohler, J. A. Essay on the Origin of Gnosticism. Tübingen. Also in his Collected Writings, Regensburg, 1839-40, volume 1, pages 403 and following, 1834. Neumann, C. F. Article on Marcion's Belief System with an Appendix on the Relationship of Mani's Teachings to Zoroastrianism, explained by Esnig, translated from Armenian. Journal for Historical Theology, Leipzig, volume 1, pages 71-78, 1834. Windischmann, W. Article on Esnig in Bavarian Annals for Homeland Studies and Literature, Munich, January issue, not in the British Museum, 1835. Baur, F. C. The Christian Gnosis, or the Philosophy of the Christian Religion in its Historical Development. Tübingen, 1839. Hildebrand. Origins of Gnostic Philosophy. Berlin, not in the British Museum, 1841. Simson, A. Article on the Life and Teachings of Simon the Magician, Journal for Historical Theology, Leipzig, volume 3, pages 18 and following, 1841. Scherer. On the Gnostics Mentioned in the New Testament, Strasbourg, not in the British Museum, 1843. Norton, A. The Evidence of the Genuineness of the Gospels. Volume 1, Boston, 1837; volume 2, 1843; 2nd edition, London, 1847. The entire volume 2 is devoted to the Gnostics, 1846. Gratz, H. Gnosticism and Judaism. Krotoschin, 1847. Migne, J. P. Dictionary of Heresies, Schisms, Authors and Jansenist Books, Works Listed on the Index, Condemned Propositions by the Church, and Works Condemned by French Courts. Paris, 2 volumes. Works Published After the Text of the Philosophumena in 1851. 1852. Volkmar, G. The Gospel of Marcion. Text and Criticism with Reference to the Gospels of the Martyr Justin, the Clementines, and the Apostolic Fathers. Leipzig, 1852. Jacobi (J. L.). The Opinions of the Gnostic Philosopher Basilides from Hippolytus' Recently Discovered Book, etc. Berlin, 1852. Matter (A. J.). A Gnostic Excursion in Italy. Strasbourg, 1853. Le Vaillant de Florival (P. E.). French Translation of Esnig. Paris, 1853. Not in the British Museum. Baur (F. C.). Christianity and the Christian Church of the First Three Centuries. Tübingen, 2nd ed., 1860.
+1773 Tittmann (C. C.). Tractatus de Vestigiis Gnosticorum in N. T. frustra quaesitis. Lipsiae.
 
-1854. Hase (C. H.). Church History. Leipzig, 1854-1877. On Basilides in the 7th to the 10th editions. 1855. Gundert (?). Three Articles in the Journal for Lutheran Theology. 1855, pp. 209 ff. 1856, pp. 37 ff., 443 ff. Name not mentioned in the British Museum catalog. 1855. Volkmar (G.). Article on the Kolarbasus Gnosis in the Journal for Historical Theology. Leipzig, Vol. iv., pp. 603 ff. 1855. Volkmar (G.). The Sources of Heresy History Up to the Nicene Council, Critically Investigated. First Volume: Hippolytus and His Roman Contemporaries; or, The Philosophumena and Related Writings Investigated by Origin, Composition, and Sources. Zurich, 1855. Uhlhorn (G.). The Basilidian System with Special Reference to the Information from Hippolytus. Göttingen, 1856. Hilgenfeld (A.). Article on the System of the Gnostic Basilides. Theological Yearbooks. Tübingen, Vol. i., pp. 86-121. 1856. Baur (F. C.). Article on the System of the Gnostic Basilides and Its Latest Interpretations. Theological Yearbooks. Tübingen, Vol. i., pp. 121-162. 1857. Harvey (W. W.). Saint Irenaeus' Five Books Against Heresies. Cambridge, 2 vols. Preliminary Observations on the Gnostic System, vol. i., pp. i.-cli. 1860. Miller (E.). History of Cosmology in the Greek Church Up to Origen with Special Studies on Gnostic Systems. Halle, 1860. Noack (L.). Article on Simon the Magician. Psyche:
+1790 Munter (F. C. C. H.) Versuch uber u. s. v. (Essai sur les Antiquites ecclesiastiques du Gnosticisme). Anspach. Quoted by Amelineau in his Essai. Not in British Museum.
 
-[p. 615]
+1795 Schelling (F. W. J. V.). De Marcione Epistolarum paulinarum Emendatore. Tubingen. Not in British Museum.
 
-Journal...Here is the text converted into modern English, corrected, and simplified without altering its original meaning:
+1818, Lewald (E. A.). Commentatio ad Historian Religionum veterum illustrandam pertinens de Doctrina gnostica. Heidelberg.
 
-f. d. Kentniss d. mensch. Seelen-und Geistesleben. Leipzig. Vol. iii, pp. 257-325. 1860.
+1818 Neander (J. A. W.). Genetische Entwickelung der vornehmsten gnostischen Systeme. Berlin.
 
-Lipsius, R. A. "The Gnosticism." Ersch and Gruber's General Encyclopedia. Leipzig. Vol. lxxi, pp. 223-305. Also separately published in Leipzig, 1860.
+1819 Hahn (A.). Bardesanes gnosticus Syrorum primus Hymnologus. Commentatio historico-theologica. Lipsiae.
 
-Baxmann, R. "The Philosophumena and the Peratae, an Investigation from Ancient Heresiology." Journal of Historical Theology. Leipzig. Vol. ii, pp. 218-257. 1861.
+1819 (?) Hahn (A.). Dissertatio de Gnosi Marcionis. Not in British Museum.
 
-Baxmann, R. "The Heretical Gnosis." Journal of Christian Science and Christian Life. Berlin. 1861. pp. 214-227. 1862.
+1820 Bellermann (J. J.). Ueber die Gemmen der Alten mit dein Abraxasbilde. Berlin (?). Not in British Museum.
 
-Hilgenfeld, A. "The Gnosticism and the Philosophumena with Special Regard to the Latest Works by W. Moller and R. A. Lipsius." Journal of Scientific Theology. Jena. Vol. iv, pp. 400-464. 1863.
+1820 Bellermann (J. J.). Ueber die Abraxas-Gemmen. Berlin. 3 programmes, 1820-1822.
 
-Merx, E. O. A. Bardesanes of Edessa, along with an Investigation on the Relationship of the Clementine Recognitions to the Book of the Laws of the Countries. Halle. 1863.
+1821 Fulder (?). Art. De Carpocratianis, in Ilgen's Historisch-theologische Abhandlungen der Gesellschaft zu Leipzig. Not in British Museum.
 
-Renan, J. E. History of the Origins of Christianity. Paris. 8 vols. 1863-83. See vols. v, vi, vii. 1863.
+1821 Hahn (A.). Antitheses Marcionis. Konigsberg. Not in British Museum.
 
-Lipsius, R. A. "On the Ophite Systems." Journal of Scientific Theology. Jena. Vol. iv, pp. 410-457. 1864.
+1823 Hahn (A.). Evangelium Marcionis ex Auctoritate veterum Monumentorum. Konisberg.
 
-Lipsius, R. A. "On Ophite Systems." Journal of Scientific Theology. Jena. Vol. i, pp. 37-57. 1864.
+1823 Giesler (J. C. L.). Crit. of Neander, in Allgemeine Literatur-Zeitung. Halle. Nr. 104, pp. 835-38.
 
-Hilgenfeld, A. Bardesanes the Last Gnostic. Leipzig. 1864.
+1825 Neander (J. A. W.). Antignostikus. Geist des Tertullianus und Einleitung in dessen Schriften mit archaologischen und dogmen-historischen Untersuchungen. Berlin. 2 ed., 1849.
 
-Gruber, J. N. The Ophites. Historical Inaugural Dissertation. Wurzburg. 1865.
+1826 Neander (J. A. W.). Allgemeine Geschichte der christlichen Religion und Kirche. Hamburg. 6 vols., 1825-52. Eng. Trans. (General History of the Christian Religion and Church) by Rose (H. J.) London. 2 vols., 1831-41; Terry (J.) from 2nd ed. London. 9 vols., 1847-55; new ed. (Bohn). London. 2 vols., 1890. Vol. ii., "The Gnostic Sects," pp. 1-195.
 
-Lipsius, R. A. On the Source Criticism of Epiphanios. Vienna. 1867.
+1828 Matter (A. J.). Histoire critique du Gnosticisme et de son Influence sur les Sectes religieuses et philosophiques des six premiers Siecles de l' Ere chretienne. Paris. 3 vols. 2 ed. revised, 1843. There is a German translation by Dorner.
 
-Lipsius, R. A. "On the Time of Marcion and Heracleon." Journal of Scientific Theology. Jena. Vol. i, pp. 75 ff. 1867.
+1829 Burton (E.). An Enquiry into the Heresies of the apostolic Age (Bampton Lectures). Oxford.
 
-Lipsius, R. A. Review on the Original (not in British Museum) of the following. Literary Central Bulletin for Germany. Leipzig. Nr. xxvi. 1868.
+1830 Giesler (J. C. L.). Art. in Theologische Studien und Kritiken. Hamburg. Pp. 395 ff.
 
-Hofstede de Groot, P. Basilides at the End of the Apostolic Age as the First Witness for the Age and Authority of New Testament Writings, especially the Gospel of John. Leipzig. German translation from the Dutch. 1868.
+1831 Mohler (J. A.). Versuch uber den Ursprung des Gnosticismus. Tubingen. Also in his Gesammelten Schriften. Regensberg. 1839-40. Vol. i., pp. 403 ff.
 
-Hilgenfeld, A. Article. The Magician Simon. Journal for Scientific Theology, Jena. Vol. IV, pp. 357-396. 1868. Fabiani (E.). News about Simon Magus, derived from the so-called Philosophumena. Rome and Turin. 1869. Lipsius (R. A.). Article on Gnosis. Schenkel's Bible Dictionary. Leipzig. 5 volumes, 1869-75. 1871. Heinrici (G.). The Valentinian Gnosis and the Holy Scriptures. Berlin. 1872. Lipsius (R. A.). Critical Investigation of the Sources of the Roman Peter Legend. Kiel. 1873. Lipsius (R. A.). Review of Heinrici's Valentinian Gnosis. Protestant Church Newspaper. Berlin. No. 8, pp. 174-186. 1873. Harnack (A.). On Source Criticism of the History of Gnosticism. Leipzig. 1873. Berger (P.). Studies on the New Documents Provided on the Ophites by the Philosophumena. Nancy. 1873. Revillout (E.). Life and Sentences of Secundus According to Various Oriental Manuscripts, Similarities of this Book with Gnostic Works. Extract from the Proceedings of the Academy of Inscriptions and Fine Letters. Paris. 1874. Harnack (A.). Article: On Source Criticism of the History of Gnosticism. Journal for Historical Theology, Gotha. Part II, pp. 143-226. Continuation of the above. 1874. Harnack (A.). On the Monarchic Gnosis of Apelles. Leipzig (2). Not in the British Museum. 1875. Hilgenfeld (A.). Article on the Gnostic Apelles. Journal for Scientific Theology, Jena. Vol. I, pp. 51-75. 1875. Mansel (H. L.). The Gnostic Heresies of the First and Second Centuries. London. A posthumous work edited by Lightfoot, consisting of notes from lectures delivered in 1868. 1875. Lipsius (R. A.). Re-examined Sources of the Oldest Heresy History. Leipzig. 1876. Huckstadt (E.). Article on the Pseudo-Tertullian Poem against Marcion. Journal for Scientific Theology, Jena. Vol. I, pp. 154 ff. 1876. Harnack (A.). Article: Contributions to the History of the Marcionite Churches. Journal for Scientific Theology, Leipzig. Part I, pp. 80-120. 1876. Ludemann (M.). Article. Literary Central Bulletin. No. XI. Not in the British Museum. 1877. Jacobi (J. L.). Article. Gnosis. Herzog's Real Encyclopaedia. Leipzig. 2nd ed., 18 vols., 1877-1888. American ed. in New York and Boston, 1882-1883. 1877. Moller (E. W.). Article on Simon Magus in Herzog's Real Encyclopaedia. 1877. Jacobi (J. L.). Article on the original Basilidian system, with detailed consideration of previous discussions in Journal of Church History, Gotha, Vol. 1, pp. 481-544. 1877. Smith (W.) and Wace (H.). A Dictionary of Christian Biography, London, 4 vols., 1877-1887. Includes an article on every significant teacher of Gnosis, and short notes on many key technical terms by Hort, Salmon, and Lipsius. 1878. Hilgenfeld (A.). Article on Basilides of Hippolytus in Journal of Scientific Theology, Jena, Vol. 2, pp. 228-250. 1879. Tulloch (J.). Article on Gnosticism in Encyclopaedia Britannica, London, 9th ed. Very short and insufficient, being the only source of information for the general reader in England. 1879. De Pressense (E. de). Article on Gnosticism in The Encyclopedia of Protestant Religious Sciences, Paris. 1880. Menendez y Pelayo (M.). History of Spanish Heretics, Madrid, 3 vols. 1880. Hilgenfeld (A.). Article on the Gnostic Valentinus and his writings in Journal of Scientific Theology, Jena, Vol. 3, pp. 280-300. 1880. Meyboom (H. U.). Marcion and the Marcionites, Leyden. 1880. Joel (M.). Insights into Religious History at the Beginning of the Second Christian Century, Breslau, 2 vols., 1880, 1883. Excursus ii. Gnosis, Vol. 1, pp. 103-170. 1880. Hilgenfeld (A.). Article on the Gnostic Valentinus and his writings in Journal of Scientific Theology, Leipzig, Part 3, pp. 280-300. 1881. Kaufmann (G.). Gnosis in its Tendency and Organization. Twelve Theses, Breslau. 1881. Hilgenfeld (A.). Article on Cerdon and Marcion in Journal of Scientific Theology, Leipzig, Part 1, pp. 1-37. 1881. Hilgenfeld (A.). Article on the Revised Text of Ptolemy's Letter to Flora, ibid., p. 214. 1881. Harnack (A.). Article. Here is the provided text converted into modern English, with corrections and simplifications, without changing its original meaning:
+1834 Neumann (C. F.). Art. Marcion's Glaubenssystem mit einem Anhange uber das Verhaltnis der Lehre Mani's zum Parsismus, dargelegt von Esnig, aus dem Armenischen ubersetzt. Zeitschrift fur die historische Theologie. Leipzig. Vol. i., pp. 71-78.
 
----
+1834 Windischmann (W.). Art. on Esnig, in Bayerischen Annalen fur Vaterlandskunde und Literatur. Munich (2). No. for Jan. Not in British Museum.
 
-**Tatian's Diatessaron and Marcion's Commentary on the Gospel according to Ephraem Syrus. Journal of Church History. Gotha. Part IV, pages 471-505, 1881.**
+1835 Baur (F. C.). Die christliche Gnosis, oder die christliche Religions-Philosophie in ihrer geschichtlichen Entwiklung. Tubingen.
 
-**Funk (F. X.). Article: Is Basilides the Pantheist of the Philosophumena? Theological Quarterly. Tubingen. Volume II, pages 277 ff., 1881.**
+1839 Hildebrand (?). Philosophize gnosticae Origines. Berlin. Not in British Museum.
 
-**Funk (F. X.). Article: On the Author of the Philosophumena. Theological Quarterly. Tubingen. Volume IV, pages 423-464, 1883.**
+1840 Simson (A.). Art. Leben und Lehre Simons des Magiers. Zeitschr. f. d. histor. Theolog. Leipzig. Vol. iii., pp. 18 if.
 
-**Hilgenfeld (A.). Article: Valentiniana. Journal of Scientific Theology. Jena. Volume III, pages 356-360, 1884.**
+1841 Scherer (?). De Gnosticis qui in N. T. impugnari dicuntur. Strassburg. Not in British Museum.
 
-**Giraud (?). Ophites, Dissertation on Their Origin, Beliefs, and Fate. Paris. Not in the British Museum; referred to by Carl Schmidt, who had not seen a copy. 1884.**
+1843 Norton (A.). The Evidences of the Genuineness of the Gospels. Vol. i., Boston, 1837; vol. ii., 1843; 2 ed., London, 1847. The whole of vol. ii. is devoted to the Gnostics.
 
-**Hilgenfeld (A.). The Heresy History of Early Christianity. Leipzig. Summarizing the results of his previous research. 1885.**
+1846 Gratz (H.). Gnosticismus und Judenthum. Krotoschin.
 
-**Zahn (T.). Article: The Dialogues of Adamantinus (for Marcion). Journal of Church History. Gotha. Volume IX, pages 193 ff., 1885.**
+1847 Migne (J. P.). Dictionnaire des Heresies, des Schismes, des Auteurs et des Livres jansenistes, des Ouvrages mis a l'Index, des Propositions condamnees par l'Eglise, et des Ouvrages condamnees par les Tribunaux francais. Paris. 2 vols.
 
-**Salmon (G.). Article: The Cross-references in the Philosophumena. Hermathena. Dublin. Pages 389 ff., 1887.**
+#### Works Subsequent to the Publication of the Text of the Philosophumena in 1851
 
-**King (C. W.). The Gnostics and Their Remains, Ancient and Medieval. London. 2nd edition. The 1st edition, 1864, was much smaller and did not reference the Pistis Sophia. 1887.**
+1852 Volkmar (G.). Das Evangelium Marcions. Text und Kritik mit Rucksicht auf die Evangelien des Martyrers Justin, der Clementinen und der apostolischen Vater. Leipzig.
 
-**Amelineau (E.). Essay on Egyptian Gnosticism, Its Development, and Egyptian Origin. Annals of the Guimet Museum. Paris. Volume XIV, 1888.**
+1852 Jacobi (J. L.). Basilidis Philosophi gnostici Sententias ex Hippolyti Libro nuper reperto et cet. Berlin.
 
-**Harnack (A.). Article: Valentinus. Encyclopaedia Britannica. London. 9th edition. A longer article than Tulloch's covering all of Gnosticism. 1888.**
+1852 Matter (A. J.). Une Excursion gnostique en Italie. Strasbourg.
 
-**Zahn (T.). Adopts Salmon's theory on the Philosophumena. History of the New Testament Canon. Erlangen. Volume I.1, page 24, note 2, 1889.**
+1853 Le Vaillant de Florival (P. E.). French translation of Esnig. Paris. Not in British Museum.
 
-**Usener (H.). Religious History Investigations. Part I. The Christmas Festival. Bonn. 1889.**
+1854 Baur (F. C.). Das Christenthum und die christliche Kirche der drei ersten Jahrhunderte. Tubingen. 2 ed., 1860.
 
-**Harnack (A.). Critique of the above. Theological Literature Journal. Leipzig. Number VIII, pages 199-211. 1889.**
+1854 Hase (C. H.). Kirchengeschichte. Leipzig. 1854 --1877. On Basilides in the 7th to the 10th ed.
 
-**Honig (A.). The Ophites. A Contribution to the History of Jewish Gnosticism. Berlin. 1889.**
+1855 Gundert (?). 3 Arts. in Zeitschrift fur die lutheranische Theologie. 1855, pp. 209 ff. 1856, pp. 37 ff., 443 ff. Name not mentioned in British Museum catalogue.
 
-**Harnack (A.). Critique of Amelineau's Essay. Theological Literature Journal. Leipzig. Number IX, pages 232 ff., 1890.**
+1855 Volkmar (G.). Art. Die Kolarbasus-Gnosis, in Zeitsch. f. d. histor. Theolog. Leipzig. Vol. iv., pp. 603 ff.
 
----Stahelin (H.). The Gnostic Sources of Hippolytus in His Main Work Against the Heretics. Texts and Studies. Leipzig. Vol. 6, part 3, 1890. Harnack (A.). Seven New Fragments of Apelles' Syllogisms. Texts and Studies. Leipzig. Vol. 6, part 3, 1890. Kurtz (J. H.). Textbook of Church History. Leipzig. 11th edition, 1890. English translation by Macpherson (J.). Church History. London. 3 volumes, 1888-1890. Vol. 1, pages 98-125, 1891. Blunt (J. H.). Dictionary of Sects, Heresies, Ecclesiastical Parties, and Schools of Religious Thought. London. New edition, very unsatisfactory, 1891. Brooke (A. E.). The Fragments of Heracleon, newly edited from the manuscripts with an Introduction and Notes. Cambridge. Texts and Studies. Vol. 1, No. 4, 1892. Mead (G. R. S.). Simon Magus. An Essay. London, 1893. Harnack (A.). History of Early Christian Literature up to Eusebius. Leipzig. 2 volumes, 1894. Anrich (G.). The Influence of Ancient Mystery Religions on Christianity. Göttingen. Gnosticism in Its Connection with the Mystery Religions. Pages 74-105, 1894. Harnack (A.). Textbook of the History of Dogma. Freiburg and Leipzig. 3 volumes, 3rd edition. First edition, 1886. The Attempts of the Gnostics, etc. Vol. 1, pages 211-253, 1894. Harnack (A.). History of Dogma. English translation by various authors. London. 7 volumes. The Attempts of the Gnostics to Create an Apostolic Dogma and a Christian Theology, or the Acute Secularizing of Christianity. Vol. 1, pages 222-265, 1894. Kunze (J.). New Questions on the Sources of Gnosticism. Leipzig, 1894. Harnack (A.). Review of Kunze's Thesis. Theological Literary Journal. Leipzig. Pages 506 ff, 1895. Amelineau (E.). The New Gnostic Treatise from Turin. Paris, 1895. Anz (W.). On the Question of the Origin of Gnosticism. Texts and Studies. Leipzig. Vol. 15, 1897. Nau (F.). An Unpublished Biography of Bardesanes the Astrologer. Paris, 1897. Bevan (A. A.).The Hymn of the Soul, attributed to Bardesan, is found in the Syriac Acts of St. Thomas. The following are relevant studies and translations:
+1855 Volkmar (G.). Die Quellen der Ketzergeschichte bis zum Nicanum kritisch untersucht. Erstes Band: Hippolytus und die romischen Zeitgenossen; oder die Philosophumena und die verwandten Schriften nach Ursprung, Composition und Quellen untersucht. Zurich.
 
-- **Texts and Studies** (Cambridge, Vol. V, No. 3, 1898)
-- **M. Friedlander**: Pre-Christian Jewish Gnosticism (Göttingen, 1899)
-- **F. Nau**: Bardesane the Astrologer: The Book of the Laws of Countries (Paris, 1899)
-- **F. C. Burkitt**: The Hymn of Bardaisan translated into English (London, 1900)
-- **G. R. S. Mead**: Fragments of a Faith Forgotten: Short Sketches among the Gnostics, mainly of the First Two Centuries (London, 1900)
-- **E. Preuschen**: The Apocryphal Gnostic Adam Writings translated from Armenian (1900?)
-- **Kreyenbuhl**: The Gospel of Truth, 2 vols., Vol. II (1905?)
-- **H. Waitz**: The Pseudo-Tertullian Poem Against Marcion: A Contribution to the History of Early Christian Literature and Marcionism (Darmstadt, 1902)
-- **R. Liechtenhan**: The Pseudepigraphic Literature of the Gnostics (Journal for New Testament Studies, Giessen, 1903)
-- **G. Hoffmann**: Two Hymns from the Acts of Thomas (Journal for New Testament Studies, Giessen, 1903)
-- **E. De Faye**: Introduction to the Study of Gnosticism in the 2nd and 3rd Centuries (Paris, 1904)
-- **W. Waitz**: The Pseudo-Clementine Homilies and Recognitions (Texts and Studies, Leipzig, 1904)
-- **A. Hilgenfeld**: The King's Son and the Pearl: An Oriental Poem (Journal for Scientific Theology, Leipzig, 1904)
-- **E. Preuschen**: Two Gnostic Hymns (Giessen, 1905)
-- **A. Harnack** (Ed.): The Letter of Ptolemy to Flora (Cambridge, 1905)
-- **G. Kruger**: The Baptismal Confession of the Roman Community as a Result of the Fight Against Marcion (Journal for New Testament Studies, 1906)
-- **G. R. S. Mead**: Thrice-Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis (London, 1906)Translation of the Existing Sermons and Fragments of Trismegistic Literature, with Introductions, Commentaries, and Notes. London. 3 volumes. [p. 624]
+1855 Uhlhorn (G.). Das basilidianische System mit besonderer Rucksicht auf die Angaben des Hippolytus. Gottingen.
 
-THE COPTIC GNOSTIC WORKS. The student will find critical reviews on most of the following works in the Introduction to my translation of the *Pistis Sophia* (1770). There is an article in the British Theological Magazine, but I can find no trace of it in the British Museum.
+1856 Hilgenfeld (A.). Art. Das System des Gnostikers Basilides. Theolog. Jahrbucher. Tubingen. Vol. i., pp. 86-1.21.
 
-In 1773, C. A. Woide published an article in the *Journal des Savants* in Paris, and in 1778, another article in J. A. Cramer's *Beyträge zur Beförderung theologischer und anderer wichtiger Kenntnisse* (Kiel and Hamburg, pp. 82 ff.). In 1799, Woide also wrote an appendix to the edition of the Greek New Testament based on the Alexandrian manuscript (Oxford, p. 137).
+1856 Baur (F. C.) Art. Das System des Gnostikers Basilides und die neuesten Auffassungen desselben. Theologische Jahrbucher. Tubingen. Vol. i., pp. 121-162.
 
-In 1812, F. C. C. H. Winter published *Odae Gnosticae Salomon tributae* in Theban and Latin, with a preface and philological notes (Hafniae).
+1857 Harvey (W. W.). Sancti Irenaei Libri quinque ad versus Haereses. Cambridge. 2 vols. Preliminary Observations on the Gnostic System, vol. i., pp. i.-cli.
 
-In 1838, E. Dulaurier published an article in *Le Moniteur* (Paris, Sep. 27). In 1843, J. Matter wrote *Histoire critique du Gnosticisme* (see the general bibliography above, 2nd edition, Vol. ii., pp. 41 ff., 350 ff., and Dorner's German translation, vol. ii., pp. 69 ff., 163 ff.).
+1860 Miller (E###7816###.). Geschichte der Kosmologie in der griechischen Kirche bis auf Origenes mit Specialuntersuchungen uber die gnostischen Systeme. Halle.
 
-In 1847, E. Dulaurier wrote an article titled *Notice sur le Manuscript copte-thébaïn, intitulé La Fidele Sagesse; et sur la Publication projetée du Texte et de la Traduction française de ce Manuscript* in the *Journal asiatique* (Paris, 4th series, Vol. ix., June, pp. 534-548).
+1861 Noack (L.). Art. Simon der Magier. Psyche: Zeitschr. f. d. Kentniss d. mensch. Seelen-und Geistesleben. Leipzig. Vol. iii, pp. 257-325.
 
-In 1851, M. G. Schwartze published *Pistis Sophia, Opus gnosticum Valentino adjudicatum*, based on a Coptic manuscript from London, with the text and Latin translation (1853) edited by J. H. Petermann (Berlin).
+1860 Lipsius (R. A.). Art. Der Gnosticismus. Ersch und Gruber's Allg. Encykl. Leipzig. Vol. lxxi., pp. 223-305. Also separately published at Leipzig.
 
-In 1852, C. C. J. Bunsen published *Hippolytus und seine Zeit. Anfänge und Aussichten des Christenthums und der Menschheit* (Leipzig, Vol. i., pp. 47, 48), and the English version *Hippolytus and his Age* (London, Vol. i., pp. 61, 62).
+1860 Baxmann (R.). Art. Die Philosophumena und die Peraten, eine Untersuchung aus der alten Haresiologie. Zeitschr. f. d. histor. Theolog. Leipzig. Vol. ii., pp. 218-257.
 
-In 1853, F. C. Baur wrote *Das Christenthum und die christliche Kirche der drei ersten Jahrhunderte* (Tubingen, Notes pp. 185, 186 and 205, 206).
+1861 Baxmann (R.). Art. Die haratische Gnosis. Zeitschr. f. christl. Wissenschaft u. christl. Leben. Berlin. 1861. Pp. 214-227.
 
-In 1854, K. R. Kostlin published an article. The Gnostic System of the Book Pistis Sophia. Theological Yearbooks. Tubingen. Vol. xiii., pp. 1-104, 137-196. 1856. Migne (J. P.). The Book of Faithful Wisdom. An anonymous translation in Migne's Dictionary of Apocrypha. Paris. Vol. i. appendix, part ii., columns 1181-1286. 1860. Lipsius (R. A.). Gnosticism. Leipzig. Pages 95 and following, 157 and following. See General Bibliography. 1875. Wright (W.). The Palaeographical Society. Facsimiles of Manuscripts and Inscriptions. Oriental Series. Edited by W. W. London. Plate xlii. 1877. Jacobi (J. L.). Article on Gnosis. Herzog's Theological Real Encyclopedia. See General Bibliography. 1887. King (C. W.). The Gnostics and their Remains. Contains a translation of several pages of Pistis Sophia. See General Bibliography. 1887. Lipsius (R. A.). Article on Pistis Sophia. Smith and
+1862 Hilgenfeld (A.). Art. Der Gnosticismus und die Philosophumena mit besonderer Rucksicht auf die neuesten Bearbeitungen von W. Moller und R. A. Lipsius. Zeitschr. f. wiss. Theol. Jena. Vol. iv., pp. 400-464.
 
-[p. 626]
+1863 Merx (E. O. A.). Bardesanes von Edessa, nebst einer Untersuchung uber das Verhaltiss der clementinischen Recognitionen zu dem Buche der Gesetze der Lander. Halle.
 
-[paragraph continues] Wace's Dictionary of Christian Biography. See General Bibliography. 1887. Amelineau (E.). Essay on Egyptian Gnosticism. Especially part iii., pages 106-322. See General Bibliography. 1889. Harnack (A.). Critique of the above. See General Bibliography. 1890. Amelineau (E.). Article on The Gnostic Treatises of Oxford. Critical Study. Review of the History of Religions. Paris. Pages 1-72. 1891. Schmidt (Carl). Article on Gnostic Original Works Preserved in Coptic Language. Proceedings of the Royal Prussian Academy of Sciences. Berlin. Philosophical-Historical Class. xi. pp. 215-219. 1891. Harnack (A.). On the Gnostic Book Pistis Sophia. Leipzig. Texts and Studies. Vol. vii., part 2. 1891. Ryle (H. E.) and James (M. R.). Psalms of the Pharisees, commonly called the Psalms of Solomon. Cambridge. For the five Solomonic Odes quoted in Pistis Sophia. See Introduction for full bibliography of the subject. 1891. Amelineau (E.). Note on the Gnostic Papyrus Bruce. Text and Translation. Paris. 1891. Schmidt (C.). Critique on Amelineau's Note. Gottingen Scholarly Announcements. Gottingen. Nr. xvii., pages 640-657. 1891. Amelineau (E.). Article on The Bruce Papyrus. Response to Gottingen Scholarly Announcements. Review of the History of Religions. Paris. Vol. xxiv., no. 3, pagesHere's the text converted into modern English, corrected, and simplified without altering its original meaning:
+1863 Renan (J. E.). Histoire des Origines du Christianisme. Paris. 8 vols. 1863-83. See vols. v., vi., vii.
 
-376-380. 1892. Schmidt, C. Final reply of Schmidt. Gott. gelehr. Anz. No. 6, pp. 201-222.
-1892. Schmidt, C. Gnostic Writings in Coptic Language from the Bruce Codex, edited, translated, and processed. Leipzig. Text and Studies Vol. 8, Parts 1, 2.
-1894. Preuschen, E. Critique on the above. Theological Literature Journal, Leipzig. No. 7.
-1894. Schmidt, C. Reply. The "Two Books of Jeu" in the Coptic-Gnostic Bruce Codex in relation to the Pistis Sophia. Journal for Scientific Theology, Leipzig. Part 4, No. 24, pp. 555-585.
-1895. Amelineau, E. Pistis Sophia. Gnostic work by Valentinus, translated from Coptic to French, with an Introduction. Paris.
-1896. Mead, G. R. S. Pistis Sophia. A Gnostic Gospel (with Extracts from the Books of the Savior appended) originally translated from Greek into Coptic, and now for the first time in English from Schwartze's Latin version of the only known Coptic manuscript, checked by Amelineau's French version, with an Introduction. London.
-1896. Schmidt, C. Article: A Pre-Irenaean Gnostic Original Work in Coptic. Proceedings of the Royal Prussian Academy of Sciences in Berlin. pp. 837-847.
-1898. Schmidt, C. Review of Amelineau's translation of Pistis Sophia. Special Reprint from the Göttingen Scholarly Announcements. No. 6.
-1901. Liechtenhan, R. Studies on Coptic-Gnostic Literature. The Revelation in Gnosticism. Göttingen.
-1905. Schmidt, C. Coptic-Gnostic Writings. The Pistis Sophia. The Two Books of Jeu. Unknown Ancient Gnostic Work. Leipzig. Vol. 1.
+1863 Lipsius (R. A.). Art. Ueber die ophitischen Systeme. Zeitschr. f. wiss. Theol. Jena. vol. iv., pp. 410-457.
 
-REVIEWS AND ARTICLES IN ENGLISH AND AMERICAN PERIODICALS. These are mostly taken from Poole's Index to Periodical Literature, 3rd edition, 1885, with Supplements up to 1898. The British Museum press marks are conveniently given in the tables of abbreviations of this publication.
-1828. Notice on Matter's History (1st edition). The Foreign Quarterly Review.**London, Vol. III, pp. 307-309, 1830. Review on the same. Ibid., Vol. V, pp. 569-598, 1830.**
+1864 Lipsius (R. A.). Art. on Ophite Systems. Zeitschr. f. wiss. Theol. Jena. Vol. i., pp. 37-57.
 
-**Article on Gnosticism in The Methodist Magazine. London, Vol. LIII, pp. 325 ff., 1831.**
+1865 Hilgenfeld (A.). Bardesanes der letze Gnostiker. Leipzig.
 
-**Article on the History of Gnosticism in The Eclectic Review. London, Vol. LIV, pp. 373 ff., 1833.**
+1864 Gruber (J. N.). Die Ophiten. Historische Inaugural-Abhandlung. Wurzburg.
 
-**Cheever (G. B.), article on The Philosophy of the Gnostics in The American Biblical Repository. New York, Series 2, Vol. III, pp. 353 ff., 1833.**
+1865 Lipsius (R. A.). Zur Quellenkritik des Epiphanios. Wien.
 
-**Cheever (G. B.), article on The Philosophy of the Gnostics. Ibid., Vol. VI, pp. 253 ff., 1837.**
+1867 Lipsius (R. A.). Art. Ueber die Zeit des Markion und des Herakleon. Zeitschr. f. wiss. Theol. Jena. Vol. i., pp. 75 ff.
 
-**Parker (T.), article on the History of Gnosticism in The Christian Examiner. Boston, Vol. XXIV, pp. 112 ff., 1858.**
+1867 Lipsius (R. A.). Rev. on the original (not in British Museum) of the following. Literarische Centralblatt fur Deutschland. Leipzig. Nr. xxvi.
 
-**Schaff (P.), article on the Analysis of Gnosticism in The Mercersburg Review. Mercersburg, Vol. X, pp. 520 ff., 1858.**
+1868 Hofstede de Groot (P.). Basilides am Ausgang des apostolischen Zeitalters als erste Zeuge fur Alter und Autoritat neutestamentlicher Schriften, inbesodere des Johannes-Evangelium u. s. w. Leipzig. German trans. from the Dutch.
 
-**Harwood (E.), article on Gnosticism in The American Church Review. New Haven and New York, Vol. X, pp. 259 ff., 1865.**
+1868 Hilgenfeld (A.). Art. Der Magier Simon. Zeitschr. f. wiss. Theol. Jena. Vol. iv., pp. 357-396.
 
-**Review on King's Gnostics and their Remains in The Christian Remembrancer. London, Vol. I, pp. 459 ff., 1865.**
+1868 Fabiani (E.). Notizie di Simon Mago, tratte dai cosi detti Filosofumeni. Rome and Turin.
 
-**Article on Gnosticism in The Art Journal. London, Vol. XVII, pp. 41 ff., 1867.**
+1869 Lipsius (R. A.). Art. Gnosis. Schenkel's (D.) Bibel-Lexikon. Leipzig. 5 vols., 1869-75.
 
-**Clarke (J. C. C.), article on Gnosticism Outlined in The Baptist Quarterly Review. Philadelphia, Vol. I, pp. 35, 1868.**
+1871 Heinrici (G.). Die valentinianische Gnosis und die heilige Schrift. Berlin.
 
-**Sears (E. H.), article on Gnosticism in The Monthly Religious Magazine. Boston, Vol. XLI, pp. 101 ff., 1870.**
+1872 Lipsius (R. A.). Die Quellen der romischen Petrussage kritisch untersucht. Kiel.
 
-**Harmon (H. M.), article on de Grout on Gnostic Testimonies to the N.T. in The Methodist Quarterly. New York, Vol. XXX, pp. 485 ff., 1874.**
+1873 Lipsius (R. A.). Rev. on Heinrici's Valentinianische Gnosis. Protestantische Kirchenzeitung. Berlin. Nr. 8, pp. 174-186.
 
-**Article on Gnosticism in The Dublin Review. Dublin, Vol. LXXVI, pp. 56 ff., 1875.**
+1873 Harnack (A.). Zur Quellenkritik der Geschichte des Gnosticismus. Leipzig.
 
-**Review on Mansel's Gnostic Heresies in The Christian Observer. Vol. LXXV, pp. 438 ff., 1878.**
+1874 Berger (P.). Etudes des Documents nouveaux fournis sur les Ophites par les Philosophumena. Nancy.
 
-**Allen (J. H.), article on Gnosticism in The Unitarian Review. Boston, Vol. X, pp. 543 ff., 1885.**
+1873 Revillout (E.). Vie et Sentences de Secundus d' apres divers Manuscrits orientaux, les Analogies de ce Livre avec les Ouvrages gnostiques. Extrait des Comptes rendus des Seances de l' Academie des Inscriptions et Belles-Lettres. Paris.
 
-**Salmon (G.), article on the Cross-References in the "Philosophumena" in Hermathena. Dublin, Vol. V, pp. 389-402, 1887.**
+1874 Harnack (A.). Art. Zur Quellenkritik der Geschichte des Gnosticismus. Zeitschr. f. d. histor. Theol. Gotha. Pt. ii., pp. 143-226. Continuation of above.
 
-**Review on King's Gnostics (2nd edition) in The Saturday Review. London, Vol. LXIV, pp. 611 ff., 1887.**
+1874 Harnack (A.). De Apellis Gnosi monarchica. Leipzig (2). Not in British Museum.
 
-**Lang (J. M.), article on Gnostic Sects of the Second Century in The British and Foreign Evangelical Review. London, Vol. XXXVI, pp. 226 ff., 1889.**
+1875 Hilgenfeld (A.). Art. Der Gnostiker Appelles. Zeitschr. f. wiss. Theolog. Jena. Vol. i., pp. 51-75.
 
-**Conder (C. R.), article on The Gnostics in The Asiatic Review.****Modern English Conversion and Simplification:**
+1875 Mansel (H. L.). The Gnostic Heresies of the first and second Centuries. London. A posthumous work edited by Lightfoot, consisting of notes of Lectures delivered in 1868.
 
-**Gnosticism and Related Studies:**
+1875 Lipsius (R. A.). Die Quellen der altesten Ketzergeschichte neu untersucht. Leipzig.
 
-- **London Quarterly, Vol. 67, pp. 120 ff., 1895:** G. T. Stokes discusses Gnosticism and Modern Pantheism.
-- **The Monist, Chicago, Vol. 8, pp. 502-546, 1898:** P. Carus writes about Gnosticism in Relation to Christianity.
-- **Mind, London, Vol. 20, pp. 320 ff., 1898:** C. A. Scott reviews Anz's work on the origins of Gnosticism.
+1876 Huckstadt (E.). Art. Ueber das pseudo-tertullianische Gedicht adv. Marcionem. Zeitschr. f. wiss. Theolog. Jena. Vol. i., pp. 154 ff.
 
-**Uncanonical Acts:**
+1876 Harnack (A.). Art. Beitrage zur Geschichte der marcionitischen Kirchen. Zeitschr. f. wiss. Theolog. Leipzig. Pt. i., pp. 80-120.
 
-For an introduction to the subject, refer to these key works. Lipsius' comprehensive work includes a full bibliography:
+1876 Ludemann (M.). Art. Literarisches Centralblatt. No. xi. Not in British Museum.
 
-- **C. de Tischendorf (1851):** Acta Apostolorum Apocrypha, Leipzig.
-- **W. Wright (1871):** Apocryphal Acts of the Apostles, Syriac Text and English Translation, London, 2 volumes.
-- **T. Zahn (1880):** Acta Joannis, Erlangen.
-- **R. A. Lipsius (1883):** The Apocryphal Acts and Legends of the Apostles, Braunschweig, 3 volumes.
-- **M. Bonnet (1883):** Supplement to the Apocryphal Acts, Acta Thomae, Leipzig.
-- **Lipsius and Bonnet (1891):** Acta Apostolorum Apocrypha, Leipzig, 2 parts (part i by Lipsius, 1891; part ii by Bonnet, 1898).
-- **M. R. James (1897):** Apocrypha Anecdota II, Cambridge, Texts and Studies, Vol. 5, No. 1.
-- **A. A. Bevan (1897):** The Hymn of the Soul in the Syriac Acts of St. Thomas, Cambridge, Texts and Studies, Vol. 5, No. 3.
+1877 Jacobi (J. L.). Art. Gnosis. Herzog's Real Encyclopadie. Leipzig. 2 ed., 18 vols., 1877-1888. American ed. New York and Boston. 1882-1883.
 
-**Gnostic Gems and Abraxas Studies:**
+1877 Moller (E. W.) Art. Simon Magus. Herzog's R. E. (as above).
 
-For works before 1828, see Matter's "Histoire," 1st edition, Vol. 2, pp. 52-53, and King's "Gnostics and their Remains." For more recent research:
+1877 Jacobi (J. L.). Art. Das ursprungliche basilidianische System mit eingehender Rucksicht auf die bisherigen Verhandlungen. Zeitschr. f. Kirchengesch. Gotha. Vol. i., pp. 481-544.
 
-- **A. Dieterich (1891):** Abraxas, Studies in the Religious History of Late Antiquity, Leipzig.
+1877 Smith (W.) and Wace (H.). A Dictionary of Christian Biography. London. 4 vols. 1877-1887. Contains an article on every important teacher of the Gnosis, and short notices of many of the principal technical terms by Hort, Salmon, and Lipsius.
 
-**Gnostic Works Mentioned by Ancient Writers:**
+1878 Hilgenfeld (A.). Art. Der Basilides des Hippolytus, in Zeitschr. f. wiss. Theolog. Jena. Vol. ii., pp. 228-250.
 
-For a list of Gnostic works, some fragments of which still exist, refer to:
+1879 Tulloch (J.). Art. Gnosticism. Encyclopaedia Britannica. London. 9th ed. Very short and unworthy of the subject; the sole source from which the general reader in England gets his information.
 
-- **A. Harnack (1893):** History of Early Christian Literature up to Eusebius, Leipzig, 2 volumes. Volume 1, pages 143-231. THE MOST RECENT TEXTS OF THE HERESIOLOGICAL CHURCH FATHERS AND THEIR ENGLISH TRANSLATIONS. Corpus Haeresiologicum. Ocher (F.). Berlin. 3 volumes. 1856, 1859, 1861. Volume 1 includes minor Latin heresiological writers: Philastrius, Augustine, Praedestinatus, Pseudo-Tertullian, Pseudo-Hieronymus, Isidore of Seville, Paulus, Honorius of Autun, Gennadius of Massilia. Volumes 2 and 3 include Epiphanius' Panarion.
+1879 De Pressense (E. de). Art. Gnosticisme. L'Encyclopedie des Sciences religieuses protestantes. Paris.
 
-[p. 632]
+1880 Menendez y Pelayo (M.). Historia de los Heterodoxos Esparioles. Madrid. 3 vols.
 
-Justin Martyr. Otto (J. C. T. v.). Jena. 3 volumes. 2nd edition, 1847-1850. Also in Corpus Apologetarum Christianorum Saeculi Secundi. 3 volumes, 1876-1881. English translation by Dods (M.) and Reith (G.) in Ante-Nicene Christian Library. Edinburgh. 1867. Clement of Alexandria. Dindorf (G.). Oxford. 4 volumes. 1869. English translation by Wilson (W.) in Ante-Nicene Christian Library. Edinburgh. 2 volumes, 1867, 1869. (Protrepticus and Paedagogus). Stahlin (O.). Leipzig, published by the Church Fathers Commission of the Royal Prussian Academy of Sciences. Irenaeus. Stieren (A.). Leipzig. 2 volumes. 1848. English translation by Roberts (A.) and Rambaut (W. H.) in Ante-Nicene Christian Library. Edinburgh. 2 volumes, 1868, 1869. Tertullian. Oehler (F.). Leipzig. 3 volumes. 1853, 1854. English translation by Holmes (P.) in Ante-Nicene Christian Library. Edinburgh. 4 volumes, 1868-1870. (On the Prescription of Heretics). Bindley (T. H.). Oxford. 1893. Preuschen (E.). 1892. (Collection of Selected Church and Dogma Historical Source Texts. Volume 3). Hippolytus. (Philosophumena). Dunker (L.), and Schneidewin (F. G.). Göttingen. 1859. Cruice (P.) Paris. 1860. English translation by MacMahon (J. H.) in Ante-Nicene Christian Library. Edinburgh. 1868. Origen. (Against Celsus). Lommatzsch (C. H. E.). Berlin. 3 volumes, 1845, 1846. Selwyn (W.). Cambridge. 1873, Books 1-3 only. [p. 633]
+1880 Hilgenfeld (A.) Art. Der Gnostiker Valentinus und seine Schriften. Zeitschr. f. wiss. Theol. Jena. Vol. iii., pp. 280-300.
 
-English translation by Crombie (F.) in Ante-Nicene Christian Library. Edinburgh. 2 volumes, 1869, 1872. Eusebius. Dindorf (G.). Leipzig. 4 volumes, 1867-1871. English translation (Ecclesiastical History) by Cruse (C. F.) in Bohn's Ecclesiastical Library. London. New edition, 1894. (Church History, Life of Constantine, etc.)This text refers to various publications and translations related to early Christian writings:
+1880 Meyboom (H. U.). Marcion en de Marcioniten. Leyden.
 
-- By A. C. McGiffert and others, in the Select Library of Nicene and Post-Nicene Fathers of the Christian Church, New Series, Oxford, 1890.
-- Epiphanius, edited by G. Dindorf, published in Leipzig in 5 volumes from 1859 to 1863. No English translation exists.
-- Philastrius, edited by F. Marx, published in Vienna in 1898. No English translation exists.
-- Theodoret, included in J. P. Migne's Patrologiae Cursus Completus, Series Graeca, published in Paris in volumes 80 and 84, 1857. No English translation exists.
+1881 Joel (M.). Blicke in die Religionsgeschichte zu Anfang des zweiten christlichen Jahrhunderts.Breslau. 2 vols. 1880, 1883. Excurs ii. Die Gnosis. Vol. i., pp. 103-170.
+
+1880 Hilgenfeld (A.). Art. Der Gnostiker Valentinus und seine Schriften, in Zeitschr. f. wiss. Theolog. Leipzig. Pt. iii., pp. 280--300.
+
+1881 Kaufmann (G.). Die Gnosis nach ihrer Tendenz und Organization. Zwolf Thesen: Breslau.
+
+1881 Hilgenfeld (A.). Art. Cerdon und Marcion. Zeitschr. f. wiss. Theolog. Leipzig. Pt. i., pp. 1-37
+
+1881 Hilgenfeld (A.). Art. Revised Text of Letter of Ptolemy to Flora. Ibid., p. 214.
+
+1881 Harnack (A.). Art. Tatian's Diatessaron und Marcion's Commentar zum Evangelium bei Ephraem Syrus. Zeitschr. f. Kirchengesch. Gotha. Pt. iv., pp. 471-505.
+
+1881 Funk (F. X.). Art. Ist der Basilides der Philosophumena Pantheist? Theol. Quartalschrift. Tubingen. Vol. ii., pp. 277 if.
+
+1881 Funk (F. X.). Art. Ueber den Verfasser der Philosophumena. Theol. Quartalschrift. Tubingen. Vol. iv., pp. 423-464.
+
+1883 Hilgenfeld (A.). Art. Valentiniana. Zeitschr. f. wiss. Theolog. Jena. Vol. iii., pp. 356-360.
+
+1884 Giraud (?). Ophitae, Dissertatio de eorum Origine, Placitis et Fatis. Paris. Not in British Museum; referred to by Carl Schmidt, who had, however, not met with a copy.
+
+1884 Hilgenfeld (A.); Die Ketzergeschichte des Urchristenthums. Leipzig. Summing up the results of his previous researches.
+
+1885 Zahn (T.). Art. Die Dialoge des Adamantinus (for Marcion). Zeitschr. f. Kirchengesch. Gotha. Vol. ix., pp. 193 ff.
+
+1885 Salmon (G.). Art. The Cross-references in the Philosophumena. Hermathena. Dublin. Pp. 389 ff.
+
+1887 King (C. W.). The Gnostics and their Remains, ancient and mediaeval. London. 2 ed. 1st ed., 1864, very much smaller and containing no reference to the Pistis Sophia.
+
+1887 Amelineau (E.). Essai sur le Gnosticisme egyptien ses Developpements er son Origine egyptienne. Annales du Musee Guimet. Paris. Vol. xiv.
+
+1888 Harnack (A.). Art. Valentinus. Encyclopaedia Britannica. London. 9th edition. A longer article than Tulloch's on the whole of Gnosticism.
+
+1888 Zahn (T.). Adopts Salmon's Philosophumena theory. Geschichte des N. T. Kanons. Erlangen. Vol. I. i. p. 24, n. 2.
+
+1889 Usener (H.). Religionsgeschichtliche Untersuchungen. Th. i. Das Weihnachtsfest. Bonn.
+
+1889 Harnack (A.). Crit. on above. Theologische Literaturzeitung. Leipzig. Nr. viii., pp. 199-211.
+
+1889 Honig (A.). Die Ophiten. Ein Beitrag zur Geschichte des judischen Gnosticismus. Berlin.
+
+1889 Harnack (A.). Crit. of Amelineau's Essai. Theolog. Literaturztg. Leipzig. Nr. ix., pp. 232 ff.
+
+1890 Stahelin (H.). Die gnostischen Quellen Hippolyts in seiner Hauptschrift gegen die Haretiker Texte und Untersuchungen. Leipzig. Vol. vi., pt. 3.
+
+1890 Harnack (A.). Sieben neue Bruckstucke der Sillogismen des Apelles. Text. u. Unter. Leipzig. Vol. vi., pt. 3.
+
+1891 Kurtz (J. H.). Lehrbuch der Kirchengeschichte. Leipzig. 11th ed., 1890. English trans. by Macpherson (J.). Church History. London. 3 vols., 1888-1890. Vol. i., pp. 98-125.
+
+1891 Blunt (J. H.). Dictionary of Sects, Heresies, ecclesiastical Parties and Schools of religious Thought. London. New ed. Very unsatisfactory.
+
+1891 Brooke (A. E.). The Fragments of Heracleon newly edited from the MSS. with an Introduction and Notes. Cambridge. Texts and Studies. Vol. i., No. 4.
+
+1892 Mead (G. R. S.). Simon Magus. An Essay. London.
+
+1893 Harnack (A.). Geschichte der altchristlichen Litteratur bis Eusebius. Leipzig. 2 vols.
+
+1894 Anrich (G.). Das antike Mysterienwesen in seinem Einfluss auf das Christentum. Gottingen. Der Gnosticismus in seinem Zusammenhang mit dem Mysterienwesen. Pp. 74-105.
+
+1894 Harnack (A.). Lehrbuch der Dogmengeschichte. Freiburg i. B. u. Leipzig. 3 vols., 3rd ed. 1st ed., 1886. Die Versuche der Gnostiker u. s. w. Vol. i., pp. 211-253.
+
+1894 Harnack (A.). History of Dogma. English trans. by various hands. London. 7 vols. The Attempts of the Gnostics to create an Apostolic Dogmatic and a Christian Theology; or the Acute Secularising of Christianity. Vol. i., pp. 222-265.
+
+1894 Kunze (J.). De Historiae Gnosticismi Fontibus novae Quaestiones critic. Leipzig.
+
+1894 Harnack (A.). Rev. of Kunze's thesis. Theolog. Literaturztg. Leipzig. Pp. 506 ff.
+
+1895 Amelineau (E.). Le nouveau Traite gnostique de Turin. Paris.
+
+1895 Anz (W.) Zur Frage nach dem Ursprung des Gnostizismus. Texte u. Untersuch. Leipzig. Vol. xv.
+
+1897 Nau (F.). Une Biographie inedite de Bardesane l'Astrologue. Paris.
+
+1897 Bevan (A. A.). The Hymn of the Soul [attributed to Bardesan] contained in the Syriac Acts of St. Thomas. Texts and Studies. Cambridge. Vol. v., No. 3.
+
+1898 Friedlander (M.). Der vorchristliche judische Gnosticismus. Gottingen.
+
+1899 Nau (F.). Bardesane l'Astrologue: Le Livre des Lois des Pays. Paris.
+
+1899 Burkitt (F. C.). The Hymn of Bardaisan, rendered into English. London.
+
+1900 Mead (G. R. S.). Fragments of a Faith Forgotten. Some Short Sketches among the Gnostics, mainly of the First Two Centuries. A Contribution to the Study of Christian Origins. London.
+
+1900 Preuschen (E.). Die apokryphen gnostichen Adamschriften aus dem Armenischen ubersetzt.
+
+1900 (?). Kreyenbuhl. Das Evangelium der Wahrheit. 2 vols. Vol. ii. 1905 (?). Not in British Museum.
+
+1901 Waitz (H.). Das pseudotertullianische Gedicht adversus Marcionem. Ein Beitrag zur Geschichte der altchrist. Literatur sowie zur Quellenkritik des Marcionitismus. Darmstadt.
+
+1902 Liechtenhan (R.). Art. Die pseudepigraphe Literatur der Gnostiker. Zeitschr. f. d. neutest. Wissenchaft. Giessen. Fasce. iii., xiv.
+
+1903 Hoffmann (G.). Zwei Hymnen der Thomasakten. Zeitschr. f. d. neutest. Wissenchaft. Giessen. Vol. iv., pp. 273-309.
+
+1903 De Faye (E.). Introduction a l'etude du Gnosticisme au IIe et IIIe Siecle. Paris.
+
+1904 Waitz (W.). Die Pseudoklementinen Homilien u. Rekognitionen. Texte u. Untersuchungen. Leipzig. N. F. Bd. x. Hft. 4.
+
+1904 Hilgenfeld (A.). Art. Der Konigssohn und die Perlen. Ein morgenlandischer Gedicht. Zeitschr. f. wissenschaft. Theologie. Leipzig. Vol. xlviii., (N. F. xii.). Hft. ii., pp. 229-241.
+
+1904 Preuschen (E.). Zwei Gnostische Hymnen. Giessen.
+
+1905 Harnack (A.). Ed. The Letter of Ptolemy to Flora. Cambridge.
+
+1905 Kruger (G.) Art. Das Taufbekentniss der romischen Gemeinde als Niederschlag des Kampfes gegen Marcion. Zeit. f. d. neutest. Wiss. Heft i.
+
+1906 Mead (G. R. S.). Thrice-Greatest Hermes. Studies in Hellenistic Theosophy and Gnosis. Being a Translation of the Extant Sermons and Fragments of the Trismegistic Literature, with Prolegomena, Commentaries and Notes. London. 3 vols.
+
+#### The Coptic Gnostic Works
+
+The student will find critical reviews on most of the following works in the Introduction to my translation of the *Pistis Sophia*
+
+1770 Art. in Brittische theolog. Magazin (?). See Kostlin infra. I can find no trace of this in the British Museum.
+
+1773 Woide (C. A.). Art. in Journal des Savants. Paris.
+
+1778 Woide (C. A.). Art. in Cramer's (J. A.) Beytrage zur Beforderung theologischer und andrer wichtigen Kentnisse. Kiel und Hamburg. Pp. 82 ff.
+
+1799 Woide (C. A.). Appendix ad Editionem Novi Testimenti graeci e Codice ms. Alexandrino et cet. Oxonii. P. 137.
+
+1812 Winter (F. C. C. H.). Odae gnosticae Salomon tributae, thebaice et latine. Prefatione et Adnotationibus philologicis illustratse. Hafniae.
+
+1838 Dulaurier (E.). Art. in Le. Moniteur. Paris. Sep. 27.
+
+1843 Matter (J). Histoire critique du Gnosticisme. See General Bibliog. above. 2 ed. Vol. ii., pp. 41 ff., 350 ff. Dorner's German trans., vol. ii., pp. 69 ff., 163 ff.
+
+1844 Dulaurier (E.). Art. Notice sur le Manuscript copte-thebain, intitule La Fidele Sagesse; et sur la Publication projetee du Texte et de la Traduction francaise de ce Manuscript. Journal asiatique. Paris. 4th series. Vol. ix., juin, pp. 534-548.
+
+1851 Schwartze (M. G.) Pistis Sophia, Opus gnostisum Valentino adjudicatum, e Codice manuscripto coptico londinensi descriptum. Text and Latin translation (1853) by Schwartze, ed. by Petermann (J. H.). Berlin.
+
+1852 Bunsen (C. C. J.). Hippolytus und seine Zeit. Anfange und Aussichten des Christenthums und der Menschheit. Leipzig. Vol. i., pp. 47, 48. Hippolytus and his Age. London. Vol. i., pp. 61, 62.
+
+1853 Baur (F. C.) Das Christenthum und die christliche Kirche der drei ersten Jahrhunderte. Tubingen. Notes pp. 185, 186 and 205, 206.
+
+1854 Kostlin (K. R.). Art. Das gnostische System des Buches Pistis Sophia. Theolog. Jahrbucher. Tubingen. Vol. xiii., pp. 1-104, 137-196.
+
+1856 Migne (J. P.). Le Livre de la fidele Sagasse. An anonymous translation in Migne's Dictionaire des Apocryphes. Paris. Vol. i. append., pt. ii., coll. 1181-1286.
+
+1860 Lipsius (R. A.). Gnosticismus. Leipzig. Pp. 95 ff., 157 ff. See Gen. Bibliog.
+
+1875 Wright (W.). The Palaeographical Society. Facsimiles of MSS. and Inscriptions. Oriental Series. Ed. by W. W. London. Plate xlii.
+
+1877 Jacobi (J. L.). Art. Gnosis. Herzog's Theolog. Real Encycl. See Gen. Bibliog.
+
+1887 King (C. W.). The Gnostics and their Remains. Contains a translation of a number of pages of P. S. See Gen. Bibliog.
+
+1887 Lipsius (R. A.). Art. Pistis Sophia. Smith and
+
+1887 Amelineau (E.). Essai sur le Gnosticisme egyptien. Especially pt. iii., pp. 106-322. See Gen. Bibliog.
+
+1889 Harnack (A.). Crit. of above. See Gen. Bibliog.
+
+1890 Amelineau (E.). Art. Les Traites gnostiques d'Oxford. Etude critique. Revue de l'Histoire des Religions. Paris. Pp. 1-72.
+
+1891 Schmidt (Carl). Art. Ueber die in koptischer Sprache erhaltenen gnostischen Originalwerke. Sitzungsber. der konigl. preuss. Akad. di Wissensch. Berlin. Phil.-hist. Klasse. xi. pp. 215-219.
+
+1891 Harnack (A.). Ueber das gnostische Buch Pistis. Sophia. Leipzig. Text. und Untersuch. Vol. vii., pt. 2.
+
+1891 Ryle (H. E.) and James (M. R.). Psalms of the Pharisees, commonly called the Psalms of Solomon. Cambridge. For the five Salomonic Odes quoted in the PS. See Introd. for full bibliog. of subject.
+
+1891 Amelineau (E.). Notice sur le Papyrus gnostique Bruce. Texte et Traduction. Paris.
+
+1891 Schmidt (C.). Crit. on Amelineau's Notice. Gottingische gelehrte Anzeigen. Gottingen. Nr. xvii., pp. 640-657.
+
+1891 Amelineau (E.). Art. Le Papyrus Bruce. Reponse aux Gottingische gelehrte Anzeigen. Revue de L'Histoire des Religions. Paris. Vol. xxiv., no. 3, pp. 376-380.
+
+1892 Schmidt (C.). Final reply of Schmidt. Gott. gelehr. Anz. Nr. vi., pp. 201-222.
+
+1892 Schmidt (C.). Gnostische Schriften in koptischer Sprache aus dem Codex brucianus, herausgegeben, ubersetzt und bearbeitet. Leipzig. Text. u. Untersuch. Vol. viii., pts. 1, 2.
+
+1894 Preuschen (E.). Crit. on above. Theolog. Litt.-Ztg. Leipzig. Nr. 7.
+
+1894 Schmidt (C.). Reply. Die in dem koptisch-gnostischen Codex brucianus enthaltenen "beiden Bucher Jeu" in ihrem Verhaltnis zu der Pistis Sophia. Zeitschr. f. wiss. Theolog. Leipzig. Pt. iv., Nr. xxiv., pp. 555-585.
+
+1895 Amelineau (E.). Pistis Sophia. Ouvrage gnostique de Valentin, traduit du copte en francais, avec une Introduction. Paris.
+
+1896 Mead (G. R. S.). Pistis Sophia. A Gnostic Gospel (with Extracts from the Books of the Saviour appended) originally translated from Greek into Coptic, and now for the first time Englished from Schwartze's Latin version of the only known Coptic MS. and checked by Amelineau's French Version, with an Introduction. London.
+
+1896 Schmidt (C.). Art. Ein vorirenaeisches gnostisches Originalwerk in koptisher Sprache. Sitzungsber. der konigl. preuss. Akad. der Wissenschaft. zu Berlin. Pp. 837-847.
+
+1898 Schmidt (C.). Review on Amelineau's trans. of PS. Sonder-Abdruck aus den Gottingisch. gelehr. Anzeigen. Nr. vi.
+
+1901 Liechtenhan (R.). Untersuchungen zur koptisch-gnostischen Literatur. Die Offenbarung im Gnosticismus. Gottingen.
+
+1905 Schmidt (C.). Koptisch-gnostische Schriften. Die Pistis Sophia. Die beiden Bucher des Jeu. Unbekanntes altgnostisches Werk. Leipzig. Vol. 1.
