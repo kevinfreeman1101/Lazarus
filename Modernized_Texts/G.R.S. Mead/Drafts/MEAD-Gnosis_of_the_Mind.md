@@ -1,4 +1,8 @@
-# The Gnosis of the Mind by G.R.S. Mead
+# The Gnosis of the Mind, Volume 1
+
+by G.R.S. Mead
+
+1906: Echoes From the Gnosis
 
 2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
 
@@ -6,11 +10,15 @@
 
 Draft; this content features the full modernized text, but has not yet been edited for structure and/or correction.
 
-**Begin Text**
+## A Note from G.R.S. Mead
 
-## CONTENTS
+A series of small volumes are now being published under this general title. These are drawn from, or based upon, the mystic, theosophic and gnostic writings of the ancients to reach an ever-widening circle of those who love such things with these echoes of the mystic experiences and initiatory lore of spiritual ancestry.
 
----
+There are many who love the life of the spirit, and who long for the light of gnostic illumination, but who are not sufficiently equipped to study the writings of the ancients at first hand, or to follow unaided the labours of scholars. These little volumes are therefore intended to serve as introduction to the study of the more difficult literature of the subject; and it is hoped that at the same time they may become for some, who have, as yet, not even heard of the Gnosis, stepping-stones to higher things.
+
+The references in this volume are to the published work--Thrice Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis; a Translation of the Extant Sermons and Fragments of the Trismegistic Literature, with Prolegomena, Commentaries and Notes (3 volumes)
+
+## Volume 1
 
 For a long time, I've spent much of my time immersed in a world of profound thought and pure emotion, created by the devotion and intelligence of an ancient theosophical fraternity. These individuals, who called themselves disciples of thrice-great Hermes, sometimes referred to their faith as the "religion of the mind." They existed before and during the early centuries of Christianity, living in Egypt. Recent efforts have made their scriptures and endeavors accessible in English, allowing me to reproduce and interpret their thoughts. After many months of work, the task is complete, and the teachings of thrice-great Hermes can now be heard more clearly in English than ever before.
 
@@ -26,7 +34,7 @@ The person on this path should continually pray by dedicating each act to their 
 
 If you question the use of the word 'mind,' considering it may exclude other names of equal importance, remember that followers of Hermes Trismegistus have discussed this extensively. He has no single name, for he is known by many names, indeed by all names, for he embodies name itself and everything else. He is not just one entity; he is everything and nothing, if 'nothing' can indeed exist. Due to our ignorance, we call him 'mind,' because mind is what knows, and ignorance always seeks its counterpart, which is knowledge. In seeking knowledge, whether it loves or hates its mistaken perception of what it seeks, ignorance constantly transforms into some form of understanding, experiencing new things without realizing it is experiencing itself.
 
-However, mind is not just the knower but also the object of all knowledge, for it knows only itself, as there is nothing else to know. It creates itself to understand itself, and to do that, it must first not know itself. Therefore, mind creates both ignorance and knowledge but is neither of them in its essence.The mystery itself creates all other mysteries so that it can initiate itself within everyone. We learn that the mind, the ultimate initiator, is the master of both ignorance and knowledge. Thus, the Supreme speaks to one of his beloved sons, who has mastered himself, calling him "soul of my soul and mind of my own mind." The religion of the mind focuses on initiation and continuous improvement. The possibilities revealed to a new initiate in these sacred rites seem almost unbelievable. One wonders repeatedly, can this be true? It seems too good to be true. But how can something be too good? The master smiles and explains that the ultimate goal is perfection itself, the embodiment of good. It cannot be too good, as perfection has no excess. 
+However, mind is not just the knower but also the object of all knowledge, for it knows only itself, as there is nothing else to know. It creates itself to understand itself, and to do that, it must first not know itself. Therefore, mind creates both ignorance and knowledge but is neither of them in its essence.The mystery itself creates all other mysteries so that it can initiate itself within everyone. We learn that the mind, the ultimate initiator, is the master of both ignorance and knowledge. Thus, the Supreme speaks to one of his beloved sons, who has mastered himself, calling him "soul of my soul and mind of my own mind." The religion of the mind focuses on initiation and continuous improvement. The possibilities revealed to a new initiate in these sacred rites seem almost unbelievable. One wonders repeatedly, can this be true? It seems too good to be true. But how can something be too good? The master smiles and explains that the ultimate goal is perfection itself, the embodiment of good. It cannot be too good, as perfection has no excess.
 
 We then weakly ask, what is imperfection? In the presence of the master, we realize that doubting if something is too good is the imperfection of our nature. We fear it cannot be ours, not understanding that the glimpse of this vision is not external but within ourselves. It is all there potentially, the full sonship of the Father. It is present everywhere because it is the essence of our being. The first glimpse of this divine potential is brought to the prepared disciple by the presence and glory of the master, according to followers of the religion of the mind.
 
