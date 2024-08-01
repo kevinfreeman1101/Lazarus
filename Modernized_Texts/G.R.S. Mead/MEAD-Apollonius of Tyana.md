@@ -10,18 +10,11 @@ by George Robert Stowe Mead
 
 2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
 
-## STATUS
-
-Draft; This document has been edited for readability and structure. TOC links are functional.
-
-TODO: Footnote links
-
 **Begin Text**
 
 ## CONTENTS
 
 - [Apollonius of Tyana](#apollonius-of-tyana)
-  - [STATUS](#status)
   - [CONTENTS](#contents)
   - [Section 1: Introduction](#section-1-introduction)
   - [Section 2: The Religious Associations of the First Century](#section-2-the-religious-associations-of-the-first-century)
@@ -51,6 +44,8 @@ TODO: Footnote links
   - [Section 16: From His Letters](#section-16-from-his-letters)
   - [Section 17: The Writings of Apollonius](#section-17-the-writings-of-apollonius)
   - [Section 18: Bibliographical Notes](#section-18-bibliographical-notes)
+    - [Nineteenth Century Literature on Apollonius](#nineteenth-century-literature-on-apollonius)
+    - [Some Indications of the Literature on the Religious Associations Among the Greeks and Romans](#some-indications-of-the-literature-on-the-religious-associations-among-the-greeks-and-romans)
 
 ## Section 1: Introduction
 
@@ -825,32 +820,94 @@ We've now provided all the available information about our philosopher. Was Apol
 
 ## Section 18: Bibliographical Notes
 
-Nineteenth Century Literature on Apollonius
+### Nineteenth Century Literature on Apollonius
 
-Jacobs (F.), Observations on Philostratus' Life of Apollonius (Jena; 1804), focused on textual corrections. Legrand d'Aussy (P. J. B.), Life of Apollonius of Tyana (Paris; 1807, 2 volumes). Bekker (G. J.), Samples of Various Readings in Philostratus' Life of Apollonius, Book One (1808); focused on textual analysis. Berwick (E.), The Life of Apollonius of Tyana, translated from the Greek of Philostratus, with Notes and Illustrations (London; 1809).
+Jacobs (F.), Observationes in ###133### Philostrati Vitam Apollonii (Jena; 1804), purely philological, for the correction of the text.
 
-Lancetti (V.), The Works of the Two Philostrati, Italian translations (Milan; 1828-31); part of the "Collection of Ancient Greek Historians Translated." Jacobs (F.), Philostratus: Life of Apollonius of Tyana, in the series "Greek Prose Writers," German translations (Stuttgart; 1829-32), volumes xlviii., lxvi., cvi., cxi., each containing two books; a very poorly organized set. Baur (F. C.), Apollonius of Tyana and Christ or the Relationship of Pythagoreanism to Christianity (Tübingen; 1832); reprinted from Tübingen Journal for Theology. Second edition by E. Zeller (Leipzig; 1876), in Three Essays on the History of Ancient Philosophy and its Relationship to Christianity. Kayser and Westermann's editions as referred to in section v.
+Legrand d'Aussy (P. J. B.), Vie d'Apollonius de Tyane (Paris; 1807, 2 vols.).
 
-Newman (J. H.), "Apollonius Tyanaeus--Miracles," in Smedley's Encyclopaedia Metropolitana (London; 1845), volume x, pages 619-644. Noack (L.), "Apollonius of Tyana, a Christ-like Figure of Paganism," in his magazine Psyche: Popular Scientific Journal for the Understanding of Human Mental and Spiritual Life (Leipzig; 1858), volume i, issue ii, pages 1-24. Muller (I. P. E.), Commentary on the Reliability of Philostratus in Composing the Memoir of Apollonius of Tyana, parts I-III (Onoldi and Landau; 1858-1860). Muller (E.), Was Apollonius of Tyana a Wise Man or a Deceiver or a Fanatic?A Cultural-Historical Study (Breslau; 1861, 4to), 56 pages. Chassang (A.), Apollonius of Tyana: His Life, Travels, Miracles by Philostratus, and His Letters, translated from Greek with Introduction, Notes, and Clarifications (Paris; 1862), also titled The Marvelous in Antiquity. Reville (A.), Apollonius the Pagan Christ of the Third Century (London; 1866), translated from French. The original is not in the British Museum. Priaulx (O. de B.), The Indian Travels of Apollonius of Tyana, etc. (London; 1873), 162 pages. Monckeberg (C.), Apollonius of Tyana: A Christmas Gift (Hamburg; 1877), 57 pages. Pettersch (C. H.), Apollonius of Tyana: The Pagan Savior, a Philosophical Study (Reichenberg; 1879), 23 pages. Nielsen (C. L.), Apollonius of Tyana and Philostratus’ Description of His Life (Copenhagen; 1879); the Appendix (pages 167 and following) contains a Danish translation of Eusebius' Contra Hieroclem. Baltzer (E.), Apollonius of Tyana, translated and explained from Greek (Rudolstadt; 1883). Jessen (J.), Apollonius of Tyana and His Biographer Philostratus (Hamburg; 1885, 4to), 36 pages. Tredwell (D. M.), A Sketch of the Life of Apollonius of Tyana, or the First Ten Decades of Our Era (New York; 1886). Sinnett (A. P.), "Apollonius of Tyana," in the Transactions (No. 32) of the London Lodge of the Theosophical Society (London; 1898), 32 pages. Students may also refer to articles in standard dictionaries and encyclopedias, though none require special mention. I have not been able to see P. Cassel's scholarly article in the Vossische Zeitung from Nov. 24th, 1878.
+Bekker (G. J.), Specimen Variarum Lectionum ###133### in Philost. Vitae App. Librum primum (1808); purely philological.
 
-Some References on the Religious Associations Among the Greeks and Romans:
+Berwick (E.), The Life of Apollonius of Tyana, translated from the Greek of Philostratus, with Notes and Illustrations (London; 1809).
 
-Bockh (A.), The Public Economy of Athens (1st ed. 1817). For older literature, see i. 416, note.
+Lancetti (V.), Le Opere dei due Filostrati, Italian trs. (Milano; 1828-31); in "Coll. degli Ant. Storici Greci volgarizzati."
 
-Van Holst, On the Clubs of Ancient Greeks (Leyden; 1832). Mommsen (T.), On the Colleges and Societies of the Romans (Kiel; 1843).Here is the text converted into modern English, corrected, and simplified while preserving the original meaning:
+Jacobs (F.), Philostratus: Leben des Apollonius von Tyana, in the series "Griechische Prosaiker," German trs. (Stuttgart; 1829.32), vols. xlviii., lxvi., cvi., cxi., each containing two books; a very clumsy arrangement.
 
----
+Baur (F. C.), Apollonius von Tyana und Christus oder das Verhaltniss des Pythagoreismus zum Christenthum (Tubingen; 1832); reprinted from Tubinger Zeitschrift fur Theologie.
 
-Roman Documents, iv.—The Lex Julia de Collegiis and the Lanuvian Lex Collegii Salutaris, article in Journal of Historical Legal Science (1850), vol. xv, pp. 353 and following. Wescher (C.), "Epigraphic Research in Greece, the Archipelago, and Asia Minor," articles in Le Moniteur, October 20, 23, and 24, 1863.
+Second edition by E. Zeller (Leipzig; 1876), in Drei Abhandlungen zur Geschichte der alten Philosophie und ihres Verhaltnisses zum Christhenthum.
 
-"Inscriptions from the Island of Rhodes Related to Religious Societies"; "Notice on Two Inscriptions from the Island of Thera Related to a Religious Society"; "Note on an Inscription from the Island of Thera Published by Mr. Ross and Related to a Religious Society"; articles in The Archaeological Review (Paris; new series, 1864), x, pp. 460 and following; 1865, xii, pp. 214 and following; 1866, xiii, pp. 245 and following. Foucart (P.), Religious Associations among the Greeks, Thiases, Eranes, Orgeons, with the Text of Inscriptions Related to These Associations (Paris; 1873). Luders (H. O.), The Dionysian Artists (Berlin; 1873). Cohn (M.), On Roman Association Law: Treatise from Legal History (Berlin; 1873). Also the notice of it in Bursian's Philological Annual Report (1873), ii, pp. 238-304. Henzen (G.), Acts of the Arval Brothers that Remain; including Fragments of the Fasti Unearthed in the Arval Grove (Berlin; 1874). Heinrici (G.), "The Christian Community of Corinth and the Religious Associations of the Greeks"; "On the History of the Beginnings of Pauline Communities"; articles in Journal of Scientific Theology (Jena, etc.; 1876), pp. 465-526, particularly pp. 479 and following; 1877, pp. 89-130. Duruy (V.), "On Municipal Government in the Roman Empire," article in The Historical Review (Paris; 1876), pp. 355 and following; also his History of the Romans (Paris; 1843, 1844), i, pp. 149 and following. De Rossi, Underground Rome (Rome; 1877), iii, pp. 37 and following, and especially pp. 507 and following. Marquardt (J.), Roman State Administration, iii, pp. 131-142, in vol. vi.Here is a modern English version of the given text, corrected and simplified without altering its original meaning:
+Kayser and Westermann's editions as above referred to in section v.
 
-Marquardt and Mommsen's "Handbook of Roman Antiquities" (Leipzig, 1878) offers an excellent summary with valuable notes, especially the section "Replacement of the Gentes by the Sodalitates for Foreign Cults." Boissier's "The Roman Religion from Augustus to the Antonines" (Paris, 2nd ed., 1878) covers this topic in detail, specifically in volume ii, pages 238-304 (1st ed. 1874).
+Newman (J. H.), "Apollonius Tyanaeus--Miracles," in Smedley's Encyclopaedia Metropolitana (London; 1845), x. pp. 619-644.
 
-Hatch's "The Organization of the Early Christian Churches: The Bampton Lectures for 1880" (London, 2nd ed., 1882) is also important, especially Lecture ii, "Bishops and Deacons," on pages 26-32. The German edition, "The Social Structure of Christian Churches in Antiquity" (1883), page 20, includes additional literature on the subject.
+Noack (L.), "Apollonius von Tyana ein Christusbild des Heidenthums," in his magazine Psyche: Popularwissenschaftliche Zeitschrift fur die Kentniss des menschlichen Seelen- und Geistes-lebens (Leipzig; 1858), Bd. i., Heft ii., pp. 1-24.
 
-Newmann's article "Thiasutai Iesou" in "Yearbook for Protestant Theology" (Leipzig, 1885), pages 123-125, is another useful resource. Schürer's "A History of the Jewish People in the Time of Jesus Christ" (English translation, Edinburgh, 1893), Division ii, volume ii, pages 255 and 300, provides further insights. Owen's "On the Organization of the Early Church," an introductory essay in the English translation of Harnack's "Sources of the Apostolic Canons" (London, 1895), is also recommended.
+Muller (I. P. E.), Commentatio qua de Philostrati in componenda Memoria Apoll. Tyan. fide quaeritur, I.-III. (Onoldi et Landavii; 1858-1860).
 
-Lastly, Anst's "The Religion of the Romans," volume xiii of "Studies in Non-Christian Religious History" (Münster, 1899), is a noteworthy source.
+Muller (E.), War Apollonius von Tyana ein Weiser oder ein Betruger oder ein Schwarmer und Fanatiker? Ein Culturhistorische Untersuchung (Breslau; 1861, 4to), 56 pp.
 
-For additional reference, see Whiston and Wayte's article "Arval Brothers," and Moyle's articles "Collegium" and "Universitas" in Smith, Wayte, and Marindin's "Dictionary of Greek and Roman Antiquities" (London, 3rd ed., 1890-1891). The articles "Collegium" and "Sodalitas" in Pauly's "Encyclopedia of Classical Antiquities" are also useful, though somewhat outdated.
+Chassang (A.), Apollonius de Tyane, sa Vie, ses Voyages, ses Prodiges, par Philostrate, et ses Lettres, trad. du grec. avec Introd., Notes et Eclaircissements (Paris; 1862), with the additional title, Le Merveilleux dans l'Antiquite.
+
+Reville (A.), Apollonius the Pagan Christ of the Third Century (London; 1866), tr. from the French. The original is not in the British Museum.
+
+Priaulx (O. de B.), The Indian Travels of Apollonius of Tyana, etc. (London; 1873), pp. 1.62.
+
+Monckeberg (C.), Apollonius von Tyana, ein Weihnachtsgabe (Hamburg; 1877), 57 pp.
+
+Pettersch (C. H.), Apollonius von Tyana der Heiden Heiland, ein philosophische Studie (Reichenberg; 1879), 23 pp.
+
+Nielsen (C. L.), Apollonios fra Tyana og Filostrats Beskrivelse of hans Levnet (Copenhagen; 1879); the Appendix (pp. 167 sqq.) contains a Danish tr. of Eusebius Contra Hieroclem.
+
+Baltzer (E.), Apollonius von Tyana, aus den Griech. ubersetzt u. erlautert (Rudolstadt i/ Th.; 1883).
+
+Jessen (J.), Apollonius von Tyana und sein Biograph Philostratus (Hamburg; 1885, 4to), 36 pp.
+
+Tredwell (D. M.), A Sketch of the Life of Apollonius of Tyana, or the first Ten Decades of our Era (New York; 1886).
+
+Sinnett (A. P.), "Apollonius of Tyana," in the Transactions (No. 32) of the London Lodge of the Theosophical Society (London; 1898), 32 pp. The student may also consult the articles in the usual Dictionaries and Encyclopaedias, none of which, however, demand special mention. P. Cassel's learned paper in the Vossische Zeitung of Nov. 24th, 1878, I have not been able to see.
+
+### Some Indications of the Literature on the Religious Associations Among the Greeks and Romans
+
+Bockh (A.), Die Staatshaushaltung der Athener (1st ed. 1817). For older literature, see i. 416, n.
+
+Van Holst, De Eranis Veterum Graecorum (Leyden; 1832).
+
+Mommsen (T.), De Collegiis et Sodaliciis Romanorum (Kiel; 1843).
+
+"Romische Urkunden, iv.--Die Lex Julia de Collegiis und die lanuvinische Lex Collegii Salutaris," art. in Zeitschr. fur geschichtl. Rechtswissenschaft (1850), vol. xv. 353 sqq.
+
+Wescher (C.), "Recherches epigraphiques en Grece, dans l'Archipel et en Asie Mineure," arts. in Le Moniteur of Oct. 20, 23, and 24, 1863.
+
+"Inscriptions de l'Ile de Rhodes relatives a des Societes  religieuses"; "Notice sur deux Inscriptions de l'Ile de Thera relatives a une Societe religieuse"; "Note sur une Inscription de Vile de Thera publiee par M. Ross et relative a une Societe religieuse"; arts. in La Revue archeologique (Paris; new series, 1864), x. 460 sqq.; 1865, xii. 214 sqq.; 1866, xiii. 245 sqq.
+
+Foucart (P.), Des Associations religieuses chez les Grecs, Thiases, Eranes, Orgeons, avec le Texte des Inscriptions relatives a ces Associations (Paris; 1873).
+
+Luders (H. O.), Die dionyschischen Kunstler (Berlin; 1873).
+
+Cohn (M.), Zum romischen Vereinsrecht: Abhandlung aus der Rechtsgeschichte (Berlin; 1873). Also the notice of it in Bursian's Philol. Jaresbericht (1873), ii. 238-304.
+
+Henzen (G.), Acta Fratrum Arvalium quae supersunt; ###133### accedunt Fragmenta Fastorum in Luco Arvalium effossa (Berlin; 1874).
+
+Heinrici (G.), "Die Christengemeinde Korinths und die religiosen genossenschaften der Griechen"; "Zur Geschichte der Anfange paulinischer Gemeinden"; arts. in Zeitschr. fur wissensch. Theol. (Jena, etc.; 1876), pp. 465-526, particularly pp. 479 sqq.; 1877, pp. 89-130.
+
+Duruy (V.), "Du Regime municipal dans l'Empire romain," art. in La Revue historique (Paris; 1876), pp. 355 sqq.; also his Histoire des Romanis (Paris; 1843, 1844), i. 149 sqq.
+
+De Rossi, Roma Sotteranea (Rome; 1877), iii. 37 sqq., and especially pp. 507 sqq.
+
+Marquardt (J.), Romische Staatsverwaltung, iii. 131-142, in vol. vi. of Marquardt and Mommsen's Handbuch der romischen Altherthumer (Leipzig; 1878); an excellent summary with valuable notes, especially the section "Ersatz der Gentes durch die Sodalitates fur fremde Culte."
+
+Boissier (G.), La Religion romaine d'Auguste aux Antonins (Paris; 2nd ed. 1878), ii. 238-304 (1st ed. 1874).
+
+Hatch (E.), The Organization of the Early Christian Churches: The Bampton Lectures for 1880 (London; 2nd ed. 1882); see especially Lecture ii., "Bishops and Deacons," pp. 26-32; German ed. Die Gesellschaftsverfassung der christlichen Kirchen in Althertum (1883), p. 20; see this for additional literature.
+
+Newmann (K. J.), "thiasutai Iesou","art. in Jahrbb. fur prot. Theol. (Leipzig, etc.; 1885), pp. 123-125.
+
+Schurer (E.), A History of the Jewish People in the Time of Jesus Christ, Eng. tr. (Edinburgh; 1893), Div. ii. vol. ii. pp. 255 and 300. Owen (J.), "On the Organization of the Early Church," an Introductory Essay to the English translation of Harnack's Sources of the Apostolic Canons (London; 1895).
+
+Anst (E.), Die Religion der Romer; vol. xiii. Darstellungen aus dem Gebiete der nichtchristlichen Religionsgeschichte (Munster i. W.; 1899).
+
+[p. 159]
+
+See also Whiston and Wayte's art. "Arvales Fratres," and Moyle's arts. "Collegium" and "Universitas," in Smith, Wayte and Marindin's Diet. of Greek and Roman Antiquities (London; 3rd ed. 1890-1891); and also, of course, the arts. "Collegium" and "Sodalitas" in Pauly's Realencyclopadie der classichen Alterthumswissenschaft, though they are now somewhat out of date.
