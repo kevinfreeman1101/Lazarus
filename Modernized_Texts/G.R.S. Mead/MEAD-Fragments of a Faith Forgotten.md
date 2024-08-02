@@ -10,6 +10,8 @@ by George Robert Stow Mead
 
 2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
 
+-------------
+
 ## CONTENTS
 - [Fragments of a Faith Forgotten](#fragments-of-a-faith-forgotten)
   - [CONTENTS](#contents)

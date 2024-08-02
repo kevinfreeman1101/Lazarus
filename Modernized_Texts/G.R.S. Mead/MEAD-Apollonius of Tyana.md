@@ -10,7 +10,7 @@ by George Robert Stowe Mead
 
 2024: Modernized by ChatGPT-4o; Edited/Revised by Kevin L. Freeman
 
-_____________________________;
+--------------------
 
 Note to the Reader: Footnotes are not yet linked; this functionality will be available in a future update.
 

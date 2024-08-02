@@ -14,6 +14,8 @@ There are many who love the life of the spirit, and who long for the light of gn
 
 The references in this volume are to the published work--Thrice Greatest Hermes: Studies in Hellenistic Theosophy and Gnosis; a Translation of the Extant Sermons and Fragments of the Trismegistic Literature, with Prolegomena, Commentaries and Notes (3 volumes)
 
+--------------
+
 ## Volume 1
 
 For a long time, I've spent much of my time immersed in a world of profound thought and pure emotion, created by the devotion and intelligence of an ancient theosophical fraternity. These individuals, who called themselves disciples of thrice-great Hermes, sometimes referred to their faith as the "religion of the mind." They existed before and during the early centuries of Christianity, living in Egypt. Recent efforts have made their scriptures and endeavors accessible in English, allowing me to reproduce and interpret their thoughts. After many months of work, the task is complete, and the teachings of thrice-great Hermes can now be heard more clearly in English than ever before.
