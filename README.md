@@ -4,7 +4,7 @@ Operation Lazarus is a digital library of modernized, summarized, and expanded v
 
 In accordance with the open source philosophy, all modernized base texts will be made available to the public for free. Additional file formats and expanded texts with added graphics, historical context, commentary, and analysis - along with audiobooks, merch, and additional benefits - will also be available to Patreon sponsors.
 
-Development is proceeding rapidly. The first batch of publications will be made available on or before August 1, 2024
+Development is proceeding rapidly.
 
 ## Support This Work
 

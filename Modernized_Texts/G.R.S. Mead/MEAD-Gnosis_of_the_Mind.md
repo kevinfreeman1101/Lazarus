@@ -185,3 +185,5 @@ Of such lovers and knowledgeable ones, we read:
 > Thus, he began to preach to others about the beauty of devotion and knowledge, for he could not keep silent after becoming a knower and doer of the word. He no longer prays for himself but for the enlightenment and life of all humanity, saying, "Listen to my prayer that I may never lack knowledge, which is the essence of our being. Fill me with your power and grace so that I may bring light to those who are ignorant, my brothers, and your children.
 
 With these brief insights into the knowledge of the mind, taken from many similar noble teachings, we conclude the first volume of these reflections on that knowledge, hoping that some readers will turn to the original sources to read, understand, and deeply absorb them.
+
+/mnt/Egg/repos/my_repos/Lazarus/Modernized_Texts/G.R.S. Mead/MEAD-Gnosis_of_the_Mind.md
